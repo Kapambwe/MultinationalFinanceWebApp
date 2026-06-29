@@ -1,0 +1,22 @@
+[
+  {
+    "programName": "Time-bound development program",
+    "startDate": "2026-01-01",
+    "endDate": "2028-12-31",
+    "renewalPolicy": "Review before expiry"
+  },
+  {
+    "programName": "Regional Guarantee Window",
+    "bank": "African Development Bank",
+    "startDate": "2026-04-01",
+    "endDate": "2028-03-31",
+    "renewalPolicy": "Renew on performance review"
+  },
+  {
+    "programName": "Investment Readiness Program",
+    "bank": "International Finance Corporation",
+    "startDate": "2026-05-01",
+    "endDate": "2027-05-01",
+    "renewalPolicy": "Extend subject to pipeline demand"
+  }
+]

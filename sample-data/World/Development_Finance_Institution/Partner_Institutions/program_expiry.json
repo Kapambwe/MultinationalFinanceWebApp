@@ -1,0 +1,23 @@
+[
+  {
+    "programName": "Partner institution support",
+    "bank": "African Development Bank",
+    "startDate": "2026-01-01",
+    "endDate": "2029-12-31",
+    "renewalPolicy": "Subject to partner review"
+  },
+  {
+    "programName": "Co-financing participation",
+    "bank": "European Investment Bank",
+    "startDate": "2026-01-01",
+    "endDate": "2029-12-31",
+    "renewalPolicy": "Subject to renewal by partner institutions"
+  },
+  {
+    "programName": "Time-bound development program",
+    "bank": "World Bank Group",
+    "startDate": "2026-01-01",
+    "endDate": "2028-12-31",
+    "renewalPolicy": "Review before expiry"
+  }
+]

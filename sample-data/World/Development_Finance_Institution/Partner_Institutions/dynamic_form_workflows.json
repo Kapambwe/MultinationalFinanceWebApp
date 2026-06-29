@@ -1,0 +1,11 @@
+[
+  {
+    "workflowName": "Partner institution approval",
+    "steps": [
+      "Submission",
+      "Review",
+      "Approval",
+      "Partnership activation"
+    ]
+  }
+]

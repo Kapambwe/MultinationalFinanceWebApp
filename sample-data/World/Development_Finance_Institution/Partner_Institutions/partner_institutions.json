@@ -1,0 +1,27 @@
+[
+  {
+    "name": "African Development Bank",
+    "role": "Partner institution",
+    "focus": "Capital and guarantees"
+  },
+  {
+    "name": "European Investment Bank",
+    "role": "Partner institution",
+    "focus": "Long-term finance"
+  },
+  {
+    "name": "International Finance Corporation",
+    "role": "Partner institution",
+    "focus": "Private sector finance"
+  },
+  {
+    "name": "World Bank Group",
+    "role": "Partner institution",
+    "focus": "Policy support and blended finance"
+  },
+  {
+    "name": "African Export-Import Bank",
+    "role": "Partner institution",
+    "focus": "Trade finance and market expansion"
+  }
+]

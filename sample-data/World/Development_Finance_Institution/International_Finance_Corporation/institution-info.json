@@ -1,0 +1,17 @@
+{
+  "registrationNumber": "REG-IFC-001",
+  "contactEmail": "info@ifc.org",
+  "createdAt": "1956-07-24T00:00:00Z",
+  "branches": 60,
+  "institutionType": "Development_Finance_Institution",
+  "institutionName": "International_Finance_Corporation",
+  "continent": "World",
+  "established": 1956,
+  "employees": 3500,
+  "contactPhone": "+12024734111",
+  "headquarters": "Washington, D.C.",
+  "institutionId": "ifc-0001",
+  "currency": "USD",
+  "status": "Active",
+  "website": "https://www.ifc.org/"
+}

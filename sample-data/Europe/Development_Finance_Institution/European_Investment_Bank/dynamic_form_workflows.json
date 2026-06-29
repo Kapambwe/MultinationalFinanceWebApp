@@ -1,0 +1,10 @@
+[
+  {
+    "workflowName": "Partner Program Approval",
+    "steps": [
+      "Submission",
+      "Validation",
+      "Approval"
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "International Fund for Agricultural Development",
+    "role": "Lead partner",
+    "focus": "Agricultural value chains and rural transformation",
+    "country": "Global"
+  },
+  {
+    "name": "World Bank Group",
+    "role": "Development partner",
+    "focus": "Policy support and blended finance",
+    "country": "World"
+  },
+  {
+    "name": "European Investment Bank",
+    "role": "Financing partner",
+    "focus": "Long-term capital and technical assistance",
+    "country": "Europe"
+  },
+  {
+    "name": "African Development Bank",
+    "role": "Financing partner",
+    "focus": "Regional agricultural finance and guarantees",
+    "country": "Africa"
+  },
+  {
+    "name": "Government of Zambia",
+    "role": "Government partner",
+    "focus": "Country-led implementation and coordination",
+    "country": "Zambia"
+  }
+]

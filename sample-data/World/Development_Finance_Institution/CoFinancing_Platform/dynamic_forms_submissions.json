@@ -1,0 +1,13 @@
+[
+  {
+    "id": "cofin-form-001",
+    "continent": "World",
+    "institutionType": "Development_Finance_Institution",
+    "institutionName": "CoFinancing_Platform",
+    "formName": "Partner onboarding form",
+    "applicant": "European Investment Bank",
+    "status": "Pending review",
+    "submittedAt": "2026-06-26T13:00:00Z",
+    "notes": "Partner due diligence required."
+  }
+]

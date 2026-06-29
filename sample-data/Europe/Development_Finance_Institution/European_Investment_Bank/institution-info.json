@@ -1,0 +1,17 @@
+{
+  "registrationNumber": "REG-EIB-001",
+  "contactEmail": "info@eib.org",
+  "createdAt": "1958-01-01T00:00:00Z",
+  "branches": 32,
+  "institutionType": "Development_Finance_Institution",
+  "institutionName": "European_Investment_Bank",
+  "continent": "Europe",
+  "established": 1958,
+  "employees": 4500,
+  "contactPhone": "+35243791",
+  "headquarters": "Luxembourg",
+  "institutionId": "eib-0001",
+  "currency": "EUR",
+  "status": "Active",
+  "website": "https://www.eib.org/"
+}

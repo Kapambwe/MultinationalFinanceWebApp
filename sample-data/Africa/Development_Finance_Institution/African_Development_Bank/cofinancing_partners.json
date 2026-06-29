@@ -1,0 +1,14 @@
+[
+  {
+    "partner": "World Bank Group",
+    "country": "World",
+    "role": "Co-financer",
+    "status": "Active"
+  },
+  {
+    "partner": "European Investment Bank",
+    "country": "Europe",
+    "role": "Co-financer",
+    "status": "Active"
+  }
+]
