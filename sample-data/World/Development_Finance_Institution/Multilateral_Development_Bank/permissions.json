@@ -1,0 +1,24 @@
+{
+  "permissions": [
+    "App.Access",
+    "MultinationalFinance.Access",
+    "MultinationalFinance.Dashboard.View",
+    "MultinationalFinance.MultilateralDevelopmentBank.View",
+    "MultinationalFinance.ProjectPipeline.View",
+    "MultinationalFinance.CoFinancing.View",
+    "MultinationalFinance.SovereignRisk.View",
+    "MultinationalFinance.DynamicForms.View",
+    "MultinationalFinance.DynamicForms.Review",
+    "MultinationalFinance.DigitalTokens.View",
+    "MultinationalFinance.MarketAccess.View",
+    "Banking.Access",
+    "Banking.Regulatory.View",
+    "Banking.DynamicForms.View",
+    "Banking.DynamicForms.ViewQueue",
+    "Banking.DynamicForms.Review",
+    "Banking.DynamicForms.ViewDesigner",
+    "Banking.DynamicForms.ViewHistory",
+    "Banking.VentureCapital.View",
+    "Banking.Insurance.View"
+  ]
+}
