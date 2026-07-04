@@ -2,13 +2,13 @@
   {
     "partner": "African Development Bank",
     "country": "Africa",
-    "role": "Co-financer",
+    "role": "Lead arranger",
     "status": "Active"
   },
   {
     "partner": "European Investment Bank",
     "country": "Europe",
-    "role": "Co-financer",
+    "role": "Catalytic partner",
     "status": "Active"
   }
 ]

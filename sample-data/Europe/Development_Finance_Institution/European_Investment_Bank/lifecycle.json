@@ -1,0 +1,29 @@
+{
+  "institutionType": "Development_Finance_Institution",
+  "title": "European Investment Bank Lifecycle",
+  "description": "Green finance, infrastructure investment, blending, and partner-led execution.",
+  "stageCounts": {
+    "originate": 10,
+    "screen": 9,
+    "direct-fund": 8,
+    "partner-fund": 12,
+    "co-finance": 13,
+    "review": 11,
+    "approve": 9,
+    "disburse": 6,
+    "monitor": 10,
+    "report": 5
+  },
+  "stages": [
+    { "key": "originate", "title": "Originate", "description": "Infrastructure and climate origination", "targetPath": "/pipeline", "icon": "map", "visibleRoles": ["Admin", "Country Director", "Investment Officer"] },
+    { "key": "screen", "title": "Screen", "description": "Eligibility and sustainability screening", "targetPath": "/dynamic-forms/review", "icon": "rule", "visibleRoles": ["Admin", "Risk Analyst", "Investment Officer"] },
+    { "key": "direct-fund", "title": "Direct Fund", "description": "Direct lending and guarantee support", "targetPath": "/country-dfi", "icon": "payments", "visibleRoles": ["Admin", "Finance Manager", "Credit Analyst"] },
+    { "key": "partner-fund", "title": "Partner Fund", "description": "Partner institution lending", "targetPath": "/cofinancing", "icon": "handshake", "visibleRoles": ["Admin", "Partnership Manager"] },
+    { "key": "co-finance", "title": "Co-finance", "description": "EU and multilateral co-financing", "targetPath": "/cofinancing", "icon": "account_tree", "visibleRoles": ["Admin", "Partnership Manager", "Finance Manager"] },
+    { "key": "review", "title": "Review", "description": "Technical and legal review", "targetPath": "/regulatory/compliance-controls/application-review", "icon": "rate_review", "visibleRoles": ["Admin", "Legal Counsel", "Risk Officer"] },
+    { "key": "approve", "title": "Approve", "description": "Investment committee approval", "targetPath": "/regulatory/compliance-controls/application-review", "icon": "fact_check", "visibleRoles": ["Admin", "Investment Committee", "Risk Officer"] },
+    { "key": "disburse", "title": "Disburse", "description": "Milestone-based funding release", "targetPath": "/country-dfi", "icon": "local_atm", "visibleRoles": ["Admin", "Finance Manager"] },
+    { "key": "monitor", "title": "Monitor", "description": "Climate, safeguard, and financial monitoring", "targetPath": "/sovereign-risk", "icon": "analytics", "visibleRoles": ["Admin", "Risk Officer", "Portfolio Manager"] },
+    { "key": "report", "title": "Report", "description": "EU reporting and project audit trail", "targetPath": "/development-finance/lifecycle", "icon": "description", "visibleRoles": ["Admin", "Finance Manager", "Portfolio Manager"] }
+  ]
+}

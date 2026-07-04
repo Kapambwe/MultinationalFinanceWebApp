@@ -1,0 +1,23 @@
+{
+  "institutionType": "Development_Finance_Institution",
+  "title": "United Nations Development Agency Lifecycle",
+  "description": "Programme design, partner coordination, grants, implementation, and monitoring lifecycle.",
+  "stageCounts": {
+    "design": 9,
+    "partner-fund": 10,
+    "grant": 8,
+    "implement": 11,
+    "network-analysis": 7,
+    "monitor": 10,
+    "report": 5
+  },
+  "stages": [
+    { "key": "design", "title": "Design", "description": "Programme and intervention design", "targetPath": "/dynamic-forms", "icon": "design_services", "visibleRoles": ["Admin", "Programme Manager"] },
+    { "key": "partner-fund", "title": "Partner Fund", "description": "Coordination with partner agencies", "targetPath": "/cofinancing", "icon": "handshake", "visibleRoles": ["Admin", "Partnership Manager", "Programme Manager"] },
+    { "key": "grant", "title": "Grant", "description": "Grant allocation and control", "targetPath": "/country-dfi", "icon": "payments", "visibleRoles": ["Admin", "Finance Manager"] },
+    { "key": "implement", "title": "Implement", "description": "Field implementation and delivery", "targetPath": "/country-dfi", "icon": "construction", "visibleRoles": ["Admin", "Programme Manager", "Operations Officer"] },
+    { "key": "network-analysis", "title": "Network Analysis", "description": "Partner, beneficiary, and delivery network analysis", "targetPath": "/network-analysis", "icon": "hub", "visibleRoles": ["Admin", "Risk Officer", "Programme Manager"] },
+    { "key": "monitor", "title": "Monitor", "description": "Implementation monitoring and safeguards", "targetPath": "/country-dfi", "icon": "analytics", "visibleRoles": ["Admin", "Risk Officer", "Programme Manager"] },
+    { "key": "report", "title": "Report", "description": "Results reporting and governance", "targetPath": "/development-finance/lifecycle", "icon": "description", "visibleRoles": ["Admin", "Programme Manager", "Finance Manager"] }
+  ]
+}

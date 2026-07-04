@@ -1,0 +1,99 @@
+{
+  "institutionType": "Development_Finance_Institution",
+  "title": "Multinational Development Finance Lifecycle",
+  "description": "Direct funding, partner-led financing, co-financing, and cross-border portfolio lifecycle.",
+  "stageCounts": {
+    "originate": 14,
+    "screen": 12,
+    "direct-fund": 8,
+    "partner-fund": 10,
+    "co-finance": 9,
+    "review": 11,
+    "approve": 7,
+    "disburse": 6,
+    "monitor": 9,
+    "report": 4
+  },
+  "stages": [
+    {
+      "key": "originate",
+      "title": "Originate",
+      "description": "Country strategy and project origination",
+      "targetPath": "/dynamic-forms",
+      "icon": "dynamic_form",
+      "visibleRoles": ["Admin", "Project Manager", "Country Manager"]
+    },
+    {
+      "key": "screen",
+      "title": "Screen",
+      "description": "Investment screening and pipeline qualification",
+      "targetPath": "/dynamic-forms/review",
+      "icon": "rule",
+      "visibleRoles": ["Admin", "Project Manager", "Investment Officer"]
+    },
+    {
+      "key": "direct-fund",
+      "title": "Direct Fund",
+      "description": "Direct sovereign or project funding",
+      "targetPath": "/country-dfi",
+      "icon": "payments",
+      "visibleRoles": ["Admin", "Finance Manager", "Credit Analyst"]
+    },
+    {
+      "key": "partner-fund",
+      "title": "Partner Fund",
+      "description": "Funding through partner institutions",
+      "targetPath": "/country-dfi",
+      "icon": "handshake",
+      "visibleRoles": ["Admin", "Partnership Manager", "Finance Manager"]
+    },
+    {
+      "key": "co-finance",
+      "title": "Co-finance",
+      "description": "Blended and co-financing arrangements",
+      "targetPath": "/country-dfi",
+      "icon": "account_tree",
+      "visibleRoles": ["Admin", "Partnership Manager", "Portfolio Manager"]
+    },
+    {
+      "key": "review",
+      "title": "Review",
+      "description": "Technical, legal, and due diligence review",
+      "targetPath": "/regulatory/compliance-controls/application-review",
+      "icon": "rate_review",
+      "visibleRoles": ["Admin", "Legal Counsel", "Credit Analyst"]
+    },
+    {
+      "key": "approve",
+      "title": "Approve",
+      "description": "Investment committee and partner approval",
+      "targetPath": "/regulatory/compliance-controls/application-review",
+      "icon": "fact_check",
+      "visibleRoles": ["Admin", "Investment Committee", "Risk Officer"]
+    },
+    {
+      "key": "disburse",
+      "title": "Disburse",
+      "description": "Direct or partner-led disbursement",
+      "targetPath": "/country-dfi",
+      "icon": "local_atm",
+      "visibleRoles": ["Admin", "Finance Manager", "Disbursement Officer"]
+    },
+    {
+      "key": "monitor",
+      "title": "Monitor",
+      "description": "Cross-border monitoring and risk controls",
+      "targetPath": "/country-dfi",
+      "icon": "analytics",
+      "visibleRoles": ["Admin", "Risk Officer", "Portfolio Manager"]
+    },
+    {
+      "key": "report",
+      "title": "Report",
+      "description": "Partner reporting and audit trail",
+      "targetPath": "/development-finance/lifecycle",
+      "icon": "description",
+      "visibleRoles": ["Admin", "Portfolio Manager", "Finance Manager"]
+    }
+  ]
+}

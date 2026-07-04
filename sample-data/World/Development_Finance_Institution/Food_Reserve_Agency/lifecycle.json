@@ -1,0 +1,25 @@
+{
+  "institutionType": "Development_Finance_Institution",
+  "title": "Food Reserve Agency Lifecycle",
+  "description": "Food security procurement, storage, release, and market stabilization lifecycle.",
+  "stageCounts": {
+    "originate": 8,
+    "screen": 7,
+    "procure": 10,
+    "store": 9,
+    "release": 8,
+    "network-analysis": 6,
+    "monitor": 9,
+    "report": 4
+  },
+  "stages": [
+    { "key": "originate", "title": "Originate", "description": "Capture national food reserve requirements", "targetPath": "/dynamic-forms", "icon": "dynamic_form", "visibleRoles": ["Admin", "Programme Manager"] },
+    { "key": "screen", "title": "Screen", "description": "Supplier and crop screening", "targetPath": "/dynamic-forms/review", "icon": "rule", "visibleRoles": ["Admin", "Procurement Officer", "Compliance Officer"] },
+    { "key": "procure", "title": "Procure", "description": "Procurement and contracting", "targetPath": "/country-dfi", "icon": "shopping_cart", "visibleRoles": ["Admin", "Procurement Officer", "Finance Manager"] },
+    { "key": "store", "title": "Store", "description": "Inventory receipt and warehouse storage", "targetPath": "/country-dfi", "icon": "inventory", "visibleRoles": ["Admin", "Operations Officer", "Warehouse Manager"] },
+    { "key": "release", "title": "Release", "description": "Stock release and dispatch", "targetPath": "/country-dfi", "icon": "local_shipping", "visibleRoles": ["Admin", "Operations Officer", "Programme Manager"] },
+    { "key": "network-analysis", "title": "Network Analysis", "description": "Supplier, depot, and distribution network analysis", "targetPath": "/network-analysis", "icon": "hub", "visibleRoles": ["Admin", "Risk Officer", "Operations Officer"] },
+    { "key": "monitor", "title": "Monitor", "description": "Inventory loss, quality, and market monitoring", "targetPath": "/country-dfi", "icon": "analytics", "visibleRoles": ["Admin", "Risk Officer", "Operations Officer"] },
+    { "key": "report", "title": "Report", "description": "Supply and audit reporting", "targetPath": "/development-finance/lifecycle", "icon": "description", "visibleRoles": ["Admin", "Finance Manager"] }
+  ]
+}
