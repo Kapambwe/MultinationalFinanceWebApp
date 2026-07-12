@@ -1,0 +1,8 @@
+{
+  "permissions": [
+    "DevelopmentFinance.CountryDfi.View",
+    "DevelopmentFinance.DigitalTokens.View",
+    "DevelopmentFinance.NetworkAnalysis.View",
+    "DevelopmentFinance.ImplementationMonitoring.View"
+  ]
+}

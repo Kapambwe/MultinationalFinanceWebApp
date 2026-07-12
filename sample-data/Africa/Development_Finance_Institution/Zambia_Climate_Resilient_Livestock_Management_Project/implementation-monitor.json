@@ -1,0 +1,47 @@
+{
+  "institutionName": "Climate Resilient Livestock Management Project",
+  "title": "Implementation Monitor",
+  "description": "Tracks climate resilience, livestock infrastructure, pasture restoration, and farmer capacity outcomes for the AfDB-supported livestock project in Zambia.",
+  "requiredFiles": [
+    "institution-info.json",
+    "permissions.json",
+    "role-permissions.json",
+    "lifecycle.json",
+    "dynamic_forms_templates.json",
+    "dynamic_forms_submissions.json",
+    "dynamic_form_workflows.json",
+    "digital-tokens.json",
+    "beneficiary_organizations.json",
+    "verifiable-credentials.json",
+    "impact_metrics.json"
+  ],
+  "items": [
+    {
+      "key": "water-access",
+      "name": "Year-round water access for livestock",
+      "status": "Done",
+      "category": "Climate adaptation",
+      "beneficiaryOrganization": "Small livestock farmers",
+      "evidencePath": "impact_metrics.json",
+      "notes": "Households with enough water for animals increased from 48% to 89%."
+    },
+    {
+      "key": "milk-practices",
+      "name": "New production practices for milk",
+      "status": "Done",
+      "category": "Productivity",
+      "beneficiaryOrganization": "Musa Dairy Cooperative",
+      "evidencePath": "verifiable-credentials.json",
+      "notes": "96.7% of households adopted improved milk production practices."
+    },
+    {
+      "key": "pasture-restoration",
+      "name": "Pasture restoration and feed resilience",
+      "status": "Done",
+      "category": "Land restoration",
+      "beneficiaryOrganization": "Women’s livestock groups",
+      "evidencePath": "impact_metrics.json",
+      "notes": "Degraded meadows restored and sustainable pasture established."
+    }
+  ]
+}

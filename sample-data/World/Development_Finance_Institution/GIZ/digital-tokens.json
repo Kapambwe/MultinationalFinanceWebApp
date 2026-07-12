@@ -1,0 +1,15 @@
+[
+  {
+    "id": "giz-token-001",
+    "name": "Technical Cooperation Token",
+    "status": "Issued",
+    "purpose": "Track cooperation milestones"
+  },
+  {
+    "id": "giz-token-002",
+    "name": "Capacity Support Token",
+    "status": "Pending",
+    "purpose": "Track technical assistance delivery"
+  }
+]
+

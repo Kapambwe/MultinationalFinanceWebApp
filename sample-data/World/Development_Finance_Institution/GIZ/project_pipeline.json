@@ -1,0 +1,15 @@
+[
+  {
+    "id": "giz-pipeline-001",
+    "name": "Country Cooperation Program",
+    "stage": "Review",
+    "country": "Multiple"
+  },
+  {
+    "id": "giz-pipeline-002",
+    "name": "Implementation Support Track",
+    "stage": "Monitor",
+    "country": "Multiple"
+  }
+]
+

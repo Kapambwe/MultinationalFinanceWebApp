@@ -1,0 +1,12 @@
+[
+  { "metricName": "Registered livestock-keeping groups", "value": 248 },
+  { "metricName": "Direct household beneficiaries", "value": 100000 },
+  { "metricName": "Female-headed households", "value": 33600 },
+  { "metricName": "Indirect livestock households", "value": 90000 },
+  { "metricName": "Indirect people reached", "value": 800000 },
+  { "metricName": "Women reached", "value": 400000 },
+  { "metricName": "Youth reached", "value": 70000 },
+  { "metricName": "Permanent jobs created", "value": 120 },
+  { "metricName": "Seasonal jobs created", "value": 18000 },
+  { "metricName": "Indirect seasonal jobs", "value": 60000 }
+]

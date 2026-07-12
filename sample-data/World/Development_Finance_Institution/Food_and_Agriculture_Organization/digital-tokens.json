@@ -1,0 +1,15 @@
+[
+  {
+    "id": "fao-token-001",
+    "name": "Food Security Outcome Token",
+    "status": "Issued",
+    "purpose": "Track verified food security outcomes"
+  },
+  {
+    "id": "fao-token-002",
+    "name": "Climate Resilience Token",
+    "status": "Pending",
+    "purpose": "Support climate-smart agriculture delivery"
+  }
+]
+

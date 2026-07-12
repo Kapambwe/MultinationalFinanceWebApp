@@ -1,0 +1,46 @@
+{
+  "institutionName": "Sustainable Livestock Infrastructure Management Project",
+  "title": "Implementation Monitor",
+  "description": "Tracks infrastructure, productivity, commercialisation, and institutional support for sustainable livestock value chain development in Zambia.",
+  "requiredFiles": [
+    "institution-info.json",
+    "permissions.json",
+    "role-permissions.json",
+    "lifecycle.json",
+    "dynamic_forms_templates.json",
+    "dynamic_forms_submissions.json",
+    "dynamic_form_workflows.json",
+    "digital-tokens.json",
+    "beneficiary_organizations.json",
+    "verifiable-credentials.json"
+  ],
+  "items": [
+    {
+      "key": "livestock-productivity",
+      "name": "Climate resilient livestock production",
+      "status": "Done",
+      "category": "TAAT-based productivity",
+      "beneficiaryOrganization": "Registered livestock-keeping groups",
+      "evidencePath": "verifiable-credentials.json",
+      "notes": "Improved production systems and productivity support."
+    },
+    {
+      "key": "infrastructure-commercialisation",
+      "name": "Infrastructure development and commercialisation",
+      "status": "Partial",
+      "category": "Infrastructure",
+      "beneficiaryOrganization": "Participating Districts",
+      "evidencePath": "digital-tokens.json",
+      "notes": "Infrastructure assets are being developed and commercialised."
+    },
+    {
+      "key": "institutional-support",
+      "name": "Institutional support and capacity building",
+      "status": "Done",
+      "category": "Capacity building",
+      "beneficiaryOrganization": "Livestock keeping youth groups",
+      "evidencePath": "dynamic_forms_templates.json",
+      "notes": "Institutional strengthening and farmer organisation support."
+    }
+  ]
+}

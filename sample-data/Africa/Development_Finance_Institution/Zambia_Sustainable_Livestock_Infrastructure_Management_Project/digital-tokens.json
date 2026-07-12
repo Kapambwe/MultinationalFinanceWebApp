@@ -1,0 +1,42 @@
+[
+  {
+    "id": "slimp-gt-001",
+    "tokenType": "GuaranteeToken",
+    "name": "Livestock infrastructure support token",
+    "tokenName": "Livestock infrastructure support token",
+    "status": "Approved",
+    "industry": "Development Finance",
+    "issuer": "Sustainable Livestock Infrastructure Management Project",
+    "issuerType": "DFI",
+    "instrument": "Infrastructure and production support",
+    "issuedAt": "2026-07-11T09:00:00Z",
+    "route": "/digital-tokens/marketplace",
+    "useCase": "Livestock infrastructure development",
+    "visibility": "Financial Sector",
+    "isFinancialSectorInvestable": true,
+    "investmentAudience": "Development partners and commercial lenders",
+    "signatureChain": [
+      {
+        "step": "Project appraisal approved",
+        "signer": "Project Steering Committee",
+        "signerType": "DFI",
+        "role": "Approver",
+        "signedAt": "2026-07-11T08:15:00Z",
+        "method": "Policy signature",
+        "status": "Signed",
+        "verificationReference": "SLIMP-VC-001",
+        "did": "did:dfi:slimp"
+      }
+    ],
+    "ownershipHistory": [
+      {
+        "effectiveAt": "2026-07-11T09:00:00Z",
+        "holder": "Project Implementation Unit",
+        "holderType": "Institution",
+        "event": "Accepted",
+        "ownershipShare": "100%",
+        "reference": "SLIMP-OWN-001"
+      }
+    ]
+  }
+]

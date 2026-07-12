@@ -34,4 +34,5 @@ Multinational sample data follows the pattern:
 - This index reflects the service-compatible sample-data layout already used by the app.
 - Digital token bundles are now populated across the continent sample-data tree.
 - Verifiable credential bundles now include both issued credentials and credentials received from other institutions.
+- Zambia development finance livestock bundles are now included under the Africa root for multinational coverage.
 

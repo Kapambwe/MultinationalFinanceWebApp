@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Gaborone Youth Enterprise Hub",
+    "type": "Youth enterprise hub",
+    "benefit": "Receives startup finance and mentoring support"
+  },
+  {
+    "name": "Francistown SMME Cluster",
+    "type": "SMME cluster",
+    "benefit": "Receives growth capital and procurement access"
+  },
+  {
+    "name": "Molepolole Women Traders Cooperative",
+    "type": "Women-led cooperative",
+    "benefit": "Receives digital finance and inventory support"
+  }
+]

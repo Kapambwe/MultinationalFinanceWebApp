@@ -1,0 +1,10 @@
+{
+  "name": "Sustainable Livestock Infrastructure Management Project",
+  "description": "Livestock production, infrastructure management, commercialisation, and capacity building lifecycle.",
+  "stages": [
+    { "key": "originate", "title": "Originate", "description": "Programme design and stakeholder mobilisation", "targetPath": "/country-dfi", "icon": "article", "visibleRoles": ["Admin", "Programme Manager", "Risk Officer"] },
+    { "key": "build", "title": "Build", "description": "Infrastructure and production systems", "targetPath": "/development-finance/lifecycle", "icon": "construction", "visibleRoles": ["Admin", "Operations Officer", "Programme Manager"] },
+    { "key": "commercialise", "title": "Commercialise", "description": "Market access, commercialisation, and scale-up", "targetPath": "/digital-tokens/marketplace", "icon": "storefront", "visibleRoles": ["Admin", "Risk Officer", "Programme Manager"] },
+    { "key": "monitor", "title": "Monitor", "description": "Jobs, households, nutrition, and outcomes", "targetPath": "/implementation-monitor", "icon": "analytics", "visibleRoles": ["Admin", "Monitoring Officer"] }
+  ]
+}

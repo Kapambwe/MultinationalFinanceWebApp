@@ -1,0 +1,23 @@
+[
+  { "metricName": "Households with year-round water access for animals", "value": 89, "baseline": 48, "unit": "%" },
+  { "metricName": "Households adopting new milk production practices", "value": 96.7, "baseline": 0, "unit": "%" },
+  { "metricName": "Households able to make hay from pasture seed", "value": 122, "baseline": 0, "unit": "%" },
+  { "metricName": "Degraded meadows restored", "value": 3763, "unit": "hectares" },
+  { "metricName": "Livestock units distributed", "value": 5640, "unit": "units" },
+  { "metricName": "Sustainable pasture created", "value": 617, "unit": "hectares" },
+  { "metricName": "Fire-break roads constructed", "value": 112, "unit": "kilometres" },
+  { "metricName": "Village land-use plans developed", "value": 258, "unit": "plans" },
+  { "metricName": "Solar-powered boreholes installed", "value": 45, "unit": "boreholes" },
+  { "metricName": "Good practice manuals developed", "value": 10, "unit": "manuals" },
+  { "metricName": "Livestock farms equipped with biogas digesters", "value": 6, "unit": "farms" },
+  { "metricName": "Direct registered livestock-keeping groups", "value": 248, "unit": "groups" },
+  { "metricName": "Direct household beneficiaries", "value": 100000, "unit": "households" },
+  { "metricName": "Female-headed households", "value": 33600, "unit": "households" },
+  { "metricName": "Indirect livestock households", "value": 90000, "unit": "households" },
+  { "metricName": "Indirect people reached", "value": 800000, "unit": "people" },
+  { "metricName": "Women reached", "value": 400000, "unit": "people" },
+  { "metricName": "Youth reached", "value": 70000, "unit": "people" },
+  { "metricName": "Permanent jobs created", "value": 120, "unit": "jobs" },
+  { "metricName": "Seasonal jobs created", "value": 18000, "unit": "jobs" },
+  { "metricName": "Indirect seasonal jobs", "value": 60000, "unit": "jobs" }
+]

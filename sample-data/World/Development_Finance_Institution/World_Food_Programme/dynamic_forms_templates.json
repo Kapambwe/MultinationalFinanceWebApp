@@ -1,0 +1,17 @@
+[
+  {
+    "id": "wfp-emergency-intake",
+    "name": "Emergency Assistance Intake",
+    "description": "Capture emergency response and beneficiary support requirements.",
+    "category": "Emergency Response",
+    "status": "Published"
+  },
+  {
+    "id": "wfp-logistics-review",
+    "name": "Logistics and Supply Review",
+    "description": "Assess transport, warehousing, and food delivery logistics.",
+    "category": "Operations",
+    "status": "Published"
+  }
+]
+

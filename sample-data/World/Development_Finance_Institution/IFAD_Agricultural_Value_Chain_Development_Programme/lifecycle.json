@@ -1,0 +1,94 @@
+{
+  "institutionType": "Development_Finance_Institution",
+  "title": "IFAD Agricultural Value Chain Lifecycle",
+  "description": "Agricultural value chain origination, partner intake, rural finance review, approval, and monitoring.",
+  "stageCounts": {
+    "originate": 4,
+    "screen": 3,
+    "review": 3,
+    "approve": 2,
+    "monitor": 5,
+    "report": 4
+  },
+  "stageHistory": [
+    {
+      "stageKey": "originate",
+      "startedAt": "2026-06-01T08:00:00Z",
+      "completedAt": "2026-06-05T15:00:00Z",
+      "status": "Completed",
+      "owner": "Programme Design Team"
+    },
+    {
+      "stageKey": "screen",
+      "startedAt": "2026-06-05T15:15:00Z",
+      "completedAt": "2026-06-09T13:30:00Z",
+      "status": "Completed",
+      "owner": "Field Screening Unit"
+    },
+    {
+      "stageKey": "review",
+      "startedAt": "2026-06-09T14:00:00Z",
+      "completedAt": "2026-06-15T10:30:00Z",
+      "status": "Completed",
+      "owner": "Compliance Review Desk"
+    },
+    {
+      "stageKey": "approve",
+      "startedAt": "2026-06-15T11:00:00Z",
+      "completedAt": "2026-06-18T12:00:00Z",
+      "status": "Completed",
+      "owner": "Investment Committee"
+    },
+    {
+      "stageKey": "monitor",
+      "startedAt": "2026-06-18T12:30:00Z",
+      "completedAt": null,
+      "status": "Active",
+      "owner": "Portfolio Monitoring Team"
+    }
+  ],
+  "stages": [
+    {
+      "key": "originate",
+      "title": "Originate",
+      "description": "Programme design and field partner intake",
+      "targetPath": "/dynamic-forms",
+      "icon": "dynamic_form"
+    },
+    {
+      "key": "screen",
+      "title": "Screen",
+      "description": "Beneficiary and partner screening",
+      "targetPath": "/dynamic-forms/review",
+      "icon": "rule"
+    },
+    {
+      "key": "review",
+      "title": "Review",
+      "description": "Technical and compliance review",
+      "targetPath": "/regulatory/compliance-controls/application-review",
+      "icon": "rate_review"
+    },
+    {
+      "key": "approve",
+      "title": "Approve",
+      "description": "Programme and portfolio approval",
+      "targetPath": "/regulatory/compliance-controls/application-review",
+      "icon": "fact_check"
+    },
+    {
+      "key": "monitor",
+      "title": "Monitor",
+      "description": "Delivery tracking and rural outcome monitoring",
+      "targetPath": "/pipeline",
+      "icon": "analytics"
+    },
+    {
+      "key": "report",
+      "title": "Report",
+      "description": "Impact reporting and programme audit trail",
+      "targetPath": "/multinational-finance",
+      "icon": "description"
+    }
+  ]
+}

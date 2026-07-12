@@ -1,0 +1,22 @@
+{
+  "institutionType": "Development_Finance_Institution",
+  "title": "FAO Program Lifecycle",
+  "description": "Food systems, agricultural resilience, and country program lifecycle.",
+  "stageCounts": {
+    "originate": 4,
+    "screen": 3,
+    "review": 2,
+    "approve": 2,
+    "monitor": 6,
+    "report": 5
+  },
+  "stages": [
+    { "key": "originate", "title": "Originate", "description": "Country demand and program origination", "targetPath": "/dynamic-forms", "icon": "dynamic_form" },
+    { "key": "screen", "title": "Screen", "description": "Technical screening and eligibility checks", "targetPath": "/dynamic-forms/review", "icon": "rule" },
+    { "key": "review", "title": "Review", "description": "Policy, legal, and compliance review", "targetPath": "/regulatory/compliance-controls/application-review", "icon": "rate_review" },
+    { "key": "approve", "title": "Approve", "description": "Program approval and commitment", "targetPath": "/regulatory/compliance-controls/application-review", "icon": "fact_check" },
+    { "key": "monitor", "title": "Monitor", "description": "Implementation and outcomes monitoring", "targetPath": "/pipeline", "icon": "analytics" },
+    { "key": "report", "title": "Report", "description": "Reporting, assurance, and audit trail", "targetPath": "/multinational-finance", "icon": "description" }
+  ]
+}
+

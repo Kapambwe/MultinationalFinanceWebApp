@@ -1,0 +1,15 @@
+[
+  {
+    "id": "wfp-token-001",
+    "name": "Relief Distribution Token",
+    "status": "Issued",
+    "purpose": "Track emergency food distribution"
+  },
+  {
+    "id": "wfp-token-002",
+    "name": "Logistics Assurance Token",
+    "status": "Issued",
+    "purpose": "Track warehouse and delivery assurance"
+  }
+]
+

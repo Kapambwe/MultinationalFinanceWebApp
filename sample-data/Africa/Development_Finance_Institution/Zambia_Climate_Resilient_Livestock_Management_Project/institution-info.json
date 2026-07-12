@@ -1,0 +1,18 @@
+{
+  "registrationNumber": "REG-CRLMP-001",
+  "contactEmail": "crlmp@zambia.gov.zm",
+  "createdAt": "2017-01-01T00:00:00Z",
+  "branches": 9,
+  "institutionType": "Development Finance",
+  "institutionName": "Climate Resilient Livestock Management Project",
+  "country": "Zambia",
+  "established": 2017,
+  "employees": 61,
+  "contactPhone": "+260211000201",
+  "headquarters": "Lusaka",
+  "institutionId": "crlmp-0001",
+  "currency": "USD",
+  "status": "Completed",
+  "website": "https://example.org/crlmp",
+  "description": "An AfDB-supported climate-resilient livestock project implemented in Zambia between 2017 and 2022 to help small livestock farmers adapt to climate change and strengthen livestock-based livelihoods."
+}

@@ -1,0 +1,9 @@
+{
+  "permissions": [
+    "App.Access",
+    "ProjectPipeline.View",
+    "CoFinancing.View",
+    "MultilateralDevelopmentBank.View"
+  ]
+}
+

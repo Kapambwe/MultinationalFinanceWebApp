@@ -1,0 +1,29 @@
+{
+  "roles": [
+    {
+      "role": "Admin",
+      "permissions": [
+        "DevelopmentFinance.CountryDfi.View",
+        "DevelopmentFinance.DigitalTokens.View",
+        "DevelopmentFinance.NetworkAnalysis.View",
+        "DevelopmentFinance.ImplementationMonitoring.View"
+      ]
+    },
+    {
+      "role": "Programme Manager",
+      "permissions": [
+        "DevelopmentFinance.CountryDfi.View",
+        "DevelopmentFinance.DigitalTokens.View",
+        "DevelopmentFinance.ImplementationMonitoring.View"
+      ]
+    },
+    {
+      "role": "Monitoring Officer",
+      "permissions": [
+        "DevelopmentFinance.CountryDfi.View",
+        "DevelopmentFinance.DigitalTokens.View",
+        "DevelopmentFinance.ImplementationMonitoring.View"
+      ]
+    }
+  ]
+}

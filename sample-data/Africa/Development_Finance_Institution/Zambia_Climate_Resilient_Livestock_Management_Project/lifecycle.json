@@ -1,0 +1,10 @@
+{
+  "name": "Climate Resilient Livestock Management Project",
+  "description": "Project lifecycle covering climate adaptation, livestock production, pasture restoration, and farmer capacity building.",
+  "stages": [
+    { "key": "adaptation", "title": "Adaptation", "description": "Climate risk assessment and livestock adaptation planning", "targetPath": "/country-dfi", "icon": "wb_cloudy", "visibleRoles": ["Admin", "Programme Manager", "Risk Officer"] },
+    { "key": "infrastructure", "title": "Infrastructure", "description": "Boreholes, pasture restoration, fire-breaks, and livestock facilities", "targetPath": "/development-finance/lifecycle", "icon": "construction", "visibleRoles": ["Admin", "Operations Officer", "Programme Manager"] },
+    { "key": "restocking", "title": "Restocking", "description": "Pass-on-a-gift livestock restocking and farmer support", "targetPath": "/digital-tokens/marketplace", "icon": "groups", "visibleRoles": ["Admin", "Programme Manager", "Monitoring Officer"] },
+    { "key": "completion", "title": "Completion", "description": "Project completion reporting and results validation", "targetPath": "/implementation-monitor", "icon": "fact_check", "visibleRoles": ["Admin", "Monitoring Officer", "Risk Officer"] }
+  ]
+}

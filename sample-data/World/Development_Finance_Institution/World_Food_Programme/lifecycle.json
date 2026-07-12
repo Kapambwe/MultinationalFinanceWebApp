@@ -1,0 +1,24 @@
+{
+  "institutionType": "Development_Finance_Institution",
+  "title": "WFP Operations Lifecycle",
+  "description": "Food assistance, logistics, partner delivery, and program oversight lifecycle.",
+  "stageCounts": {
+    "originate": 6,
+    "screen": 4,
+    "review": 4,
+    "approve": 3,
+    "disburse": 8,
+    "monitor": 7,
+    "report": 6
+  },
+  "stages": [
+    { "key": "originate", "title": "Originate", "description": "Needs assessment and program creation", "targetPath": "/dynamic-forms", "icon": "dynamic_form" },
+    { "key": "screen", "title": "Screen", "description": "Eligibility and emergency screening", "targetPath": "/dynamic-forms/review", "icon": "rule" },
+    { "key": "review", "title": "Review", "description": "Supply, legal, and operational review", "targetPath": "/regulatory/compliance-controls/application-review", "icon": "rate_review" },
+    { "key": "approve", "title": "Approve", "description": "Approval and partner coordination", "targetPath": "/regulatory/compliance-controls/application-review", "icon": "fact_check" },
+    { "key": "disburse", "title": "Disburse", "description": "Food, logistics, and funding release", "targetPath": "/cofinancing", "icon": "local_atm" },
+    { "key": "monitor", "title": "Monitor", "description": "Field monitoring and delivery performance", "targetPath": "/pipeline", "icon": "analytics" },
+    { "key": "report", "title": "Report", "description": "Impact reporting and audit trail", "targetPath": "/multinational-finance", "icon": "description" }
+  ]
+}
+

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "giz-programme-intake",
+    "name": "Technical Cooperation Intake",
+    "description": "Capture country programme and partner cooperation details.",
+    "category": "Programme Design",
+    "status": "Published"
+  },
+  {
+    "id": "giz-implementation-review",
+    "name": "Implementation Review",
+    "description": "Review delivery progress and technical support requests.",
+    "category": "Operations",
+    "status": "Published"
+  }
+]
+

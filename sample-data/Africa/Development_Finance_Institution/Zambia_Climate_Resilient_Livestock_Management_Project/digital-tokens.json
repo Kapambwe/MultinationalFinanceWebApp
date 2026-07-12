@@ -1,0 +1,42 @@
+[
+  {
+    "id": "crlmp-gt-001",
+    "tokenType": "ImpactToken",
+    "name": "Climate resilience outcomes token",
+    "tokenName": "Climate resilience outcomes token",
+    "status": "Issued",
+    "industry": "Development Finance",
+    "issuer": "Climate Resilient Livestock Management Project",
+    "issuerType": "DFI",
+    "instrument": "Climate adaptation outcomes",
+    "issuedAt": "2023-11-02T09:00:00Z",
+    "route": "/digital-tokens/transactions",
+    "useCase": "Project completion reporting",
+    "visibility": "Institution",
+    "isFinancialSectorInvestable": false,
+    "investmentAudience": "Project teams and monitoring units",
+    "signatureChain": [
+      {
+        "step": "Completion report validated",
+        "signer": "Monitoring and Evaluation Unit",
+        "signerType": "Programme Team",
+        "role": "Verifier",
+        "signedAt": "2023-11-02T08:15:00Z",
+        "method": "Policy signature",
+        "status": "Signed",
+        "verificationReference": "CRLMP-VC-001",
+        "did": "did:dfi:crlmp"
+      }
+    ],
+    "ownershipHistory": [
+      {
+        "effectiveAt": "2023-11-02T09:00:00Z",
+        "holder": "Project Implementation Unit",
+        "holderType": "Institution",
+        "event": "Recorded",
+        "ownershipShare": "100%",
+        "reference": "CRLMP-OWN-001"
+      }
+    ]
+  }
+]

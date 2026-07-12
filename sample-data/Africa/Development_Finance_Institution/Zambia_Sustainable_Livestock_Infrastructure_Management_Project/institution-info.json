@@ -1,0 +1,18 @@
+{
+  "registrationNumber": "REG-SLIMP-001",
+  "contactEmail": "slimp@zambia.gov.zm",
+  "createdAt": "2018-01-01T00:00:00Z",
+  "branches": 10,
+  "institutionType": "Development Finance",
+  "institutionName": "Sustainable Livestock Infrastructure Management Project",
+  "country": "Zambia",
+  "established": 2018,
+  "employees": 58,
+  "contactPhone": "+260211000200",
+  "headquarters": "Lusaka",
+  "institutionId": "slimp-0001",
+  "currency": "UA",
+  "status": "Active",
+  "website": "https://example.org/slimp",
+  "description": "A stand-alone investment project for sustainable livestock value chain development, infrastructure commercialisation, and institutional support in Zambia."
+}

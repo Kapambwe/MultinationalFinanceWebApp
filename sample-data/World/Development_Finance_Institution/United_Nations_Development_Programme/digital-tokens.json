@@ -1,0 +1,15 @@
+[
+  {
+    "id": "undp-token-001",
+    "name": "Programme Outcome Token",
+    "status": "Issued",
+    "purpose": "Track verified programme outcomes"
+  },
+  {
+    "id": "undp-token-002",
+    "name": "Governance Assurance Token",
+    "status": "Pending",
+    "purpose": "Track governance and resilience assurances"
+  }
+]
+

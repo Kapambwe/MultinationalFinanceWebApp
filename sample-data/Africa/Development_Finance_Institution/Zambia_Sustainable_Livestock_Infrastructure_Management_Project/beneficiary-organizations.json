@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Registered livestock-keeping groups",
+    "sector": "Livestock",
+    "location": "Participating Districts",
+    "supportType": "Infrastructure access, productivity support, and commercialisation services",
+    "impactFocus": "Income generation, poverty reduction, and employment creation"
+  },
+  {
+    "name": "Female-headed livestock households",
+    "sector": "Household farming",
+    "location": "Participating Districts",
+    "supportType": "Targeted livestock services and nutrition support",
+    "impactFocus": "Household food security and women’s empowerment"
+  },
+  {
+    "name": "Livestock keeping youth groups",
+    "sector": "Youth enterprise",
+    "location": "Participating Districts",
+    "supportType": "Market linkage and enterprise support",
+    "impactFocus": "Youth employment and livestock value chain participation"
+  }
+]

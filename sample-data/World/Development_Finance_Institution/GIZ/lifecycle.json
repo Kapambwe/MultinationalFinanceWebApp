@@ -1,0 +1,22 @@
+{
+  "institutionType": "Development_Finance_Institution",
+  "title": "GIZ Program Lifecycle",
+  "description": "Technical cooperation, implementation support, and partnership lifecycle.",
+  "stageCounts": {
+    "originate": 3,
+    "screen": 3,
+    "review": 2,
+    "approve": 2,
+    "monitor": 5,
+    "report": 4
+  },
+  "stages": [
+    { "key": "originate", "title": "Originate", "description": "Programme design and partner intake", "targetPath": "/dynamic-forms", "icon": "dynamic_form" },
+    { "key": "screen", "title": "Screen", "description": "Partner and country screening", "targetPath": "/dynamic-forms/review", "icon": "rule" },
+    { "key": "review", "title": "Review", "description": "Technical and compliance review", "targetPath": "/regulatory/compliance-controls/application-review", "icon": "rate_review" },
+    { "key": "approve", "title": "Approve", "description": "Program approval and implementation plan", "targetPath": "/regulatory/compliance-controls/application-review", "icon": "fact_check" },
+    { "key": "monitor", "title": "Monitor", "description": "Delivery tracking and partner monitoring", "targetPath": "/pipeline", "icon": "analytics" },
+    { "key": "report", "title": "Report", "description": "Outcomes, audits, and reporting", "targetPath": "/multinational-finance", "icon": "description" }
+  ]
+}
+

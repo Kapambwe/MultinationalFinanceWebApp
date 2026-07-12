@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Small livestock farmers",
+    "sector": "Livestock",
+    "location": "Northern Province",
+    "supportType": "Climate adaptation, pasture access, and water infrastructure",
+    "impactFocus": "Improved incomes, food security, and resilience"
+  },
+  {
+    "name": "Musa Dairy Cooperative",
+    "sector": "Dairy",
+    "location": "Kasama District",
+    "supportType": "Pass-on-a-gift restocking and dairy productivity support",
+    "impactFocus": "Household income growth and child nutrition"
+  },
+  {
+    "name": "Women’s livestock groups",
+    "sector": "Community farming",
+    "location": "Northern and Muchinga provinces",
+    "supportType": "Training, restocking, and climate adaptation support",
+    "impactFocus": "Women’s empowerment and climate resilience"
+  }
+]

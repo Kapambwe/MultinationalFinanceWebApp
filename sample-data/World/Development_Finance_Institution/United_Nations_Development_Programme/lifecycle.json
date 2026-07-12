@@ -1,0 +1,22 @@
+{
+  "institutionType": "Development_Finance_Institution",
+  "title": "UNDP Country Programme Lifecycle",
+  "description": "Governance, resilience, and development programme lifecycle.",
+  "stageCounts": {
+    "originate": 5,
+    "screen": 4,
+    "review": 3,
+    "approve": 3,
+    "monitor": 6,
+    "report": 5
+  },
+  "stages": [
+    { "key": "originate", "title": "Originate", "description": "Country programme origination", "targetPath": "/dynamic-forms", "icon": "dynamic_form" },
+    { "key": "screen", "title": "Screen", "description": "Country and partner screening", "targetPath": "/dynamic-forms/review", "icon": "rule" },
+    { "key": "review", "title": "Review", "description": "Programmatic and compliance review", "targetPath": "/regulatory/compliance-controls/application-review", "icon": "rate_review" },
+    { "key": "approve", "title": "Approve", "description": "Programme approval and commitment", "targetPath": "/regulatory/compliance-controls/application-review", "icon": "fact_check" },
+    { "key": "monitor", "title": "Monitor", "description": "Programme implementation monitoring", "targetPath": "/pipeline", "icon": "analytics" },
+    { "key": "report", "title": "Report", "description": "Results reporting and learning", "targetPath": "/multinational-finance", "icon": "description" }
+  ]
+}
+
