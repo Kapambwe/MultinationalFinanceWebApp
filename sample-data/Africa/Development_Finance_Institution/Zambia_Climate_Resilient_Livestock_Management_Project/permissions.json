@@ -1,8 +1,8 @@
 {
   "permissions": [
-    "DevelopmentFinance.CountryDfi.View",
-    "DevelopmentFinance.DigitalTokens.View",
-    "DevelopmentFinance.NetworkAnalysis.View",
-    "DevelopmentFinance.ImplementationMonitoring.View"
+    "Banking.MDB.View",
+    "Banking.NetworkAnalysis.ViewDashboard",
+    "Banking.DynamicForms.View",
+    "Banking.DigitalTokens.View"
   ]
 }
