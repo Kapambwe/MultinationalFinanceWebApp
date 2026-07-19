@@ -1,0 +1,42 @@
+[
+  {
+    "entryId": "030e1db3-8c88-4424-878b-59252e0e90a1",
+    "tokenId": "6ce2e0d2-1c27-44a5-b59c-2a14c0c2a19f",
+    "tokenSymbol": "KFW-TOK-001",
+    "sequenceNumber": 1,
+    "fromOwnerName": "Genesis (Minted)",
+    "fromOwnerDid": "",
+    "fromWalletAddress": "",
+    "toOwnerName": "KfW Development Bank",
+    "toOwnerDid": "did:sample:kfw-issuer",
+    "toWalletAddress": "KFW_WALLET_001",
+    "quantity": 10000,
+    "transferPrice": 0,
+    "transferType": "Issuance",
+    "transferDate": "2026-01-15T00:00:00Z",
+    "txHash": "0xKFWMINT001",
+    "blockchain": "Ethereum",
+    "isCurrentOwner": false,
+    "kycVerificationRef": "KFW-KYC-ISSUER"
+  },
+  {
+    "entryId": "0b087871-6758-4187-b6aa-b2d784b6e94f",
+    "tokenId": "6ce2e0d2-1c27-44a5-b59c-2a14c0c2a19f",
+    "tokenSymbol": "KFW-TOK-001",
+    "sequenceNumber": 2,
+    "fromOwnerName": "KfW Development Bank",
+    "fromOwnerDid": "did:sample:kfw-issuer",
+    "fromWalletAddress": "KFW_WALLET_001",
+    "toOwnerName": "KfW Development Bank Portfolio Desk",
+    "toOwnerDid": "did:sample:kfw-portfolio",
+    "toWalletAddress": "KFW_WALLET_002",
+    "quantity": 5000,
+    "transferPrice": 10.1,
+    "transferType": "Transfer",
+    "transferDate": "2026-01-20T00:00:00Z",
+    "txHash": "0xKFWXFER001",
+    "blockchain": "Ethereum",
+    "isCurrentOwner": true,
+    "kycVerificationRef": "KFW-KYC-PORTFOLIO"
+  }
+]

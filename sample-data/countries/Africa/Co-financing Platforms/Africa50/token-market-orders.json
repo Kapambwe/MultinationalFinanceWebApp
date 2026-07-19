@@ -1,0 +1,44 @@
+[
+  {
+    "orderId": "5e61eb11-f652-4329-bc7e-33d6ceb62ae6",
+    "tokenSymbol": "AF50-TOK-001",
+    "orderType": "Limit",
+    "side": "Buy",
+    "quantity": 1000,
+    "limitPrice": 10.1,
+    "filledQuantity": 1000,
+    "filledPrice": 10.1,
+    "status": "Filled",
+    "createdAt": "2026-02-10T09:00:00Z",
+    "filledAt": "2026-02-10T09:02:00Z",
+    "placedBy": "Africa50 Portfolio Desk"
+  },
+  {
+    "orderId": "33553bd7-1d16-4ca7-9852-200e52331781",
+    "tokenSymbol": "AF50-TOK-002",
+    "orderType": "Limit",
+    "side": "Sell",
+    "quantity": 500,
+    "limitPrice": 25.5,
+    "filledQuantity": 0,
+    "filledPrice": 0,
+    "status": "Open",
+    "createdAt": "2026-02-11T10:00:00Z",
+    "filledAt": null,
+    "placedBy": "Africa50 Treasury Desk"
+  },
+  {
+    "orderId": "a41731d1-232b-4d72-a86a-53f6fc361fbc",
+    "tokenSymbol": "AF50-TOK-001",
+    "orderType": "Market",
+    "side": "Buy",
+    "quantity": 300,
+    "limitPrice": 0,
+    "filledQuantity": 300,
+    "filledPrice": 10.15,
+    "status": "Filled",
+    "createdAt": "2026-02-12T08:30:00Z",
+    "filledAt": "2026-02-12T08:30:05Z",
+    "placedBy": "Africa50 Market Access Desk"
+  }
+]

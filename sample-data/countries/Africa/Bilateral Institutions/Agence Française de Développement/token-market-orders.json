@@ -1,0 +1,44 @@
+[
+  {
+    "orderId": "2c5b3986-c7fd-4886-bbc1-55ff672ed190",
+    "tokenSymbol": "AFD-TOK-001",
+    "orderType": "Limit",
+    "side": "Buy",
+    "quantity": 1000,
+    "limitPrice": 10.1,
+    "filledQuantity": 1000,
+    "filledPrice": 10.1,
+    "status": "Filled",
+    "createdAt": "2026-02-10T09:00:00Z",
+    "filledAt": "2026-02-10T09:02:00Z",
+    "placedBy": "Agence Française de Développement Portfolio Desk"
+  },
+  {
+    "orderId": "c7b06eca-958f-40a2-a96e-258894fd7cdc",
+    "tokenSymbol": "AFD-TOK-002",
+    "orderType": "Limit",
+    "side": "Sell",
+    "quantity": 500,
+    "limitPrice": 25.5,
+    "filledQuantity": 0,
+    "filledPrice": 0,
+    "status": "Open",
+    "createdAt": "2026-02-11T10:00:00Z",
+    "filledAt": null,
+    "placedBy": "Agence Française de Développement Treasury Desk"
+  },
+  {
+    "orderId": "bc05e125-c707-4a5f-a799-d0a2452832b3",
+    "tokenSymbol": "AFD-TOK-001",
+    "orderType": "Market",
+    "side": "Buy",
+    "quantity": 300,
+    "limitPrice": 0,
+    "filledQuantity": 300,
+    "filledPrice": 10.15,
+    "status": "Filled",
+    "createdAt": "2026-02-12T08:30:00Z",
+    "filledAt": "2026-02-12T08:30:05Z",
+    "placedBy": "Agence Française de Développement Market Access Desk"
+  }
+]

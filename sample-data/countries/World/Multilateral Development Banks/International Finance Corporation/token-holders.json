@@ -1,0 +1,48 @@
+[
+  {
+    "holderId": "042f6fab-dca7-4975-bf04-8a97f30e5678",
+    "holderName": "GIZ Institutional Portfolio",
+    "holderType": "Institution",
+    "walletAddress": "GIZ_INST_WALLET_001",
+    "holdings": [
+      {
+        "currentValue": 102000,
+        "currentPrice": 10.2,
+        "quantity": 10000,
+        "tokenSymbol": "GIZ-TOK-001",
+        "tokenName": "GIZ Operating Token",
+        "acquiredDate": "2026-01-20T00:00:00Z",
+        "tokenId": "e49ed512-e923-42c8-a381-88d9789fa066",
+        "averageCost": 10.0,
+        "unrealizedPnL": 2000
+      }
+    ],
+    "totalPortfolioValue": 102000,
+    "registeredDate": "2026-01-20T00:00:00Z",
+    "kycStatus": "Approved",
+    "country": "Africa"
+  },
+  {
+    "holderId": "fab265ed-80ea-4653-ad54-79950ff7e2f4",
+    "holderName": "GIZ Retail Desk",
+    "holderType": "Fund",
+    "walletAddress": "GIZ_RETAIL_WALLET_001",
+    "holdings": [
+      {
+        "currentValue": 62750,
+        "currentPrice": 25.1,
+        "quantity": 2500,
+        "tokenSymbol": "GIZ-TOK-002",
+        "tokenName": "GIZ Reserve Token",
+        "acquiredDate": "2026-02-01T00:00:00Z",
+        "tokenId": "8a6395c2-2a21-437f-ba6e-feebf0917ae6",
+        "averageCost": 25.0,
+        "unrealizedPnL": 250
+      }
+    ],
+    "totalPortfolioValue": 62750,
+    "registeredDate": "2026-02-01T00:00:00Z",
+    "kycStatus": "Approved",
+    "country": "Africa"
+  }
+]

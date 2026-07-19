@@ -1,0 +1,42 @@
+[
+  {
+    "signatureId": "becde723-b02b-4cb3-b39f-956b96b92449",
+    "tokenId": "e49ed512-e923-42c8-a381-88d9789fa066",
+    "tokenSymbol": "GIZ-TOK-001",
+    "provenanceId": "e6d8a083-1e7e-40cb-8c53-4dd2e469c8a4",
+    "controller": "did:sample:giz-issuer",
+    "verificationMethod": "did:sample:giz-issuer#keys-1",
+    "proofType": "Ed25519Signature2020",
+    "proofPurpose": "assertionMethod",
+    "jws": "eyJhbGciOiJFZERTQSIsImtpZCI6InNhbXBsZSJ9.eyJwYXlsb2FkIjoiY3JlZGl0aWJsZSJ9.signature",
+    "created": "2026-01-15T00:00:00Z",
+    "domain": "giz.example.org",
+    "challenge": "24b2a803-00f0-43a6-b805-044f96b2cb6a",
+    "signedPayloadSummary": "GIZ minted its first operating token.",
+    "isValid": true,
+    "verifiedAt": "2026-01-15T00:05:00Z",
+    "verifiedBy": "Sample DID Resolver",
+    "signerOrganisation": "GIZ",
+    "signerRole": "Issuer"
+  },
+  {
+    "signatureId": "0b914d1e-4d32-4fe8-a2be-3d37005edcbf",
+    "tokenId": "e49ed512-e923-42c8-a381-88d9789fa066",
+    "tokenSymbol": "GIZ-TOK-001",
+    "provenanceId": "4605d35d-bc54-45cf-bbc6-e4eb82fbdf74",
+    "controller": "did:sample:giz-portfolio",
+    "verificationMethod": "did:sample:giz-portfolio#keys-1",
+    "proofType": "Ed25519Signature2020",
+    "proofPurpose": "authentication",
+    "jws": "eyJhbGciOiJFZERTQSIsImtpZCI6InNhbXBsZSJ9.eyJwYXlsb2FkIjoidHJhbnNmZXIifQ.signature",
+    "created": "2026-01-20T00:00:00Z",
+    "domain": "giz.example.org",
+    "challenge": "6ebbb067-8026-440c-a466-b70b8b097807",
+    "signedPayloadSummary": "GIZ portfolio desk accepted a token transfer.",
+    "isValid": true,
+    "verifiedAt": "2026-01-20T00:05:00Z",
+    "verifiedBy": "Sample DID Resolver",
+    "signerOrganisation": "GIZ Portfolio Desk",
+    "signerRole": "Holder"
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "roles": [
+    {
+      "role": "Admin",
+      "permissions": [
+        "Banking.MDB.View",
+        "Banking.Accounting.View",
+        "Banking.HumanResources.View",
+        "Banking.NetworkAnalysis.ViewDashboard",
+        "Banking.DynamicForms.View",
+        "Banking.DigitalTokens.View",
+        "Banking.VentureCapital.View",
+        "Banking.Insurance.View",
+        "Banking.Access"
+      ]
+    },
+    {
+      "role": "Programme Manager",
+      "permissions": [
+        "Banking.MDB.View",
+        "Banking.NetworkAnalysis.ViewDashboard",
+        "Banking.DynamicForms.View",
+        "Banking.DigitalTokens.View"
+      ]
+    },
+    {
+      "role": "Monitoring Officer",
+      "permissions": [
+        "Banking.MDB.View",
+        "Banking.NetworkAnalysis.ViewDashboard",
+        "Banking.DynamicForms.View",
+        "Banking.DigitalTokens.View"
+      ]
+    }
+  ]
+}

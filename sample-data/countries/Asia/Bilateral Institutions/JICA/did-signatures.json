@@ -1,0 +1,42 @@
+[
+  {
+    "signatureId": "ea57d10a-b13f-42d5-b21a-827ab5f624f9",
+    "tokenId": "ab7137df-d285-4d46-b2b4-1cd23d262847",
+    "tokenSymbol": "JICA-TOK-001",
+    "provenanceId": "2b1ce799-faf0-44eb-908b-284f9ec09218",
+    "controller": "did:sample:jica-issuer",
+    "verificationMethod": "did:sample:jica-issuer#keys-1",
+    "proofType": "Ed25519Signature2020",
+    "proofPurpose": "assertionMethod",
+    "jws": "eyJhbGciOiJFZERTQSIsImtpZCI6InNhbXBsZSJ9.eyJwYXlsb2FkIjoiY3JlZGl0aWJsZSJ9.signature",
+    "created": "2026-01-15T00:00:00Z",
+    "domain": "jica.example.org",
+    "challenge": "3b64f3e7-b01b-4c59-8b9e-765d02cac80a",
+    "signedPayloadSummary": "JICA minted its first operating token.",
+    "isValid": true,
+    "verifiedAt": "2026-01-15T00:05:00Z",
+    "verifiedBy": "Sample DID Resolver",
+    "signerOrganisation": "JICA",
+    "signerRole": "Issuer"
+  },
+  {
+    "signatureId": "1008d66e-3548-4f80-819e-2e04339acd4f",
+    "tokenId": "ab7137df-d285-4d46-b2b4-1cd23d262847",
+    "tokenSymbol": "JICA-TOK-001",
+    "provenanceId": "545b47c6-83ee-4ca1-a760-c199bed47392",
+    "controller": "did:sample:jica-portfolio",
+    "verificationMethod": "did:sample:jica-portfolio#keys-1",
+    "proofType": "Ed25519Signature2020",
+    "proofPurpose": "authentication",
+    "jws": "eyJhbGciOiJFZERTQSIsImtpZCI6InNhbXBsZSJ9.eyJwYXlsb2FkIjoidHJhbnNmZXIifQ.signature",
+    "created": "2026-01-20T00:00:00Z",
+    "domain": "jica.example.org",
+    "challenge": "26653199-ecd3-42e8-98f1-01042e0c9462",
+    "signedPayloadSummary": "JICA portfolio desk accepted a token transfer.",
+    "isValid": true,
+    "verifiedAt": "2026-01-20T00:05:00Z",
+    "verifiedBy": "Sample DID Resolver",
+    "signerOrganisation": "JICA Portfolio Desk",
+    "signerRole": "Holder"
+  }
+]

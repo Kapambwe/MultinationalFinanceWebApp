@@ -1,0 +1,42 @@
+[
+  {
+    "entryId": "090da457-08b7-4241-82b0-bfcb2a1c7d76",
+    "tokenId": "4d14ea71-3eac-4478-a1a6-f5224a97f6c3",
+    "tokenSymbol": "EBRD-TOK-001",
+    "sequenceNumber": 1,
+    "fromOwnerName": "Genesis (Minted)",
+    "fromOwnerDid": "",
+    "fromWalletAddress": "",
+    "toOwnerName": "European Bank for Reconstruction and Development",
+    "toOwnerDid": "did:sample:ebrd-issuer",
+    "toWalletAddress": "EBRD_WALLET_001",
+    "quantity": 10000,
+    "transferPrice": 0,
+    "transferType": "Issuance",
+    "transferDate": "2026-01-15T00:00:00Z",
+    "txHash": "0xEBRDMINT001",
+    "blockchain": "Ethereum",
+    "isCurrentOwner": false,
+    "kycVerificationRef": "EBRD-KYC-ISSUER"
+  },
+  {
+    "entryId": "16bca035-84d7-44ca-84d9-197e16545f09",
+    "tokenId": "4d14ea71-3eac-4478-a1a6-f5224a97f6c3",
+    "tokenSymbol": "EBRD-TOK-001",
+    "sequenceNumber": 2,
+    "fromOwnerName": "European Bank for Reconstruction and Development",
+    "fromOwnerDid": "did:sample:ebrd-issuer",
+    "fromWalletAddress": "EBRD_WALLET_001",
+    "toOwnerName": "European Bank for Reconstruction and Development Portfolio Desk",
+    "toOwnerDid": "did:sample:ebrd-portfolio",
+    "toWalletAddress": "EBRD_WALLET_002",
+    "quantity": 5000,
+    "transferPrice": 10.1,
+    "transferType": "Transfer",
+    "transferDate": "2026-01-20T00:00:00Z",
+    "txHash": "0xEBRDXFER001",
+    "blockchain": "Ethereum",
+    "isCurrentOwner": true,
+    "kycVerificationRef": "EBRD-KYC-PORTFOLIO"
+  }
+]

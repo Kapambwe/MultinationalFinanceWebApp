@@ -1,0 +1,48 @@
+[
+  {
+    "holderId": "9109fb62-d265-42fc-9874-67499ef19b65",
+    "holderName": "GIZ Development Bank Institutional Portfolio",
+    "holderType": "Institution",
+    "walletAddress": "GIZDB_INST_WALLET_001",
+    "holdings": [
+      {
+        "currentValue": 102000,
+        "currentPrice": 10.2,
+        "quantity": 10000,
+        "tokenSymbol": "GIZDB-TOK-001",
+        "tokenName": "GIZ Development Bank Operating Token",
+        "acquiredDate": "2026-01-20T00:00:00Z",
+        "tokenId": "2fb9c30f-f808-449c-8923-b266c39c9052",
+        "averageCost": 10.0,
+        "unrealizedPnL": 2000
+      }
+    ],
+    "totalPortfolioValue": 102000,
+    "registeredDate": "2026-01-20T00:00:00Z",
+    "kycStatus": "Approved",
+    "country": "Europe"
+  },
+  {
+    "holderId": "d017ec8a-c13d-4b61-bb0c-f1eb5c513d16",
+    "holderName": "GIZ Development Bank Retail Desk",
+    "holderType": "Fund",
+    "walletAddress": "GIZDB_RETAIL_WALLET_001",
+    "holdings": [
+      {
+        "currentValue": 62750,
+        "currentPrice": 25.1,
+        "quantity": 2500,
+        "tokenSymbol": "GIZDB-TOK-002",
+        "tokenName": "GIZ Development Bank Reserve Token",
+        "acquiredDate": "2026-02-01T00:00:00Z",
+        "tokenId": "0db8bc06-4c26-4f8a-8025-f9893d4c5829",
+        "averageCost": 25.0,
+        "unrealizedPnL": 250
+      }
+    ],
+    "totalPortfolioValue": 62750,
+    "registeredDate": "2026-02-01T00:00:00Z",
+    "kycStatus": "Approved",
+    "country": "Europe"
+  }
+]

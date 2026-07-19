@@ -1,0 +1,44 @@
+[
+  {
+    "orderId": "a86b4466-14a5-4c40-b71f-f1088ccae64f",
+    "tokenSymbol": "GFA-TOK-001",
+    "orderType": "Limit",
+    "side": "Buy",
+    "quantity": 1000,
+    "limitPrice": 10.1,
+    "filledQuantity": 1000,
+    "filledPrice": 10.1,
+    "status": "Filled",
+    "createdAt": "2026-02-10T09:00:00Z",
+    "filledAt": "2026-02-10T09:02:00Z",
+    "placedBy": "Global Finance Alliance Portfolio Desk"
+  },
+  {
+    "orderId": "b1a0b069-ff80-4c01-bab6-89b6e948d3cc",
+    "tokenSymbol": "GFA-TOK-002",
+    "orderType": "Limit",
+    "side": "Sell",
+    "quantity": 500,
+    "limitPrice": 25.5,
+    "filledQuantity": 0,
+    "filledPrice": 0,
+    "status": "Open",
+    "createdAt": "2026-02-11T10:00:00Z",
+    "filledAt": null,
+    "placedBy": "Global Finance Alliance Treasury Desk"
+  },
+  {
+    "orderId": "058fbc46-4dbf-4553-862e-c593003e8b25",
+    "tokenSymbol": "GFA-TOK-001",
+    "orderType": "Market",
+    "side": "Buy",
+    "quantity": 300,
+    "limitPrice": 0,
+    "filledQuantity": 300,
+    "filledPrice": 10.15,
+    "status": "Filled",
+    "createdAt": "2026-02-12T08:30:00Z",
+    "filledAt": "2026-02-12T08:30:05Z",
+    "placedBy": "Global Finance Alliance Market Access Desk"
+  }
+]

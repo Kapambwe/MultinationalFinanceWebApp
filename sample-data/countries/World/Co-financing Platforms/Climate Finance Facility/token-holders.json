@@ -1,0 +1,48 @@
+[
+  {
+    "holderId": "f7703d1c-f2dd-495b-b52a-4dc3d94353bc",
+    "holderName": "Climate Finance Facility Institutional Portfolio",
+    "holderType": "Institution",
+    "walletAddress": "CFF_INST_WALLET_001",
+    "holdings": [
+      {
+        "currentValue": 102000,
+        "currentPrice": 10.2,
+        "quantity": 10000,
+        "tokenSymbol": "CFF-TOK-001",
+        "tokenName": "Climate Finance Facility Operating Token",
+        "acquiredDate": "2026-01-20T00:00:00Z",
+        "tokenId": "c2b750bd-20a3-4e08-be78-fbc79db4fcee",
+        "averageCost": 10.0,
+        "unrealizedPnL": 2000
+      }
+    ],
+    "totalPortfolioValue": 102000,
+    "registeredDate": "2026-01-20T00:00:00Z",
+    "kycStatus": "Approved",
+    "country": "World"
+  },
+  {
+    "holderId": "dcecd7e7-731b-4689-b325-d366254810fd",
+    "holderName": "Climate Finance Facility Retail Desk",
+    "holderType": "Fund",
+    "walletAddress": "CFF_RETAIL_WALLET_001",
+    "holdings": [
+      {
+        "currentValue": 62750,
+        "currentPrice": 25.1,
+        "quantity": 2500,
+        "tokenSymbol": "CFF-TOK-002",
+        "tokenName": "Climate Finance Facility Reserve Token",
+        "acquiredDate": "2026-02-01T00:00:00Z",
+        "tokenId": "5ee72e6b-d7b9-41fd-ace5-063576ac923e",
+        "averageCost": 25.0,
+        "unrealizedPnL": 250
+      }
+    ],
+    "totalPortfolioValue": 62750,
+    "registeredDate": "2026-02-01T00:00:00Z",
+    "kycStatus": "Approved",
+    "country": "World"
+  }
+]

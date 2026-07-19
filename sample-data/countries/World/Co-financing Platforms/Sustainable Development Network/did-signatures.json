@@ -1,0 +1,42 @@
+[
+  {
+    "signatureId": "d5af51f0-f809-4f90-b59a-7c46d0d6e317",
+    "tokenId": "ff1c824a-7ece-4e80-bbe2-f11f90f4550f",
+    "tokenSymbol": "SDN-TOK-001",
+    "provenanceId": "553f1b0d-476b-439a-b0d1-86ba99821024",
+    "controller": "did:sample:sdn-issuer",
+    "verificationMethod": "did:sample:sdn-issuer#keys-1",
+    "proofType": "Ed25519Signature2020",
+    "proofPurpose": "assertionMethod",
+    "jws": "eyJhbGciOiJFZERTQSIsImtpZCI6InNhbXBsZSJ9.eyJwYXlsb2FkIjoiY3JlZGl0aWJsZSJ9.signature",
+    "created": "2026-01-15T00:00:00Z",
+    "domain": "sdn.example.org",
+    "challenge": "12754a2d-bb0d-428f-9701-2d31681fb103",
+    "signedPayloadSummary": "Sustainable Development Network minted its first operating token.",
+    "isValid": true,
+    "verifiedAt": "2026-01-15T00:05:00Z",
+    "verifiedBy": "Sample DID Resolver",
+    "signerOrganisation": "Sustainable Development Network",
+    "signerRole": "Issuer"
+  },
+  {
+    "signatureId": "d5095a9f-1455-420e-999b-faa22a4dfd90",
+    "tokenId": "ff1c824a-7ece-4e80-bbe2-f11f90f4550f",
+    "tokenSymbol": "SDN-TOK-001",
+    "provenanceId": "eadbbf35-b3f0-47ca-897c-053cff05cd84",
+    "controller": "did:sample:sdn-portfolio",
+    "verificationMethod": "did:sample:sdn-portfolio#keys-1",
+    "proofType": "Ed25519Signature2020",
+    "proofPurpose": "authentication",
+    "jws": "eyJhbGciOiJFZERTQSIsImtpZCI6InNhbXBsZSJ9.eyJwYXlsb2FkIjoidHJhbnNmZXIifQ.signature",
+    "created": "2026-01-20T00:00:00Z",
+    "domain": "sdn.example.org",
+    "challenge": "3ffe5c2c-afad-4b01-9e1e-f41ef91f098c",
+    "signedPayloadSummary": "Sustainable Development Network portfolio desk accepted a token transfer.",
+    "isValid": true,
+    "verifiedAt": "2026-01-20T00:05:00Z",
+    "verifiedBy": "Sample DID Resolver",
+    "signerOrganisation": "Sustainable Development Network Portfolio Desk",
+    "signerRole": "Holder"
+  }
+]

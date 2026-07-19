@@ -1,0 +1,48 @@
+[
+  {
+    "holderId": "af7b9ee0-9953-4863-9004-bcf2b2b73f37",
+    "holderName": "World Food Programme Institutional Portfolio",
+    "holderType": "Institution",
+    "walletAddress": "WFP_INST_WALLET_001",
+    "holdings": [
+      {
+        "currentValue": 102000,
+        "currentPrice": 10.2,
+        "quantity": 10000,
+        "tokenSymbol": "WFP-TOK-001",
+        "tokenName": "World Food Programme Operating Token",
+        "acquiredDate": "2026-01-20T00:00:00Z",
+        "tokenId": "57eb4dff-925c-4b4b-9e59-10e2f9156f4e",
+        "averageCost": 10.0,
+        "unrealizedPnL": 2000
+      }
+    ],
+    "totalPortfolioValue": 102000,
+    "registeredDate": "2026-01-20T00:00:00Z",
+    "kycStatus": "Approved",
+    "country": "World"
+  },
+  {
+    "holderId": "018ef5d0-befb-45db-baf2-a35015331eb9",
+    "holderName": "World Food Programme Retail Desk",
+    "holderType": "Fund",
+    "walletAddress": "WFP_RETAIL_WALLET_001",
+    "holdings": [
+      {
+        "currentValue": 62750,
+        "currentPrice": 25.1,
+        "quantity": 2500,
+        "tokenSymbol": "WFP-TOK-002",
+        "tokenName": "World Food Programme Reserve Token",
+        "acquiredDate": "2026-02-01T00:00:00Z",
+        "tokenId": "aedb0acd-ba87-4b0b-a5df-f1012757566d",
+        "averageCost": 25.0,
+        "unrealizedPnL": 250
+      }
+    ],
+    "totalPortfolioValue": 62750,
+    "registeredDate": "2026-02-01T00:00:00Z",
+    "kycStatus": "Approved",
+    "country": "World"
+  }
+]

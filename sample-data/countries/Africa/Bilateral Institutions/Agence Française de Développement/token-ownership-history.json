@@ -1,0 +1,42 @@
+[
+  {
+    "entryId": "6e5e9b1a-af36-483d-9756-4c8175333df8",
+    "tokenId": "56af5228-ee92-4148-9ab8-fb4f760cf76b",
+    "tokenSymbol": "AFD-TOK-001",
+    "sequenceNumber": 1,
+    "fromOwnerName": "Genesis (Minted)",
+    "fromOwnerDid": "",
+    "fromWalletAddress": "",
+    "toOwnerName": "Agence Française de Développement",
+    "toOwnerDid": "did:sample:afd-issuer",
+    "toWalletAddress": "AFD_WALLET_001",
+    "quantity": 10000,
+    "transferPrice": 0,
+    "transferType": "Issuance",
+    "transferDate": "2026-01-15T00:00:00Z",
+    "txHash": "0xAFDMINT001",
+    "blockchain": "Ethereum",
+    "isCurrentOwner": false,
+    "kycVerificationRef": "AFD-KYC-ISSUER"
+  },
+  {
+    "entryId": "b0c2a8f9-a066-42b4-a419-7bc6d3c8e61d",
+    "tokenId": "56af5228-ee92-4148-9ab8-fb4f760cf76b",
+    "tokenSymbol": "AFD-TOK-001",
+    "sequenceNumber": 2,
+    "fromOwnerName": "Agence Française de Développement",
+    "fromOwnerDid": "did:sample:afd-issuer",
+    "fromWalletAddress": "AFD_WALLET_001",
+    "toOwnerName": "Agence Française de Développement Portfolio Desk",
+    "toOwnerDid": "did:sample:afd-portfolio",
+    "toWalletAddress": "AFD_WALLET_002",
+    "quantity": 5000,
+    "transferPrice": 10.1,
+    "transferType": "Transfer",
+    "transferDate": "2026-01-20T00:00:00Z",
+    "txHash": "0xAFDXFER001",
+    "blockchain": "Ethereum",
+    "isCurrentOwner": true,
+    "kycVerificationRef": "AFD-KYC-PORTFOLIO"
+  }
+]

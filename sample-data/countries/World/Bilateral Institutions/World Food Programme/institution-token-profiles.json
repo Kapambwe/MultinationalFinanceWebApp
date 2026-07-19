@@ -1,0 +1,32 @@
+[
+  {
+    "institutionId": "7e6b144a-6090-4324-9aa9-24e73654ae9a",
+    "institutionName": "World Food Programme",
+    "role": 0,
+    "country": "World",
+    "authorizedTokenTypes": [
+      0,
+      1,
+      2
+    ],
+    "totalTokensIssued": 2,
+    "totalValueTokenized": 5000000,
+    "regulatoryLicenseRef": "WFP-DIGITAL-2026-001",
+    "isActive": true,
+    "onboardedDate": "2026-01-01T00:00:00Z"
+  },
+  {
+    "institutionId": "71163459-3a3a-405d-b208-4870e6cf532e",
+    "institutionName": "World Food Programme Treasury Desk",
+    "role": 3,
+    "country": "World",
+    "authorizedTokenTypes": [
+      5
+    ],
+    "totalTokensIssued": 1,
+    "totalValueTokenized": 2500000,
+    "regulatoryLicenseRef": "WFP-DIGITAL-2026-002",
+    "isActive": true,
+    "onboardedDate": "2026-01-10T00:00:00Z"
+  }
+]

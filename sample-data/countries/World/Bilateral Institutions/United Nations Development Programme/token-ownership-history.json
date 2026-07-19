@@ -1,0 +1,42 @@
+[
+  {
+    "entryId": "d58081f8-79fc-4b93-92a8-f07480b2d88c",
+    "tokenId": "4cc701c9-80de-4ca4-a2b4-3725fe9d486e",
+    "tokenSymbol": "UNDP-TOK-001",
+    "sequenceNumber": 1,
+    "fromOwnerName": "Genesis (Minted)",
+    "fromOwnerDid": "",
+    "fromWalletAddress": "",
+    "toOwnerName": "United Nations Development Programme",
+    "toOwnerDid": "did:sample:undp-issuer",
+    "toWalletAddress": "UNDP_WALLET_001",
+    "quantity": 10000,
+    "transferPrice": 0,
+    "transferType": "Issuance",
+    "transferDate": "2026-01-15T00:00:00Z",
+    "txHash": "0xUNDPMINT001",
+    "blockchain": "Ethereum",
+    "isCurrentOwner": false,
+    "kycVerificationRef": "UNDP-KYC-ISSUER"
+  },
+  {
+    "entryId": "1f204adb-6b61-433a-aba6-8dd6432c0ccb",
+    "tokenId": "4cc701c9-80de-4ca4-a2b4-3725fe9d486e",
+    "tokenSymbol": "UNDP-TOK-001",
+    "sequenceNumber": 2,
+    "fromOwnerName": "United Nations Development Programme",
+    "fromOwnerDid": "did:sample:undp-issuer",
+    "fromWalletAddress": "UNDP_WALLET_001",
+    "toOwnerName": "United Nations Development Programme Portfolio Desk",
+    "toOwnerDid": "did:sample:undp-portfolio",
+    "toWalletAddress": "UNDP_WALLET_002",
+    "quantity": 5000,
+    "transferPrice": 10.1,
+    "transferType": "Transfer",
+    "transferDate": "2026-01-20T00:00:00Z",
+    "txHash": "0xUNDPXFER001",
+    "blockchain": "Ethereum",
+    "isCurrentOwner": true,
+    "kycVerificationRef": "UNDP-KYC-PORTFOLIO"
+  }
+]

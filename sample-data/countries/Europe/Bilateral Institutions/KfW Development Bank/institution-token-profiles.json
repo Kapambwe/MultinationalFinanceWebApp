@@ -1,0 +1,32 @@
+[
+  {
+    "institutionId": "da15f103-1b4e-42dd-99f0-02be51032d5f",
+    "institutionName": "KfW Development Bank",
+    "role": 0,
+    "country": "Europe",
+    "authorizedTokenTypes": [
+      0,
+      1,
+      2
+    ],
+    "totalTokensIssued": 2,
+    "totalValueTokenized": 5000000,
+    "regulatoryLicenseRef": "KFW-DIGITAL-2026-001",
+    "isActive": true,
+    "onboardedDate": "2026-01-01T00:00:00Z"
+  },
+  {
+    "institutionId": "d087f5da-b51c-4bb4-96c9-57d681725826",
+    "institutionName": "KfW Development Bank Treasury Desk",
+    "role": 3,
+    "country": "Europe",
+    "authorizedTokenTypes": [
+      5
+    ],
+    "totalTokensIssued": 1,
+    "totalValueTokenized": 2500000,
+    "regulatoryLicenseRef": "KFW-DIGITAL-2026-002",
+    "isActive": true,
+    "onboardedDate": "2026-01-10T00:00:00Z"
+  }
+]

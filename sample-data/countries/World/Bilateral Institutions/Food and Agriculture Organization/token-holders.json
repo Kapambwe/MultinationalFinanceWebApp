@@ -1,0 +1,48 @@
+[
+  {
+    "holderId": "26fa1270-d79d-44ce-bfbd-a3b48eb2a50d",
+    "holderName": "Food and Agriculture Organization Institutional Portfolio",
+    "holderType": "Institution",
+    "walletAddress": "FAO_INST_WALLET_001",
+    "holdings": [
+      {
+        "currentValue": 102000,
+        "currentPrice": 10.2,
+        "quantity": 10000,
+        "tokenSymbol": "FAO-TOK-001",
+        "tokenName": "Food and Agriculture Organization Operating Token",
+        "acquiredDate": "2026-01-20T00:00:00Z",
+        "tokenId": "c8330d88-d1a0-48d6-9c7a-3e02829c61e7",
+        "averageCost": 10.0,
+        "unrealizedPnL": 2000
+      }
+    ],
+    "totalPortfolioValue": 102000,
+    "registeredDate": "2026-01-20T00:00:00Z",
+    "kycStatus": "Approved",
+    "country": "World"
+  },
+  {
+    "holderId": "1aa8e779-3446-4206-97d8-4002a475c65d",
+    "holderName": "Food and Agriculture Organization Retail Desk",
+    "holderType": "Fund",
+    "walletAddress": "FAO_RETAIL_WALLET_001",
+    "holdings": [
+      {
+        "currentValue": 62750,
+        "currentPrice": 25.1,
+        "quantity": 2500,
+        "tokenSymbol": "FAO-TOK-002",
+        "tokenName": "Food and Agriculture Organization Reserve Token",
+        "acquiredDate": "2026-02-01T00:00:00Z",
+        "tokenId": "48d37078-cb21-4f9e-a962-bfcff86e8749",
+        "averageCost": 25.0,
+        "unrealizedPnL": 250
+      }
+    ],
+    "totalPortfolioValue": 62750,
+    "registeredDate": "2026-02-01T00:00:00Z",
+    "kycStatus": "Approved",
+    "country": "World"
+  }
+]

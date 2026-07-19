@@ -1,0 +1,32 @@
+[
+  {
+    "institutionId": "02d5c985-10db-4761-92da-e921a139691c",
+    "institutionName": "Climate Finance Facility",
+    "role": 0,
+    "country": "World",
+    "authorizedTokenTypes": [
+      0,
+      1,
+      2
+    ],
+    "totalTokensIssued": 2,
+    "totalValueTokenized": 5000000,
+    "regulatoryLicenseRef": "CFF-DIGITAL-2026-001",
+    "isActive": true,
+    "onboardedDate": "2026-01-01T00:00:00Z"
+  },
+  {
+    "institutionId": "a66b2c37-795e-4077-9ba9-bf09ad103d57",
+    "institutionName": "Climate Finance Facility Treasury Desk",
+    "role": 3,
+    "country": "World",
+    "authorizedTokenTypes": [
+      5
+    ],
+    "totalTokensIssued": 1,
+    "totalValueTokenized": 2500000,
+    "regulatoryLicenseRef": "CFF-DIGITAL-2026-002",
+    "isActive": true,
+    "onboardedDate": "2026-01-10T00:00:00Z"
+  }
+]

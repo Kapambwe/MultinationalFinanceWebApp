@@ -1,0 +1,32 @@
+[
+  {
+    "institutionId": "32990f3a-10c8-46e4-92dd-8b4eee95fb54",
+    "institutionName": "Food and Agriculture Organization",
+    "role": 0,
+    "country": "World",
+    "authorizedTokenTypes": [
+      0,
+      1,
+      2
+    ],
+    "totalTokensIssued": 2,
+    "totalValueTokenized": 5000000,
+    "regulatoryLicenseRef": "FAO-DIGITAL-2026-001",
+    "isActive": true,
+    "onboardedDate": "2026-01-01T00:00:00Z"
+  },
+  {
+    "institutionId": "dbee5573-29ca-4b1b-9e77-8b987b327b5a",
+    "institutionName": "Food and Agriculture Organization Treasury Desk",
+    "role": 3,
+    "country": "World",
+    "authorizedTokenTypes": [
+      5
+    ],
+    "totalTokensIssued": 1,
+    "totalValueTokenized": 2500000,
+    "regulatoryLicenseRef": "FAO-DIGITAL-2026-002",
+    "isActive": true,
+    "onboardedDate": "2026-01-10T00:00:00Z"
+  }
+]

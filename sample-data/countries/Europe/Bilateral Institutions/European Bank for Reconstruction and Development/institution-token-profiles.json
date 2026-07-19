@@ -1,0 +1,32 @@
+[
+  {
+    "institutionId": "04907e8d-a8de-4c69-a362-da2cd1cd8add",
+    "institutionName": "European Bank for Reconstruction and Development",
+    "role": 0,
+    "country": "Europe",
+    "authorizedTokenTypes": [
+      0,
+      1,
+      2
+    ],
+    "totalTokensIssued": 2,
+    "totalValueTokenized": 5000000,
+    "regulatoryLicenseRef": "EBRD-DIGITAL-2026-001",
+    "isActive": true,
+    "onboardedDate": "2026-01-01T00:00:00Z"
+  },
+  {
+    "institutionId": "f60d4a7f-57aa-436b-83dd-3a078c1010cf",
+    "institutionName": "European Bank for Reconstruction and Development Treasury Desk",
+    "role": 3,
+    "country": "Europe",
+    "authorizedTokenTypes": [
+      5
+    ],
+    "totalTokensIssued": 1,
+    "totalValueTokenized": 2500000,
+    "regulatoryLicenseRef": "EBRD-DIGITAL-2026-002",
+    "isActive": true,
+    "onboardedDate": "2026-01-10T00:00:00Z"
+  }
+]

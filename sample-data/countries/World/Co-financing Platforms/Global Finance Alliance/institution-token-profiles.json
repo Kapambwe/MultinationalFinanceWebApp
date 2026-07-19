@@ -1,0 +1,32 @@
+[
+  {
+    "institutionId": "55e3909b-c70e-4548-a247-7351ce9cb9bd",
+    "institutionName": "Global Finance Alliance",
+    "role": 0,
+    "country": "World",
+    "authorizedTokenTypes": [
+      0,
+      1,
+      2
+    ],
+    "totalTokensIssued": 2,
+    "totalValueTokenized": 5000000,
+    "regulatoryLicenseRef": "GFA-DIGITAL-2026-001",
+    "isActive": true,
+    "onboardedDate": "2026-01-01T00:00:00Z"
+  },
+  {
+    "institutionId": "c5342580-32d4-403f-a745-f0baffd96368",
+    "institutionName": "Global Finance Alliance Treasury Desk",
+    "role": 3,
+    "country": "World",
+    "authorizedTokenTypes": [
+      5
+    ],
+    "totalTokensIssued": 1,
+    "totalValueTokenized": 2500000,
+    "regulatoryLicenseRef": "GFA-DIGITAL-2026-002",
+    "isActive": true,
+    "onboardedDate": "2026-01-10T00:00:00Z"
+  }
+]

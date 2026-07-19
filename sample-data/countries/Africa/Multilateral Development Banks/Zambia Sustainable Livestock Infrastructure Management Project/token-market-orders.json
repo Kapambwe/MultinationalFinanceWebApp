@@ -1,0 +1,44 @@
+[
+  {
+    "orderId": "2da0cae6-a8ae-49e5-827a-03b39fa3cab0",
+    "tokenSymbol": "GIZ-TOK-001",
+    "orderType": "Limit",
+    "side": "Buy",
+    "quantity": 1000,
+    "limitPrice": 10.1,
+    "filledQuantity": 1000,
+    "filledPrice": 10.1,
+    "status": "Filled",
+    "createdAt": "2026-02-10T09:00:00Z",
+    "filledAt": "2026-02-10T09:02:00Z",
+    "placedBy": "GIZ Portfolio Desk"
+  },
+  {
+    "orderId": "ed51ba23-4cce-4244-a004-317fd6203ec0",
+    "tokenSymbol": "GIZ-TOK-002",
+    "orderType": "Limit",
+    "side": "Sell",
+    "quantity": 500,
+    "limitPrice": 25.5,
+    "filledQuantity": 0,
+    "filledPrice": 0,
+    "status": "Open",
+    "createdAt": "2026-02-11T10:00:00Z",
+    "filledAt": null,
+    "placedBy": "GIZ Treasury Desk"
+  },
+  {
+    "orderId": "fd03d629-3993-4ac9-9ba7-d15b04923356",
+    "tokenSymbol": "GIZ-TOK-001",
+    "orderType": "Market",
+    "side": "Buy",
+    "quantity": 300,
+    "limitPrice": 0,
+    "filledQuantity": 300,
+    "filledPrice": 10.15,
+    "status": "Filled",
+    "createdAt": "2026-02-12T08:30:00Z",
+    "filledAt": "2026-02-12T08:30:05Z",
+    "placedBy": "GIZ Market Access Desk"
+  }
+]

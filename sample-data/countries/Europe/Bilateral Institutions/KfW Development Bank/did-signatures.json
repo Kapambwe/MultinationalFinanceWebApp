@@ -1,0 +1,42 @@
+[
+  {
+    "signatureId": "43ee8b4a-5dea-4d08-8318-f682a71069e9",
+    "tokenId": "6ce2e0d2-1c27-44a5-b59c-2a14c0c2a19f",
+    "tokenSymbol": "KFW-TOK-001",
+    "provenanceId": "8e4684f6-b1f2-413a-b09b-f153fe684a33",
+    "controller": "did:sample:kfw-issuer",
+    "verificationMethod": "did:sample:kfw-issuer#keys-1",
+    "proofType": "Ed25519Signature2020",
+    "proofPurpose": "assertionMethod",
+    "jws": "eyJhbGciOiJFZERTQSIsImtpZCI6InNhbXBsZSJ9.eyJwYXlsb2FkIjoiY3JlZGl0aWJsZSJ9.signature",
+    "created": "2026-01-15T00:00:00Z",
+    "domain": "kfw.example.org",
+    "challenge": "0619cdbc-a8b6-4461-ae7d-99c0349888ef",
+    "signedPayloadSummary": "KfW Development Bank minted its first operating token.",
+    "isValid": true,
+    "verifiedAt": "2026-01-15T00:05:00Z",
+    "verifiedBy": "Sample DID Resolver",
+    "signerOrganisation": "KfW Development Bank",
+    "signerRole": "Issuer"
+  },
+  {
+    "signatureId": "a7067f78-a141-42fc-bcb6-99791a3c9352",
+    "tokenId": "6ce2e0d2-1c27-44a5-b59c-2a14c0c2a19f",
+    "tokenSymbol": "KFW-TOK-001",
+    "provenanceId": "8c2e15b1-c4ae-49f2-ba71-4a95f4818615",
+    "controller": "did:sample:kfw-portfolio",
+    "verificationMethod": "did:sample:kfw-portfolio#keys-1",
+    "proofType": "Ed25519Signature2020",
+    "proofPurpose": "authentication",
+    "jws": "eyJhbGciOiJFZERTQSIsImtpZCI6InNhbXBsZSJ9.eyJwYXlsb2FkIjoidHJhbnNmZXIifQ.signature",
+    "created": "2026-01-20T00:00:00Z",
+    "domain": "kfw.example.org",
+    "challenge": "cbdec277-500d-4fc9-aabb-06cfeaac6017",
+    "signedPayloadSummary": "KfW Development Bank portfolio desk accepted a token transfer.",
+    "isValid": true,
+    "verifiedAt": "2026-01-20T00:05:00Z",
+    "verifiedBy": "Sample DID Resolver",
+    "signerOrganisation": "KfW Development Bank Portfolio Desk",
+    "signerRole": "Holder"
+  }
+]

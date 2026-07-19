@@ -1,0 +1,42 @@
+[
+  {
+    "signatureId": "5491fca8-744f-4fbb-b43b-baa5e3685620",
+    "tokenId": "4d14ea71-3eac-4478-a1a6-f5224a97f6c3",
+    "tokenSymbol": "EBRD-TOK-001",
+    "provenanceId": "9e0b1f2d-53c1-445f-8ce7-4c3dc90f9fe9",
+    "controller": "did:sample:ebrd-issuer",
+    "verificationMethod": "did:sample:ebrd-issuer#keys-1",
+    "proofType": "Ed25519Signature2020",
+    "proofPurpose": "assertionMethod",
+    "jws": "eyJhbGciOiJFZERTQSIsImtpZCI6InNhbXBsZSJ9.eyJwYXlsb2FkIjoiY3JlZGl0aWJsZSJ9.signature",
+    "created": "2026-01-15T00:00:00Z",
+    "domain": "ebrd.example.org",
+    "challenge": "4c441bdb-2104-46b8-87b1-c983a035f372",
+    "signedPayloadSummary": "European Bank for Reconstruction and Development minted its first operating token.",
+    "isValid": true,
+    "verifiedAt": "2026-01-15T00:05:00Z",
+    "verifiedBy": "Sample DID Resolver",
+    "signerOrganisation": "European Bank for Reconstruction and Development",
+    "signerRole": "Issuer"
+  },
+  {
+    "signatureId": "1a9df48b-1c46-4f05-9853-d31127050f05",
+    "tokenId": "4d14ea71-3eac-4478-a1a6-f5224a97f6c3",
+    "tokenSymbol": "EBRD-TOK-001",
+    "provenanceId": "d57a0b77-0ee6-483b-980b-26c58b027346",
+    "controller": "did:sample:ebrd-portfolio",
+    "verificationMethod": "did:sample:ebrd-portfolio#keys-1",
+    "proofType": "Ed25519Signature2020",
+    "proofPurpose": "authentication",
+    "jws": "eyJhbGciOiJFZERTQSIsImtpZCI6InNhbXBsZSJ9.eyJwYXlsb2FkIjoidHJhbnNmZXIifQ.signature",
+    "created": "2026-01-20T00:00:00Z",
+    "domain": "ebrd.example.org",
+    "challenge": "5a51d5ee-a611-4489-8871-04ec2b6a1ffb",
+    "signedPayloadSummary": "European Bank for Reconstruction and Development portfolio desk accepted a token transfer.",
+    "isValid": true,
+    "verifiedAt": "2026-01-20T00:05:00Z",
+    "verifiedBy": "Sample DID Resolver",
+    "signerOrganisation": "European Bank for Reconstruction and Development Portfolio Desk",
+    "signerRole": "Holder"
+  }
+]

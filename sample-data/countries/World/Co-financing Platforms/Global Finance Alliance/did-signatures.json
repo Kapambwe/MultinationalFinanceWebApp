@@ -1,0 +1,42 @@
+[
+  {
+    "signatureId": "4e13d794-b85a-4ea6-8f52-9743b91e59ec",
+    "tokenId": "f9747810-84fd-4474-8f3b-82eb953926aa",
+    "tokenSymbol": "GFA-TOK-001",
+    "provenanceId": "4d969716-341d-429c-a3e2-3956c4c9d8b4",
+    "controller": "did:sample:gfa-issuer",
+    "verificationMethod": "did:sample:gfa-issuer#keys-1",
+    "proofType": "Ed25519Signature2020",
+    "proofPurpose": "assertionMethod",
+    "jws": "eyJhbGciOiJFZERTQSIsImtpZCI6InNhbXBsZSJ9.eyJwYXlsb2FkIjoiY3JlZGl0aWJsZSJ9.signature",
+    "created": "2026-01-15T00:00:00Z",
+    "domain": "gfa.example.org",
+    "challenge": "a27230a3-6355-4417-a5b7-2b95d3188134",
+    "signedPayloadSummary": "Global Finance Alliance minted its first operating token.",
+    "isValid": true,
+    "verifiedAt": "2026-01-15T00:05:00Z",
+    "verifiedBy": "Sample DID Resolver",
+    "signerOrganisation": "Global Finance Alliance",
+    "signerRole": "Issuer"
+  },
+  {
+    "signatureId": "34aa29ec-8d1e-45b4-8503-f002bcaa2503",
+    "tokenId": "f9747810-84fd-4474-8f3b-82eb953926aa",
+    "tokenSymbol": "GFA-TOK-001",
+    "provenanceId": "17e0f7f0-b6df-4e2e-9bce-d6dfc867c8a3",
+    "controller": "did:sample:gfa-portfolio",
+    "verificationMethod": "did:sample:gfa-portfolio#keys-1",
+    "proofType": "Ed25519Signature2020",
+    "proofPurpose": "authentication",
+    "jws": "eyJhbGciOiJFZERTQSIsImtpZCI6InNhbXBsZSJ9.eyJwYXlsb2FkIjoidHJhbnNmZXIifQ.signature",
+    "created": "2026-01-20T00:00:00Z",
+    "domain": "gfa.example.org",
+    "challenge": "824ab851-a429-4841-ac1b-c1e106d51df3",
+    "signedPayloadSummary": "Global Finance Alliance portfolio desk accepted a token transfer.",
+    "isValid": true,
+    "verifiedAt": "2026-01-20T00:05:00Z",
+    "verifiedBy": "Sample DID Resolver",
+    "signerOrganisation": "Global Finance Alliance Portfolio Desk",
+    "signerRole": "Holder"
+  }
+]

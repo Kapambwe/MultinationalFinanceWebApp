@@ -1,0 +1,29 @@
+{
+  "institutionType": "Multilateral Development Banks",
+  "title": "African Development Bank Lifecycle",
+  "description": "Sovereign lending, regional integration, partner co-financing, and portfolio supervision.",
+  "stageCounts": {
+    "originate": 12,
+    "screen": 10,
+    "direct-fund": 9,
+    "partner-fund": 11,
+    "co-finance": 10,
+    "review": 10,
+    "approve": 8,
+    "disburse": 7,
+    "monitor": 10,
+    "report": 4
+  },
+  "stages": [
+    { "key": "originate", "title": "Originate", "description": "Country and regional pipeline origination", "targetPath": "/pipeline", "icon": "map", "visibleRoles": ["Admin", "Country Director", "Portfolio Manager"] },
+    { "key": "screen", "title": "Screen", "description": "Strategic and ESG screening", "targetPath": "/dynamic-forms/review", "icon": "rule", "visibleRoles": ["Admin", "Risk Analyst", "Country Director"] },
+    { "key": "direct-fund", "title": "Direct Fund", "description": "Direct sovereign or project lending", "targetPath": "/country-dfi", "icon": "payments", "visibleRoles": ["Admin", "Finance Manager", "Credit Analyst"] },
+    { "key": "partner-fund", "title": "Partner Fund", "description": "Funding with regional and bilateral partners", "targetPath": "/cofinancing", "icon": "handshake", "visibleRoles": ["Admin", "Partnership Manager", "Portfolio Manager"] },
+    { "key": "co-finance", "title": "Co-finance", "description": "Blended finance structuring", "targetPath": "/cofinancing", "icon": "account_tree", "visibleRoles": ["Admin", "Partnership Manager", "Finance Manager"] },
+    { "key": "review", "title": "Review", "description": "Credit, legal, and risk review", "targetPath": "/regulatory/compliance-controls/application-review", "icon": "rate_review", "visibleRoles": ["Admin", "Legal Counsel", "Risk Officer"] },
+    { "key": "approve", "title": "Approve", "description": "Internal approvals and board decision", "targetPath": "/regulatory/compliance-controls/application-review", "icon": "fact_check", "visibleRoles": ["Admin", "Investment Committee", "Risk Officer"] },
+    { "key": "disburse", "title": "Disburse", "description": "Tranche release and covenant tracking", "targetPath": "/country-dfi", "icon": "local_atm", "visibleRoles": ["Admin", "Finance Manager"] },
+    { "key": "monitor", "title": "Monitor", "description": "Portfolio risk and development outcome monitoring", "targetPath": "/sovereign-risk", "icon": "analytics", "visibleRoles": ["Admin", "Risk Officer", "Portfolio Manager"] },
+    { "key": "report", "title": "Report", "description": "Board, partner, and audit reporting", "targetPath": "/development-finance/lifecycle", "icon": "description", "visibleRoles": ["Admin", "Finance Manager", "Portfolio Manager"] }
+  ]
+}

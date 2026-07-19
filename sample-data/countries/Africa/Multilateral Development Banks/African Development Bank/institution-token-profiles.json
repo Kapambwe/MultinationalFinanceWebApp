@@ -1,0 +1,32 @@
+[
+  {
+    "institutionId": "21c4c389-49c7-4ceb-9dfe-2836f2024c4c",
+    "institutionName": "GIZ",
+    "role": 0,
+    "country": "Africa",
+    "authorizedTokenTypes": [
+      0,
+      1,
+      2
+    ],
+    "totalTokensIssued": 2,
+    "totalValueTokenized": 5000000,
+    "regulatoryLicenseRef": "GIZ-DIGITAL-2026-001",
+    "isActive": true,
+    "onboardedDate": "2026-01-01T00:00:00Z"
+  },
+  {
+    "institutionId": "8537767f-ce37-45a7-88ba-2de272849fc0",
+    "institutionName": "GIZ Treasury Desk",
+    "role": 3,
+    "country": "Africa",
+    "authorizedTokenTypes": [
+      5
+    ],
+    "totalTokensIssued": 1,
+    "totalValueTokenized": 2500000,
+    "regulatoryLicenseRef": "GIZ-DIGITAL-2026-002",
+    "isActive": true,
+    "onboardedDate": "2026-01-10T00:00:00Z"
+  }
+]

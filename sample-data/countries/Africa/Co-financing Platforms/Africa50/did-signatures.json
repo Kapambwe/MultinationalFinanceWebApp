@@ -1,0 +1,42 @@
+[
+  {
+    "signatureId": "7cd90372-def8-42b6-8baa-eca1e2dc4f92",
+    "tokenId": "38f63f2e-e2f9-4e61-92e7-0187a96f3e76",
+    "tokenSymbol": "AF50-TOK-001",
+    "provenanceId": "b5b9e6b5-12bd-4370-a22c-695cdc519700",
+    "controller": "did:sample:af50-issuer",
+    "verificationMethod": "did:sample:af50-issuer#keys-1",
+    "proofType": "Ed25519Signature2020",
+    "proofPurpose": "assertionMethod",
+    "jws": "eyJhbGciOiJFZERTQSIsImtpZCI6InNhbXBsZSJ9.eyJwYXlsb2FkIjoiY3JlZGl0aWJsZSJ9.signature",
+    "created": "2026-01-15T00:00:00Z",
+    "domain": "af50.example.org",
+    "challenge": "cccaf368-99aa-412e-9785-9b3131f1c6fe",
+    "signedPayloadSummary": "Africa50 minted its first operating token.",
+    "isValid": true,
+    "verifiedAt": "2026-01-15T00:05:00Z",
+    "verifiedBy": "Sample DID Resolver",
+    "signerOrganisation": "Africa50",
+    "signerRole": "Issuer"
+  },
+  {
+    "signatureId": "cb5c9dfc-d1ac-42b0-9ae3-612ba62c34ac",
+    "tokenId": "38f63f2e-e2f9-4e61-92e7-0187a96f3e76",
+    "tokenSymbol": "AF50-TOK-001",
+    "provenanceId": "c7f6b239-b595-46b7-8642-b5962a6cf169",
+    "controller": "did:sample:af50-portfolio",
+    "verificationMethod": "did:sample:af50-portfolio#keys-1",
+    "proofType": "Ed25519Signature2020",
+    "proofPurpose": "authentication",
+    "jws": "eyJhbGciOiJFZERTQSIsImtpZCI6InNhbXBsZSJ9.eyJwYXlsb2FkIjoidHJhbnNmZXIifQ.signature",
+    "created": "2026-01-20T00:00:00Z",
+    "domain": "af50.example.org",
+    "challenge": "800ee4e3-53d9-4e1a-b95b-5c8259dfb263",
+    "signedPayloadSummary": "Africa50 portfolio desk accepted a token transfer.",
+    "isValid": true,
+    "verifiedAt": "2026-01-20T00:05:00Z",
+    "verifiedBy": "Sample DID Resolver",
+    "signerOrganisation": "Africa50 Portfolio Desk",
+    "signerRole": "Holder"
+  }
+]

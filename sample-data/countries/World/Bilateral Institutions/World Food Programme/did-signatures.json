@@ -1,0 +1,42 @@
+[
+  {
+    "signatureId": "800de281-fd52-43e4-aa54-a3aabc9bb1e9",
+    "tokenId": "57eb4dff-925c-4b4b-9e59-10e2f9156f4e",
+    "tokenSymbol": "WFP-TOK-001",
+    "provenanceId": "e13bb522-a7a3-42c1-bc2a-f0b56af0bab0",
+    "controller": "did:sample:wfp-issuer",
+    "verificationMethod": "did:sample:wfp-issuer#keys-1",
+    "proofType": "Ed25519Signature2020",
+    "proofPurpose": "assertionMethod",
+    "jws": "eyJhbGciOiJFZERTQSIsImtpZCI6InNhbXBsZSJ9.eyJwYXlsb2FkIjoiY3JlZGl0aWJsZSJ9.signature",
+    "created": "2026-01-15T00:00:00Z",
+    "domain": "wfp.example.org",
+    "challenge": "d5286c3d-c87f-449a-a14b-f7bdfe46ccb1",
+    "signedPayloadSummary": "World Food Programme minted its first operating token.",
+    "isValid": true,
+    "verifiedAt": "2026-01-15T00:05:00Z",
+    "verifiedBy": "Sample DID Resolver",
+    "signerOrganisation": "World Food Programme",
+    "signerRole": "Issuer"
+  },
+  {
+    "signatureId": "4a2b864f-d05d-4f21-9f79-2454be215a23",
+    "tokenId": "57eb4dff-925c-4b4b-9e59-10e2f9156f4e",
+    "tokenSymbol": "WFP-TOK-001",
+    "provenanceId": "2bf1f082-669b-4042-b761-2cfaedc000d4",
+    "controller": "did:sample:wfp-portfolio",
+    "verificationMethod": "did:sample:wfp-portfolio#keys-1",
+    "proofType": "Ed25519Signature2020",
+    "proofPurpose": "authentication",
+    "jws": "eyJhbGciOiJFZERTQSIsImtpZCI6InNhbXBsZSJ9.eyJwYXlsb2FkIjoidHJhbnNmZXIifQ.signature",
+    "created": "2026-01-20T00:00:00Z",
+    "domain": "wfp.example.org",
+    "challenge": "1f87306f-4c7e-4eff-9f60-af66e7c1087d",
+    "signedPayloadSummary": "World Food Programme portfolio desk accepted a token transfer.",
+    "isValid": true,
+    "verifiedAt": "2026-01-20T00:05:00Z",
+    "verifiedBy": "Sample DID Resolver",
+    "signerOrganisation": "World Food Programme Portfolio Desk",
+    "signerRole": "Holder"
+  }
+]

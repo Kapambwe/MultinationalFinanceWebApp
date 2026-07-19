@@ -1,0 +1,44 @@
+[
+  {
+    "orderId": "8f7f4505-84d0-4290-b4f5-590ed341a434",
+    "tokenSymbol": "CFF-TOK-001",
+    "orderType": "Limit",
+    "side": "Buy",
+    "quantity": 1000,
+    "limitPrice": 10.1,
+    "filledQuantity": 1000,
+    "filledPrice": 10.1,
+    "status": "Filled",
+    "createdAt": "2026-02-10T09:00:00Z",
+    "filledAt": "2026-02-10T09:02:00Z",
+    "placedBy": "Climate Finance Facility Portfolio Desk"
+  },
+  {
+    "orderId": "e273e1bd-d186-499c-a6e6-710d7fa09cca",
+    "tokenSymbol": "CFF-TOK-002",
+    "orderType": "Limit",
+    "side": "Sell",
+    "quantity": 500,
+    "limitPrice": 25.5,
+    "filledQuantity": 0,
+    "filledPrice": 0,
+    "status": "Open",
+    "createdAt": "2026-02-11T10:00:00Z",
+    "filledAt": null,
+    "placedBy": "Climate Finance Facility Treasury Desk"
+  },
+  {
+    "orderId": "00f6ba48-96d3-4f16-9ce7-1f5b9527a719",
+    "tokenSymbol": "CFF-TOK-001",
+    "orderType": "Market",
+    "side": "Buy",
+    "quantity": 300,
+    "limitPrice": 0,
+    "filledQuantity": 300,
+    "filledPrice": 10.15,
+    "status": "Filled",
+    "createdAt": "2026-02-12T08:30:00Z",
+    "filledAt": "2026-02-12T08:30:05Z",
+    "placedBy": "Climate Finance Facility Market Access Desk"
+  }
+]

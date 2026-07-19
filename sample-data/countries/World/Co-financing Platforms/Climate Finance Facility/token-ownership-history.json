@@ -1,0 +1,42 @@
+[
+  {
+    "entryId": "1f422ba6-fcd0-493c-9deb-7ab9e306b9c7",
+    "tokenId": "c2b750bd-20a3-4e08-be78-fbc79db4fcee",
+    "tokenSymbol": "CFF-TOK-001",
+    "sequenceNumber": 1,
+    "fromOwnerName": "Genesis (Minted)",
+    "fromOwnerDid": "",
+    "fromWalletAddress": "",
+    "toOwnerName": "Climate Finance Facility",
+    "toOwnerDid": "did:sample:cff-issuer",
+    "toWalletAddress": "CFF_WALLET_001",
+    "quantity": 10000,
+    "transferPrice": 0,
+    "transferType": "Issuance",
+    "transferDate": "2026-01-15T00:00:00Z",
+    "txHash": "0xCFFMINT001",
+    "blockchain": "Ethereum",
+    "isCurrentOwner": false,
+    "kycVerificationRef": "CFF-KYC-ISSUER"
+  },
+  {
+    "entryId": "8187e035-f076-49e0-af58-2eb6c5f8f22d",
+    "tokenId": "c2b750bd-20a3-4e08-be78-fbc79db4fcee",
+    "tokenSymbol": "CFF-TOK-001",
+    "sequenceNumber": 2,
+    "fromOwnerName": "Climate Finance Facility",
+    "fromOwnerDid": "did:sample:cff-issuer",
+    "fromWalletAddress": "CFF_WALLET_001",
+    "toOwnerName": "Climate Finance Facility Portfolio Desk",
+    "toOwnerDid": "did:sample:cff-portfolio",
+    "toWalletAddress": "CFF_WALLET_002",
+    "quantity": 5000,
+    "transferPrice": 10.1,
+    "transferType": "Transfer",
+    "transferDate": "2026-01-20T00:00:00Z",
+    "txHash": "0xCFFXFER001",
+    "blockchain": "Ethereum",
+    "isCurrentOwner": true,
+    "kycVerificationRef": "CFF-KYC-PORTFOLIO"
+  }
+]

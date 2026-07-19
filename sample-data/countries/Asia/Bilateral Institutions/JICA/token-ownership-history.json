@@ -1,0 +1,42 @@
+[
+  {
+    "entryId": "643ee222-f178-4e7f-88cf-e57da056eb2e",
+    "tokenId": "ab7137df-d285-4d46-b2b4-1cd23d262847",
+    "tokenSymbol": "JICA-TOK-001",
+    "sequenceNumber": 1,
+    "fromOwnerName": "Genesis (Minted)",
+    "fromOwnerDid": "",
+    "fromWalletAddress": "",
+    "toOwnerName": "JICA",
+    "toOwnerDid": "did:sample:jica-issuer",
+    "toWalletAddress": "JICA_WALLET_001",
+    "quantity": 10000,
+    "transferPrice": 0,
+    "transferType": "Issuance",
+    "transferDate": "2026-01-15T00:00:00Z",
+    "txHash": "0xJICAMINT001",
+    "blockchain": "Ethereum",
+    "isCurrentOwner": false,
+    "kycVerificationRef": "JICA-KYC-ISSUER"
+  },
+  {
+    "entryId": "e90bcf9c-f1a2-4e6a-9dca-7f7af77c9a24",
+    "tokenId": "ab7137df-d285-4d46-b2b4-1cd23d262847",
+    "tokenSymbol": "JICA-TOK-001",
+    "sequenceNumber": 2,
+    "fromOwnerName": "JICA",
+    "fromOwnerDid": "did:sample:jica-issuer",
+    "fromWalletAddress": "JICA_WALLET_001",
+    "toOwnerName": "JICA Portfolio Desk",
+    "toOwnerDid": "did:sample:jica-portfolio",
+    "toWalletAddress": "JICA_WALLET_002",
+    "quantity": 5000,
+    "transferPrice": 10.1,
+    "transferType": "Transfer",
+    "transferDate": "2026-01-20T00:00:00Z",
+    "txHash": "0xJICAXFER001",
+    "blockchain": "Ethereum",
+    "isCurrentOwner": true,
+    "kycVerificationRef": "JICA-KYC-PORTFOLIO"
+  }
+]

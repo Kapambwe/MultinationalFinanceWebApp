@@ -1,0 +1,42 @@
+[
+  {
+    "entryId": "ce378d05-58e0-406e-a6be-12d129841f1c",
+    "tokenId": "57eb4dff-925c-4b4b-9e59-10e2f9156f4e",
+    "tokenSymbol": "WFP-TOK-001",
+    "sequenceNumber": 1,
+    "fromOwnerName": "Genesis (Minted)",
+    "fromOwnerDid": "",
+    "fromWalletAddress": "",
+    "toOwnerName": "World Food Programme",
+    "toOwnerDid": "did:sample:wfp-issuer",
+    "toWalletAddress": "WFP_WALLET_001",
+    "quantity": 10000,
+    "transferPrice": 0,
+    "transferType": "Issuance",
+    "transferDate": "2026-01-15T00:00:00Z",
+    "txHash": "0xWFPMINT001",
+    "blockchain": "Ethereum",
+    "isCurrentOwner": false,
+    "kycVerificationRef": "WFP-KYC-ISSUER"
+  },
+  {
+    "entryId": "29a5b54c-8eaf-452a-aa78-02b3be464620",
+    "tokenId": "57eb4dff-925c-4b4b-9e59-10e2f9156f4e",
+    "tokenSymbol": "WFP-TOK-001",
+    "sequenceNumber": 2,
+    "fromOwnerName": "World Food Programme",
+    "fromOwnerDid": "did:sample:wfp-issuer",
+    "fromWalletAddress": "WFP_WALLET_001",
+    "toOwnerName": "World Food Programme Portfolio Desk",
+    "toOwnerDid": "did:sample:wfp-portfolio",
+    "toWalletAddress": "WFP_WALLET_002",
+    "quantity": 5000,
+    "transferPrice": 10.1,
+    "transferType": "Transfer",
+    "transferDate": "2026-01-20T00:00:00Z",
+    "txHash": "0xWFPXFER001",
+    "blockchain": "Ethereum",
+    "isCurrentOwner": true,
+    "kycVerificationRef": "WFP-KYC-PORTFOLIO"
+  }
+]

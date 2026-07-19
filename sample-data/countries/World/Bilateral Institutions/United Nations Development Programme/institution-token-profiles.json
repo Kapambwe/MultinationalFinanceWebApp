@@ -1,0 +1,32 @@
+[
+  {
+    "institutionId": "6668fc10-15f8-465f-b85b-160a962a5da8",
+    "institutionName": "United Nations Development Programme",
+    "role": 0,
+    "country": "World",
+    "authorizedTokenTypes": [
+      0,
+      1,
+      2
+    ],
+    "totalTokensIssued": 2,
+    "totalValueTokenized": 5000000,
+    "regulatoryLicenseRef": "UNDP-DIGITAL-2026-001",
+    "isActive": true,
+    "onboardedDate": "2026-01-01T00:00:00Z"
+  },
+  {
+    "institutionId": "1f5f8c85-9916-40a7-9a1d-e9835448dceb",
+    "institutionName": "United Nations Development Programme Treasury Desk",
+    "role": 3,
+    "country": "World",
+    "authorizedTokenTypes": [
+      5
+    ],
+    "totalTokensIssued": 1,
+    "totalValueTokenized": 2500000,
+    "regulatoryLicenseRef": "UNDP-DIGITAL-2026-002",
+    "isActive": true,
+    "onboardedDate": "2026-01-10T00:00:00Z"
+  }
+]

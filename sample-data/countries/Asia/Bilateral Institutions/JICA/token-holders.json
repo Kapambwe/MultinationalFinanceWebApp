@@ -1,0 +1,48 @@
+[
+  {
+    "holderId": "c6b6519c-7f11-4fa0-a53a-dd5ed0892006",
+    "holderName": "JICA Institutional Portfolio",
+    "holderType": "Institution",
+    "walletAddress": "JICA_INST_WALLET_001",
+    "holdings": [
+      {
+        "currentValue": 102000,
+        "currentPrice": 10.2,
+        "quantity": 10000,
+        "tokenSymbol": "JICA-TOK-001",
+        "tokenName": "JICA Operating Token",
+        "acquiredDate": "2026-01-20T00:00:00Z",
+        "tokenId": "ab7137df-d285-4d46-b2b4-1cd23d262847",
+        "averageCost": 10.0,
+        "unrealizedPnL": 2000
+      }
+    ],
+    "totalPortfolioValue": 102000,
+    "registeredDate": "2026-01-20T00:00:00Z",
+    "kycStatus": "Approved",
+    "country": "Asia"
+  },
+  {
+    "holderId": "502b3b52-23e8-443c-8352-34448b7150c6",
+    "holderName": "JICA Retail Desk",
+    "holderType": "Fund",
+    "walletAddress": "JICA_RETAIL_WALLET_001",
+    "holdings": [
+      {
+        "currentValue": 62750,
+        "currentPrice": 25.1,
+        "quantity": 2500,
+        "tokenSymbol": "JICA-TOK-002",
+        "tokenName": "JICA Reserve Token",
+        "acquiredDate": "2026-02-01T00:00:00Z",
+        "tokenId": "0e34122d-797b-44d1-b8fc-cb69a6e9de56",
+        "averageCost": 25.0,
+        "unrealizedPnL": 250
+      }
+    ],
+    "totalPortfolioValue": 62750,
+    "registeredDate": "2026-02-01T00:00:00Z",
+    "kycStatus": "Approved",
+    "country": "Asia"
+  }
+]

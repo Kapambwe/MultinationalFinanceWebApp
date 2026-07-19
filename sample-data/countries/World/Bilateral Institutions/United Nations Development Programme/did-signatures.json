@@ -1,0 +1,42 @@
+[
+  {
+    "signatureId": "b9df3382-fe9c-4947-a0c1-53736892afe5",
+    "tokenId": "4cc701c9-80de-4ca4-a2b4-3725fe9d486e",
+    "tokenSymbol": "UNDP-TOK-001",
+    "provenanceId": "23b93fb0-497f-46ec-bea7-06b6d539c689",
+    "controller": "did:sample:undp-issuer",
+    "verificationMethod": "did:sample:undp-issuer#keys-1",
+    "proofType": "Ed25519Signature2020",
+    "proofPurpose": "assertionMethod",
+    "jws": "eyJhbGciOiJFZERTQSIsImtpZCI6InNhbXBsZSJ9.eyJwYXlsb2FkIjoiY3JlZGl0aWJsZSJ9.signature",
+    "created": "2026-01-15T00:00:00Z",
+    "domain": "undp.example.org",
+    "challenge": "d11fe79f-90d7-46ff-8f68-1b9fd1228c58",
+    "signedPayloadSummary": "United Nations Development Programme minted its first operating token.",
+    "isValid": true,
+    "verifiedAt": "2026-01-15T00:05:00Z",
+    "verifiedBy": "Sample DID Resolver",
+    "signerOrganisation": "United Nations Development Programme",
+    "signerRole": "Issuer"
+  },
+  {
+    "signatureId": "2886c66e-1494-40e8-b408-ed031cf78402",
+    "tokenId": "4cc701c9-80de-4ca4-a2b4-3725fe9d486e",
+    "tokenSymbol": "UNDP-TOK-001",
+    "provenanceId": "25c35dcf-ba43-407e-b3d5-d07c7a962240",
+    "controller": "did:sample:undp-portfolio",
+    "verificationMethod": "did:sample:undp-portfolio#keys-1",
+    "proofType": "Ed25519Signature2020",
+    "proofPurpose": "authentication",
+    "jws": "eyJhbGciOiJFZERTQSIsImtpZCI6InNhbXBsZSJ9.eyJwYXlsb2FkIjoidHJhbnNmZXIifQ.signature",
+    "created": "2026-01-20T00:00:00Z",
+    "domain": "undp.example.org",
+    "challenge": "52796a8c-513b-4bd1-87ed-e994a973f838",
+    "signedPayloadSummary": "United Nations Development Programme portfolio desk accepted a token transfer.",
+    "isValid": true,
+    "verifiedAt": "2026-01-20T00:05:00Z",
+    "verifiedBy": "Sample DID Resolver",
+    "signerOrganisation": "United Nations Development Programme Portfolio Desk",
+    "signerRole": "Holder"
+  }
+]

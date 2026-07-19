@@ -1,0 +1,42 @@
+[
+  {
+    "signatureId": "0ee7f236-dbdb-4e0a-a904-bf5e812924ab",
+    "tokenId": "56af5228-ee92-4148-9ab8-fb4f760cf76b",
+    "tokenSymbol": "AFD-TOK-001",
+    "provenanceId": "2a102e9c-048b-49f0-b055-0c2a5766c431",
+    "controller": "did:sample:afd-issuer",
+    "verificationMethod": "did:sample:afd-issuer#keys-1",
+    "proofType": "Ed25519Signature2020",
+    "proofPurpose": "assertionMethod",
+    "jws": "eyJhbGciOiJFZERTQSIsImtpZCI6InNhbXBsZSJ9.eyJwYXlsb2FkIjoiY3JlZGl0aWJsZSJ9.signature",
+    "created": "2026-01-15T00:00:00Z",
+    "domain": "afd.example.org",
+    "challenge": "7ed6157a-0e5b-448c-8441-0939a0c94a6c",
+    "signedPayloadSummary": "Agence Française de Développement minted its first operating token.",
+    "isValid": true,
+    "verifiedAt": "2026-01-15T00:05:00Z",
+    "verifiedBy": "Sample DID Resolver",
+    "signerOrganisation": "Agence Française de Développement",
+    "signerRole": "Issuer"
+  },
+  {
+    "signatureId": "1d19d3f0-aadd-4d1e-b4d1-39480e7786e3",
+    "tokenId": "56af5228-ee92-4148-9ab8-fb4f760cf76b",
+    "tokenSymbol": "AFD-TOK-001",
+    "provenanceId": "00d0c7e3-f848-42f4-8b2a-89af91a04665",
+    "controller": "did:sample:afd-portfolio",
+    "verificationMethod": "did:sample:afd-portfolio#keys-1",
+    "proofType": "Ed25519Signature2020",
+    "proofPurpose": "authentication",
+    "jws": "eyJhbGciOiJFZERTQSIsImtpZCI6InNhbXBsZSJ9.eyJwYXlsb2FkIjoidHJhbnNmZXIifQ.signature",
+    "created": "2026-01-20T00:00:00Z",
+    "domain": "afd.example.org",
+    "challenge": "85afbc75-071c-4315-86d9-da71d21c2470",
+    "signedPayloadSummary": "Agence Française de Développement portfolio desk accepted a token transfer.",
+    "isValid": true,
+    "verifiedAt": "2026-01-20T00:05:00Z",
+    "verifiedBy": "Sample DID Resolver",
+    "signerOrganisation": "Agence Française de Développement Portfolio Desk",
+    "signerRole": "Holder"
+  }
+]

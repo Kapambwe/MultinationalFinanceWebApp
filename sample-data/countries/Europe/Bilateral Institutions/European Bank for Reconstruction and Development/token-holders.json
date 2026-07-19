@@ -1,0 +1,48 @@
+[
+  {
+    "holderId": "e584b976-bb7d-40f0-9a18-a8c1f00d196e",
+    "holderName": "European Bank for Reconstruction and Development Institutional Portfolio",
+    "holderType": "Institution",
+    "walletAddress": "EBRD_INST_WALLET_001",
+    "holdings": [
+      {
+        "currentValue": 102000,
+        "currentPrice": 10.2,
+        "quantity": 10000,
+        "tokenSymbol": "EBRD-TOK-001",
+        "tokenName": "European Bank for Reconstruction and Development Operating Token",
+        "acquiredDate": "2026-01-20T00:00:00Z",
+        "tokenId": "4d14ea71-3eac-4478-a1a6-f5224a97f6c3",
+        "averageCost": 10.0,
+        "unrealizedPnL": 2000
+      }
+    ],
+    "totalPortfolioValue": 102000,
+    "registeredDate": "2026-01-20T00:00:00Z",
+    "kycStatus": "Approved",
+    "country": "Europe"
+  },
+  {
+    "holderId": "a42aaef4-88dd-4064-9459-76ce48508f51",
+    "holderName": "European Bank for Reconstruction and Development Retail Desk",
+    "holderType": "Fund",
+    "walletAddress": "EBRD_RETAIL_WALLET_001",
+    "holdings": [
+      {
+        "currentValue": 62750,
+        "currentPrice": 25.1,
+        "quantity": 2500,
+        "tokenSymbol": "EBRD-TOK-002",
+        "tokenName": "European Bank for Reconstruction and Development Reserve Token",
+        "acquiredDate": "2026-02-01T00:00:00Z",
+        "tokenId": "155df9a1-e2e1-4dcb-86f3-72b2dbf8b081",
+        "averageCost": 25.0,
+        "unrealizedPnL": 250
+      }
+    ],
+    "totalPortfolioValue": 62750,
+    "registeredDate": "2026-02-01T00:00:00Z",
+    "kycStatus": "Approved",
+    "country": "Europe"
+  }
+]

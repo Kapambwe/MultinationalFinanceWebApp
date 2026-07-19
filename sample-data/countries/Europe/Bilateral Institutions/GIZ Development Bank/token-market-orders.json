@@ -1,0 +1,44 @@
+[
+  {
+    "orderId": "a45705c3-11a2-4e37-af32-44c9adb2dd19",
+    "tokenSymbol": "GIZDB-TOK-001",
+    "orderType": "Limit",
+    "side": "Buy",
+    "quantity": 1000,
+    "limitPrice": 10.1,
+    "filledQuantity": 1000,
+    "filledPrice": 10.1,
+    "status": "Filled",
+    "createdAt": "2026-02-10T09:00:00Z",
+    "filledAt": "2026-02-10T09:02:00Z",
+    "placedBy": "GIZ Development Bank Portfolio Desk"
+  },
+  {
+    "orderId": "3a28118e-143a-4908-a37f-8c14bb0d2b40",
+    "tokenSymbol": "GIZDB-TOK-002",
+    "orderType": "Limit",
+    "side": "Sell",
+    "quantity": 500,
+    "limitPrice": 25.5,
+    "filledQuantity": 0,
+    "filledPrice": 0,
+    "status": "Open",
+    "createdAt": "2026-02-11T10:00:00Z",
+    "filledAt": null,
+    "placedBy": "GIZ Development Bank Treasury Desk"
+  },
+  {
+    "orderId": "95a8adba-66ed-402f-9e5e-51b6b91f4bba",
+    "tokenSymbol": "GIZDB-TOK-001",
+    "orderType": "Market",
+    "side": "Buy",
+    "quantity": 300,
+    "limitPrice": 0,
+    "filledQuantity": 300,
+    "filledPrice": 10.15,
+    "status": "Filled",
+    "createdAt": "2026-02-12T08:30:00Z",
+    "filledAt": "2026-02-12T08:30:05Z",
+    "placedBy": "GIZ Development Bank Market Access Desk"
+  }
+]

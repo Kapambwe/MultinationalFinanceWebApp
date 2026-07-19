@@ -1,0 +1,48 @@
+[
+  {
+    "holderId": "6149185f-791c-40b6-83c8-1e1ce44468bd",
+    "holderName": "KfW Development Bank Institutional Portfolio",
+    "holderType": "Institution",
+    "walletAddress": "KFW_INST_WALLET_001",
+    "holdings": [
+      {
+        "currentValue": 102000,
+        "currentPrice": 10.2,
+        "quantity": 10000,
+        "tokenSymbol": "KFW-TOK-001",
+        "tokenName": "KfW Development Bank Operating Token",
+        "acquiredDate": "2026-01-20T00:00:00Z",
+        "tokenId": "6ce2e0d2-1c27-44a5-b59c-2a14c0c2a19f",
+        "averageCost": 10.0,
+        "unrealizedPnL": 2000
+      }
+    ],
+    "totalPortfolioValue": 102000,
+    "registeredDate": "2026-01-20T00:00:00Z",
+    "kycStatus": "Approved",
+    "country": "Europe"
+  },
+  {
+    "holderId": "f34556ad-a189-457b-be6c-fea7c6f2669b",
+    "holderName": "KfW Development Bank Retail Desk",
+    "holderType": "Fund",
+    "walletAddress": "KFW_RETAIL_WALLET_001",
+    "holdings": [
+      {
+        "currentValue": 62750,
+        "currentPrice": 25.1,
+        "quantity": 2500,
+        "tokenSymbol": "KFW-TOK-002",
+        "tokenName": "KfW Development Bank Reserve Token",
+        "acquiredDate": "2026-02-01T00:00:00Z",
+        "tokenId": "1124b8f2-e94c-4bfa-87a1-9e4df9241697",
+        "averageCost": 25.0,
+        "unrealizedPnL": 250
+      }
+    ],
+    "totalPortfolioValue": 62750,
+    "registeredDate": "2026-02-01T00:00:00Z",
+    "kycStatus": "Approved",
+    "country": "Europe"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "institutionId": "d989677d-c820-42d2-86dd-b744bb0f93f8",
+    "institutionName": "Agence Française de Développement",
+    "role": 0,
+    "country": "Africa",
+    "authorizedTokenTypes": [
+      0,
+      1,
+      2
+    ],
+    "totalTokensIssued": 2,
+    "totalValueTokenized": 5000000,
+    "regulatoryLicenseRef": "AFD-DIGITAL-2026-001",
+    "isActive": true,
+    "onboardedDate": "2026-01-01T00:00:00Z"
+  },
+  {
+    "institutionId": "0a57a49a-dd2e-4a8f-9cde-f9971aced1be",
+    "institutionName": "Agence Française de Développement Treasury Desk",
+    "role": 3,
+    "country": "Africa",
+    "authorizedTokenTypes": [
+      5
+    ],
+    "totalTokensIssued": 1,
+    "totalValueTokenized": 2500000,
+    "regulatoryLicenseRef": "AFD-DIGITAL-2026-002",
+    "isActive": true,
+    "onboardedDate": "2026-01-10T00:00:00Z"
+  }
+]

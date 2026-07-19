@@ -1,0 +1,48 @@
+[
+  {
+    "holderId": "7041679e-6cba-4c78-824c-8bcc32bdd6d7",
+    "holderName": "Africa50 Institutional Portfolio",
+    "holderType": "Institution",
+    "walletAddress": "AF50_INST_WALLET_001",
+    "holdings": [
+      {
+        "currentValue": 102000,
+        "currentPrice": 10.2,
+        "quantity": 10000,
+        "tokenSymbol": "AF50-TOK-001",
+        "tokenName": "Africa50 Operating Token",
+        "acquiredDate": "2026-01-20T00:00:00Z",
+        "tokenId": "38f63f2e-e2f9-4e61-92e7-0187a96f3e76",
+        "averageCost": 10.0,
+        "unrealizedPnL": 2000
+      }
+    ],
+    "totalPortfolioValue": 102000,
+    "registeredDate": "2026-01-20T00:00:00Z",
+    "kycStatus": "Approved",
+    "country": "Africa"
+  },
+  {
+    "holderId": "78b631b1-7aa7-4fba-826d-57d059509304",
+    "holderName": "Africa50 Retail Desk",
+    "holderType": "Fund",
+    "walletAddress": "AF50_RETAIL_WALLET_001",
+    "holdings": [
+      {
+        "currentValue": 62750,
+        "currentPrice": 25.1,
+        "quantity": 2500,
+        "tokenSymbol": "AF50-TOK-002",
+        "tokenName": "Africa50 Reserve Token",
+        "acquiredDate": "2026-02-01T00:00:00Z",
+        "tokenId": "d84e1d52-a9d5-4b08-943e-72acbd445258",
+        "averageCost": 25.0,
+        "unrealizedPnL": 250
+      }
+    ],
+    "totalPortfolioValue": 62750,
+    "registeredDate": "2026-02-01T00:00:00Z",
+    "kycStatus": "Approved",
+    "country": "Africa"
+  }
+]

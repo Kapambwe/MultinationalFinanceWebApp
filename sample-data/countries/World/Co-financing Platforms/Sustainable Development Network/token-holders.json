@@ -1,0 +1,48 @@
+[
+  {
+    "holderId": "e0590c67-1565-48b8-84a1-9123ee66e60b",
+    "holderName": "Sustainable Development Network Institutional Portfolio",
+    "holderType": "Institution",
+    "walletAddress": "SDN_INST_WALLET_001",
+    "holdings": [
+      {
+        "currentValue": 102000,
+        "currentPrice": 10.2,
+        "quantity": 10000,
+        "tokenSymbol": "SDN-TOK-001",
+        "tokenName": "Sustainable Development Network Operating Token",
+        "acquiredDate": "2026-01-20T00:00:00Z",
+        "tokenId": "ff1c824a-7ece-4e80-bbe2-f11f90f4550f",
+        "averageCost": 10.0,
+        "unrealizedPnL": 2000
+      }
+    ],
+    "totalPortfolioValue": 102000,
+    "registeredDate": "2026-01-20T00:00:00Z",
+    "kycStatus": "Approved",
+    "country": "World"
+  },
+  {
+    "holderId": "3b3b24c4-2b3a-46a9-b0c0-d3aee7519ea1",
+    "holderName": "Sustainable Development Network Retail Desk",
+    "holderType": "Fund",
+    "walletAddress": "SDN_RETAIL_WALLET_001",
+    "holdings": [
+      {
+        "currentValue": 62750,
+        "currentPrice": 25.1,
+        "quantity": 2500,
+        "tokenSymbol": "SDN-TOK-002",
+        "tokenName": "Sustainable Development Network Reserve Token",
+        "acquiredDate": "2026-02-01T00:00:00Z",
+        "tokenId": "6c7f39d6-fdcf-41ba-8634-06f5c01b54cf",
+        "averageCost": 25.0,
+        "unrealizedPnL": 250
+      }
+    ],
+    "totalPortfolioValue": 62750,
+    "registeredDate": "2026-02-01T00:00:00Z",
+    "kycStatus": "Approved",
+    "country": "World"
+  }
+]

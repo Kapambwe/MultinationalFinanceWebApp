@@ -1,0 +1,44 @@
+[
+  {
+    "orderId": "1b44d6c5-5e15-4b21-a211-b8e36c4648b6",
+    "tokenSymbol": "EBRD-TOK-001",
+    "orderType": "Limit",
+    "side": "Buy",
+    "quantity": 1000,
+    "limitPrice": 10.1,
+    "filledQuantity": 1000,
+    "filledPrice": 10.1,
+    "status": "Filled",
+    "createdAt": "2026-02-10T09:00:00Z",
+    "filledAt": "2026-02-10T09:02:00Z",
+    "placedBy": "European Bank for Reconstruction and Development Portfolio Desk"
+  },
+  {
+    "orderId": "46d9a4b4-a305-4db8-82a8-7dd4a651a3f0",
+    "tokenSymbol": "EBRD-TOK-002",
+    "orderType": "Limit",
+    "side": "Sell",
+    "quantity": 500,
+    "limitPrice": 25.5,
+    "filledQuantity": 0,
+    "filledPrice": 0,
+    "status": "Open",
+    "createdAt": "2026-02-11T10:00:00Z",
+    "filledAt": null,
+    "placedBy": "European Bank for Reconstruction and Development Treasury Desk"
+  },
+  {
+    "orderId": "46dd2056-d758-4abf-b327-26bf23c355d2",
+    "tokenSymbol": "EBRD-TOK-001",
+    "orderType": "Market",
+    "side": "Buy",
+    "quantity": 300,
+    "limitPrice": 0,
+    "filledQuantity": 300,
+    "filledPrice": 10.15,
+    "status": "Filled",
+    "createdAt": "2026-02-12T08:30:00Z",
+    "filledAt": "2026-02-12T08:30:05Z",
+    "placedBy": "European Bank for Reconstruction and Development Market Access Desk"
+  }
+]

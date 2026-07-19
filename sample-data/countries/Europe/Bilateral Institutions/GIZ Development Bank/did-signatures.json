@@ -1,0 +1,42 @@
+[
+  {
+    "signatureId": "789616a8-2932-4e58-a5a6-e4ace6a36212",
+    "tokenId": "2fb9c30f-f808-449c-8923-b266c39c9052",
+    "tokenSymbol": "GIZDB-TOK-001",
+    "provenanceId": "608ffda5-b0f1-4708-9bb1-52b89224d7c2",
+    "controller": "did:sample:gizdb-issuer",
+    "verificationMethod": "did:sample:gizdb-issuer#keys-1",
+    "proofType": "Ed25519Signature2020",
+    "proofPurpose": "assertionMethod",
+    "jws": "eyJhbGciOiJFZERTQSIsImtpZCI6InNhbXBsZSJ9.eyJwYXlsb2FkIjoiY3JlZGl0aWJsZSJ9.signature",
+    "created": "2026-01-15T00:00:00Z",
+    "domain": "gizdb.example.org",
+    "challenge": "08457662-629c-46d5-92fa-3e22ec1e7e38",
+    "signedPayloadSummary": "GIZ Development Bank minted its first operating token.",
+    "isValid": true,
+    "verifiedAt": "2026-01-15T00:05:00Z",
+    "verifiedBy": "Sample DID Resolver",
+    "signerOrganisation": "GIZ Development Bank",
+    "signerRole": "Issuer"
+  },
+  {
+    "signatureId": "37c89932-d8cc-44d1-a57b-49db83372a83",
+    "tokenId": "2fb9c30f-f808-449c-8923-b266c39c9052",
+    "tokenSymbol": "GIZDB-TOK-001",
+    "provenanceId": "6a756d73-d0bf-4ce4-b58c-81698728f104",
+    "controller": "did:sample:gizdb-portfolio",
+    "verificationMethod": "did:sample:gizdb-portfolio#keys-1",
+    "proofType": "Ed25519Signature2020",
+    "proofPurpose": "authentication",
+    "jws": "eyJhbGciOiJFZERTQSIsImtpZCI6InNhbXBsZSJ9.eyJwYXlsb2FkIjoidHJhbnNmZXIifQ.signature",
+    "created": "2026-01-20T00:00:00Z",
+    "domain": "gizdb.example.org",
+    "challenge": "da508323-0841-415b-bc4f-c0f7b126ec52",
+    "signedPayloadSummary": "GIZ Development Bank portfolio desk accepted a token transfer.",
+    "isValid": true,
+    "verifiedAt": "2026-01-20T00:05:00Z",
+    "verifiedBy": "Sample DID Resolver",
+    "signerOrganisation": "GIZ Development Bank Portfolio Desk",
+    "signerRole": "Holder"
+  }
+]

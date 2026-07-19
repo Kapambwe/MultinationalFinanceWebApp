@@ -1,0 +1,32 @@
+[
+  {
+    "institutionId": "d6673741-0a3b-4470-bc5e-a86da34a38ea",
+    "institutionName": "JICA",
+    "role": 0,
+    "country": "Asia",
+    "authorizedTokenTypes": [
+      0,
+      1,
+      2
+    ],
+    "totalTokensIssued": 2,
+    "totalValueTokenized": 5000000,
+    "regulatoryLicenseRef": "JICA-DIGITAL-2026-001",
+    "isActive": true,
+    "onboardedDate": "2026-01-01T00:00:00Z"
+  },
+  {
+    "institutionId": "9bd0e6d8-3649-47b0-babf-ab72a201dc00",
+    "institutionName": "JICA Treasury Desk",
+    "role": 3,
+    "country": "Asia",
+    "authorizedTokenTypes": [
+      5
+    ],
+    "totalTokensIssued": 1,
+    "totalValueTokenized": 2500000,
+    "regulatoryLicenseRef": "JICA-DIGITAL-2026-002",
+    "isActive": true,
+    "onboardedDate": "2026-01-10T00:00:00Z"
+  }
+]

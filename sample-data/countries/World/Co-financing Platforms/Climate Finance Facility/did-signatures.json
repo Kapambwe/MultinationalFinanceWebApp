@@ -1,0 +1,42 @@
+[
+  {
+    "signatureId": "67bf47a9-683e-46ea-a16b-452670557c71",
+    "tokenId": "c2b750bd-20a3-4e08-be78-fbc79db4fcee",
+    "tokenSymbol": "CFF-TOK-001",
+    "provenanceId": "018d4c63-d278-405f-a4f9-520774a227e3",
+    "controller": "did:sample:cff-issuer",
+    "verificationMethod": "did:sample:cff-issuer#keys-1",
+    "proofType": "Ed25519Signature2020",
+    "proofPurpose": "assertionMethod",
+    "jws": "eyJhbGciOiJFZERTQSIsImtpZCI6InNhbXBsZSJ9.eyJwYXlsb2FkIjoiY3JlZGl0aWJsZSJ9.signature",
+    "created": "2026-01-15T00:00:00Z",
+    "domain": "cff.example.org",
+    "challenge": "8d1c013c-7f6b-44cd-a7c7-4db706d7a0a1",
+    "signedPayloadSummary": "Climate Finance Facility minted its first operating token.",
+    "isValid": true,
+    "verifiedAt": "2026-01-15T00:05:00Z",
+    "verifiedBy": "Sample DID Resolver",
+    "signerOrganisation": "Climate Finance Facility",
+    "signerRole": "Issuer"
+  },
+  {
+    "signatureId": "f6f63a38-468b-4192-a4e2-0741b2d2bf42",
+    "tokenId": "c2b750bd-20a3-4e08-be78-fbc79db4fcee",
+    "tokenSymbol": "CFF-TOK-001",
+    "provenanceId": "316e5318-3b34-466b-af1c-e3381f8089c0",
+    "controller": "did:sample:cff-portfolio",
+    "verificationMethod": "did:sample:cff-portfolio#keys-1",
+    "proofType": "Ed25519Signature2020",
+    "proofPurpose": "authentication",
+    "jws": "eyJhbGciOiJFZERTQSIsImtpZCI6InNhbXBsZSJ9.eyJwYXlsb2FkIjoidHJhbnNmZXIifQ.signature",
+    "created": "2026-01-20T00:00:00Z",
+    "domain": "cff.example.org",
+    "challenge": "0f656487-f23f-4afb-8b8e-1c568fed9e4c",
+    "signedPayloadSummary": "Climate Finance Facility portfolio desk accepted a token transfer.",
+    "isValid": true,
+    "verifiedAt": "2026-01-20T00:05:00Z",
+    "verifiedBy": "Sample DID Resolver",
+    "signerOrganisation": "Climate Finance Facility Portfolio Desk",
+    "signerRole": "Holder"
+  }
+]

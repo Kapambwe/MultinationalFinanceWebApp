@@ -1,0 +1,44 @@
+[
+  {
+    "orderId": "31842551-8934-49e6-9c1c-d00147abb1b5",
+    "tokenSymbol": "KFW-TOK-001",
+    "orderType": "Limit",
+    "side": "Buy",
+    "quantity": 1000,
+    "limitPrice": 10.1,
+    "filledQuantity": 1000,
+    "filledPrice": 10.1,
+    "status": "Filled",
+    "createdAt": "2026-02-10T09:00:00Z",
+    "filledAt": "2026-02-10T09:02:00Z",
+    "placedBy": "KfW Development Bank Portfolio Desk"
+  },
+  {
+    "orderId": "decf84db-aa33-457d-90d2-390687bc39d1",
+    "tokenSymbol": "KFW-TOK-002",
+    "orderType": "Limit",
+    "side": "Sell",
+    "quantity": 500,
+    "limitPrice": 25.5,
+    "filledQuantity": 0,
+    "filledPrice": 0,
+    "status": "Open",
+    "createdAt": "2026-02-11T10:00:00Z",
+    "filledAt": null,
+    "placedBy": "KfW Development Bank Treasury Desk"
+  },
+  {
+    "orderId": "69559119-6d11-4d48-a5c8-2d650ca85c89",
+    "tokenSymbol": "KFW-TOK-001",
+    "orderType": "Market",
+    "side": "Buy",
+    "quantity": 300,
+    "limitPrice": 0,
+    "filledQuantity": 300,
+    "filledPrice": 10.15,
+    "status": "Filled",
+    "createdAt": "2026-02-12T08:30:00Z",
+    "filledAt": "2026-02-12T08:30:05Z",
+    "placedBy": "KfW Development Bank Market Access Desk"
+  }
+]

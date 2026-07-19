@@ -1,0 +1,48 @@
+[
+  {
+    "holderId": "7347a1bd-82b3-4b81-9e70-cef42e12b235",
+    "holderName": "Global Finance Alliance Institutional Portfolio",
+    "holderType": "Institution",
+    "walletAddress": "GFA_INST_WALLET_001",
+    "holdings": [
+      {
+        "currentValue": 102000,
+        "currentPrice": 10.2,
+        "quantity": 10000,
+        "tokenSymbol": "GFA-TOK-001",
+        "tokenName": "Global Finance Alliance Operating Token",
+        "acquiredDate": "2026-01-20T00:00:00Z",
+        "tokenId": "f9747810-84fd-4474-8f3b-82eb953926aa",
+        "averageCost": 10.0,
+        "unrealizedPnL": 2000
+      }
+    ],
+    "totalPortfolioValue": 102000,
+    "registeredDate": "2026-01-20T00:00:00Z",
+    "kycStatus": "Approved",
+    "country": "World"
+  },
+  {
+    "holderId": "dfc010ad-3d2e-425d-a2b5-5edbc4eaa094",
+    "holderName": "Global Finance Alliance Retail Desk",
+    "holderType": "Fund",
+    "walletAddress": "GFA_RETAIL_WALLET_001",
+    "holdings": [
+      {
+        "currentValue": 62750,
+        "currentPrice": 25.1,
+        "quantity": 2500,
+        "tokenSymbol": "GFA-TOK-002",
+        "tokenName": "Global Finance Alliance Reserve Token",
+        "acquiredDate": "2026-02-01T00:00:00Z",
+        "tokenId": "33d57fc9-0850-445f-879b-bbadb36f79f6",
+        "averageCost": 25.0,
+        "unrealizedPnL": 250
+      }
+    ],
+    "totalPortfolioValue": 62750,
+    "registeredDate": "2026-02-01T00:00:00Z",
+    "kycStatus": "Approved",
+    "country": "World"
+  }
+]

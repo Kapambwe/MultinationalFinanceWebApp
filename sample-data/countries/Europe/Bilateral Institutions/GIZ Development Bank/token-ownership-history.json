@@ -1,0 +1,42 @@
+[
+  {
+    "entryId": "a7d0159e-ea7a-46e8-b1a1-e298fa0be0d5",
+    "tokenId": "2fb9c30f-f808-449c-8923-b266c39c9052",
+    "tokenSymbol": "GIZDB-TOK-001",
+    "sequenceNumber": 1,
+    "fromOwnerName": "Genesis (Minted)",
+    "fromOwnerDid": "",
+    "fromWalletAddress": "",
+    "toOwnerName": "GIZ Development Bank",
+    "toOwnerDid": "did:sample:gizdb-issuer",
+    "toWalletAddress": "GIZDB_WALLET_001",
+    "quantity": 10000,
+    "transferPrice": 0,
+    "transferType": "Issuance",
+    "transferDate": "2026-01-15T00:00:00Z",
+    "txHash": "0xGIZDBMINT001",
+    "blockchain": "Ethereum",
+    "isCurrentOwner": false,
+    "kycVerificationRef": "GIZDB-KYC-ISSUER"
+  },
+  {
+    "entryId": "b6dbbfea-e08b-47b9-9fac-b626b062bf4b",
+    "tokenId": "2fb9c30f-f808-449c-8923-b266c39c9052",
+    "tokenSymbol": "GIZDB-TOK-001",
+    "sequenceNumber": 2,
+    "fromOwnerName": "GIZ Development Bank",
+    "fromOwnerDid": "did:sample:gizdb-issuer",
+    "fromWalletAddress": "GIZDB_WALLET_001",
+    "toOwnerName": "GIZ Development Bank Portfolio Desk",
+    "toOwnerDid": "did:sample:gizdb-portfolio",
+    "toWalletAddress": "GIZDB_WALLET_002",
+    "quantity": 5000,
+    "transferPrice": 10.1,
+    "transferType": "Transfer",
+    "transferDate": "2026-01-20T00:00:00Z",
+    "txHash": "0xGIZDBXFER001",
+    "blockchain": "Ethereum",
+    "isCurrentOwner": true,
+    "kycVerificationRef": "GIZDB-KYC-PORTFOLIO"
+  }
+]

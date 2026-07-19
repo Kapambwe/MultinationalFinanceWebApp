@@ -1,0 +1,17 @@
+{
+  "registrationNumber": "REG-AFDB-001",
+  "contactEmail": "info@afdb.org",
+  "createdAt": "1964-09-10T00:00:00Z",
+  "branches": 40,
+  "institutionType": "Multilateral Development Banks",
+  "institutionName": "African_Development_Bank",
+  "continent": "Africa",
+  "established": 1964,
+  "employees": 2000,
+  "contactPhone": "+21671102000",
+  "headquarters": "Abidjan",
+  "institutionId": "afdb-0001",
+  "currency": "XOF",
+  "status": "Active",
+  "website": "https://www.afdb.org/en/"
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "entryId": "f1ba88b6-ec58-4273-ace6-48bdc6df24d0",
+    "tokenId": "ff1c824a-7ece-4e80-bbe2-f11f90f4550f",
+    "tokenSymbol": "SDN-TOK-001",
+    "sequenceNumber": 1,
+    "fromOwnerName": "Genesis (Minted)",
+    "fromOwnerDid": "",
+    "fromWalletAddress": "",
+    "toOwnerName": "Sustainable Development Network",
+    "toOwnerDid": "did:sample:sdn-issuer",
+    "toWalletAddress": "SDN_WALLET_001",
+    "quantity": 10000,
+    "transferPrice": 0,
+    "transferType": "Issuance",
+    "transferDate": "2026-01-15T00:00:00Z",
+    "txHash": "0xSDNMINT001",
+    "blockchain": "Ethereum",
+    "isCurrentOwner": false,
+    "kycVerificationRef": "SDN-KYC-ISSUER"
+  },
+  {
+    "entryId": "f2a6cdef-9fac-48b8-a14f-507c503df06b",
+    "tokenId": "ff1c824a-7ece-4e80-bbe2-f11f90f4550f",
+    "tokenSymbol": "SDN-TOK-001",
+    "sequenceNumber": 2,
+    "fromOwnerName": "Sustainable Development Network",
+    "fromOwnerDid": "did:sample:sdn-issuer",
+    "fromWalletAddress": "SDN_WALLET_001",
+    "toOwnerName": "Sustainable Development Network Portfolio Desk",
+    "toOwnerDid": "did:sample:sdn-portfolio",
+    "toWalletAddress": "SDN_WALLET_002",
+    "quantity": 5000,
+    "transferPrice": 10.1,
+    "transferType": "Transfer",
+    "transferDate": "2026-01-20T00:00:00Z",
+    "txHash": "0xSDNXFER001",
+    "blockchain": "Ethereum",
+    "isCurrentOwner": true,
+    "kycVerificationRef": "SDN-KYC-PORTFOLIO"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "entryId": "fbcefe6d-4297-4e9b-b78e-a86af7afee92",
+    "tokenId": "c8330d88-d1a0-48d6-9c7a-3e02829c61e7",
+    "tokenSymbol": "FAO-TOK-001",
+    "sequenceNumber": 1,
+    "fromOwnerName": "Genesis (Minted)",
+    "fromOwnerDid": "",
+    "fromWalletAddress": "",
+    "toOwnerName": "Food and Agriculture Organization",
+    "toOwnerDid": "did:sample:fao-issuer",
+    "toWalletAddress": "FAO_WALLET_001",
+    "quantity": 10000,
+    "transferPrice": 0,
+    "transferType": "Issuance",
+    "transferDate": "2026-01-15T00:00:00Z",
+    "txHash": "0xFAOMINT001",
+    "blockchain": "Ethereum",
+    "isCurrentOwner": false,
+    "kycVerificationRef": "FAO-KYC-ISSUER"
+  },
+  {
+    "entryId": "6c838e48-39ef-41e6-a592-86bf0c4d2faa",
+    "tokenId": "c8330d88-d1a0-48d6-9c7a-3e02829c61e7",
+    "tokenSymbol": "FAO-TOK-001",
+    "sequenceNumber": 2,
+    "fromOwnerName": "Food and Agriculture Organization",
+    "fromOwnerDid": "did:sample:fao-issuer",
+    "fromWalletAddress": "FAO_WALLET_001",
+    "toOwnerName": "Food and Agriculture Organization Portfolio Desk",
+    "toOwnerDid": "did:sample:fao-portfolio",
+    "toWalletAddress": "FAO_WALLET_002",
+    "quantity": 5000,
+    "transferPrice": 10.1,
+    "transferType": "Transfer",
+    "transferDate": "2026-01-20T00:00:00Z",
+    "txHash": "0xFAOXFER001",
+    "blockchain": "Ethereum",
+    "isCurrentOwner": true,
+    "kycVerificationRef": "FAO-KYC-PORTFOLIO"
+  }
+]

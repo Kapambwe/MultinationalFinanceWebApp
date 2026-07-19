@@ -1,0 +1,44 @@
+[
+  {
+    "orderId": "9dd0c785-5eed-48b1-918b-e1ce68d344eb",
+    "tokenSymbol": "JICA-TOK-001",
+    "orderType": "Limit",
+    "side": "Buy",
+    "quantity": 1000,
+    "limitPrice": 10.1,
+    "filledQuantity": 1000,
+    "filledPrice": 10.1,
+    "status": "Filled",
+    "createdAt": "2026-02-10T09:00:00Z",
+    "filledAt": "2026-02-10T09:02:00Z",
+    "placedBy": "JICA Portfolio Desk"
+  },
+  {
+    "orderId": "f0418716-1ac0-4651-9be0-35d74e0faf0c",
+    "tokenSymbol": "JICA-TOK-002",
+    "orderType": "Limit",
+    "side": "Sell",
+    "quantity": 500,
+    "limitPrice": 25.5,
+    "filledQuantity": 0,
+    "filledPrice": 0,
+    "status": "Open",
+    "createdAt": "2026-02-11T10:00:00Z",
+    "filledAt": null,
+    "placedBy": "JICA Treasury Desk"
+  },
+  {
+    "orderId": "5e9b9847-5d33-44f5-81d5-6a3a0b5b7b21",
+    "tokenSymbol": "JICA-TOK-001",
+    "orderType": "Market",
+    "side": "Buy",
+    "quantity": 300,
+    "limitPrice": 0,
+    "filledQuantity": 300,
+    "filledPrice": 10.15,
+    "status": "Filled",
+    "createdAt": "2026-02-12T08:30:00Z",
+    "filledAt": "2026-02-12T08:30:05Z",
+    "placedBy": "JICA Market Access Desk"
+  }
+]

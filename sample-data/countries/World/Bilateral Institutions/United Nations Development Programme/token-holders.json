@@ -1,0 +1,48 @@
+[
+  {
+    "holderId": "d4d2aa1b-9615-4321-a04d-fa2774835a8f",
+    "holderName": "United Nations Development Programme Institutional Portfolio",
+    "holderType": "Institution",
+    "walletAddress": "UNDP_INST_WALLET_001",
+    "holdings": [
+      {
+        "currentValue": 102000,
+        "currentPrice": 10.2,
+        "quantity": 10000,
+        "tokenSymbol": "UNDP-TOK-001",
+        "tokenName": "United Nations Development Programme Operating Token",
+        "acquiredDate": "2026-01-20T00:00:00Z",
+        "tokenId": "4cc701c9-80de-4ca4-a2b4-3725fe9d486e",
+        "averageCost": 10.0,
+        "unrealizedPnL": 2000
+      }
+    ],
+    "totalPortfolioValue": 102000,
+    "registeredDate": "2026-01-20T00:00:00Z",
+    "kycStatus": "Approved",
+    "country": "World"
+  },
+  {
+    "holderId": "e11ba74a-b77c-42fe-b590-bee83cce43b4",
+    "holderName": "United Nations Development Programme Retail Desk",
+    "holderType": "Fund",
+    "walletAddress": "UNDP_RETAIL_WALLET_001",
+    "holdings": [
+      {
+        "currentValue": 62750,
+        "currentPrice": 25.1,
+        "quantity": 2500,
+        "tokenSymbol": "UNDP-TOK-002",
+        "tokenName": "United Nations Development Programme Reserve Token",
+        "acquiredDate": "2026-02-01T00:00:00Z",
+        "tokenId": "6a914ecb-0169-4df4-a08f-4b437ce4216e",
+        "averageCost": 25.0,
+        "unrealizedPnL": 250
+      }
+    ],
+    "totalPortfolioValue": 62750,
+    "registeredDate": "2026-02-01T00:00:00Z",
+    "kycStatus": "Approved",
+    "country": "World"
+  }
+]

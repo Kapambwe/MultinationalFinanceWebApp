@@ -1,0 +1,42 @@
+[
+  {
+    "signatureId": "e69d29a0-6a1e-45f7-b9c8-4f4b046448a9",
+    "tokenId": "c8330d88-d1a0-48d6-9c7a-3e02829c61e7",
+    "tokenSymbol": "FAO-TOK-001",
+    "provenanceId": "b892d8d3-3f45-4451-89ba-56804e5ee01e",
+    "controller": "did:sample:fao-issuer",
+    "verificationMethod": "did:sample:fao-issuer#keys-1",
+    "proofType": "Ed25519Signature2020",
+    "proofPurpose": "assertionMethod",
+    "jws": "eyJhbGciOiJFZERTQSIsImtpZCI6InNhbXBsZSJ9.eyJwYXlsb2FkIjoiY3JlZGl0aWJsZSJ9.signature",
+    "created": "2026-01-15T00:00:00Z",
+    "domain": "fao.example.org",
+    "challenge": "ffdb64d5-9c5f-4a65-8080-95869c455b78",
+    "signedPayloadSummary": "Food and Agriculture Organization minted its first operating token.",
+    "isValid": true,
+    "verifiedAt": "2026-01-15T00:05:00Z",
+    "verifiedBy": "Sample DID Resolver",
+    "signerOrganisation": "Food and Agriculture Organization",
+    "signerRole": "Issuer"
+  },
+  {
+    "signatureId": "9dbaf8f3-b371-4e1d-bbd0-59dd18bf2018",
+    "tokenId": "c8330d88-d1a0-48d6-9c7a-3e02829c61e7",
+    "tokenSymbol": "FAO-TOK-001",
+    "provenanceId": "0ac46c74-7c4e-4fbd-bc36-d2c97eed1ba4",
+    "controller": "did:sample:fao-portfolio",
+    "verificationMethod": "did:sample:fao-portfolio#keys-1",
+    "proofType": "Ed25519Signature2020",
+    "proofPurpose": "authentication",
+    "jws": "eyJhbGciOiJFZERTQSIsImtpZCI6InNhbXBsZSJ9.eyJwYXlsb2FkIjoidHJhbnNmZXIifQ.signature",
+    "created": "2026-01-20T00:00:00Z",
+    "domain": "fao.example.org",
+    "challenge": "d6a89954-0349-414a-b2b5-7dd69edec79a",
+    "signedPayloadSummary": "Food and Agriculture Organization portfolio desk accepted a token transfer.",
+    "isValid": true,
+    "verifiedAt": "2026-01-20T00:05:00Z",
+    "verifiedBy": "Sample DID Resolver",
+    "signerOrganisation": "Food and Agriculture Organization Portfolio Desk",
+    "signerRole": "Holder"
+  }
+]
