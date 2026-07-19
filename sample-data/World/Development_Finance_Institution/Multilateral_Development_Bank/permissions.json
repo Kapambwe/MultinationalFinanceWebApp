@@ -1,19 +1,13 @@
 {
-  "permissions": [
-    "App.Access",
-    "Banking.MDB.View",
-    "Banking.NetworkAnalysis.ViewDashboard",
-    "Banking.DynamicForms.View",
-    "Banking.DynamicForms.Review",
-    "Banking.DigitalTokens.View",
-    "Banking.Access",
-    "Banking.Regulatory.View",
-    "Banking.DynamicForms.View",
-    "Banking.DynamicForms.ViewQueue",
-    "Banking.DynamicForms.Review",
-    "Banking.DynamicForms.ViewDesigner",
-    "Banking.DynamicForms.ViewHistory",
-    "Banking.VentureCapital.View",
-    "Banking.Insurance.View"
+  "roles": [
+    {
+      "role": "Default",
+      "permissions": [
+        "Banking.MDB.View",
+        "Banking.NetworkAnalysis.ViewDashboard",
+        "Banking.DynamicForms.View",
+        "Banking.DigitalTokens.View"
+      ]
+    }
   ]
 }

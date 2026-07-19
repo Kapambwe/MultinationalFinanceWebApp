@@ -1,9 +1,13 @@
 {
-  "permissions": [
-    "App.Access",
-    "MultilateralDevelopmentBank.View",
-    "ProjectPipeline.View",
-    "CoFinancing.View"
+  "roles": [
+    {
+      "role": "Default",
+      "permissions": [
+        "Banking.MDB.View",
+        "Banking.NetworkAnalysis.ViewDashboard",
+        "Banking.DynamicForms.View",
+        "Banking.DigitalTokens.View"
+      ]
+    }
   ]
 }
-

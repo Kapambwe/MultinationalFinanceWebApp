@@ -19,7 +19,7 @@
       ]
     },
     {
-      "role": "Risk Officer",
+      "role": "Monitoring Officer",
       "permissions": [
         "Banking.MDB.View",
         "Banking.NetworkAnalysis.ViewDashboard",
