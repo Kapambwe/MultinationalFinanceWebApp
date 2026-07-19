@@ -9,6 +9,8 @@
         "Banking.NetworkAnalysis.ViewDashboard",
         "Banking.DynamicForms.View",
         "Banking.DigitalTokens.View",
+        "Banking.Government.View",
+        "Banking.OpenBanking.ViewConsents",
         "Banking.VentureCapital.View",
         "Banking.Insurance.View",
         "Banking.Access"

@@ -1,0 +1,30 @@
+[
+  {
+    "SubscriptionId": "7f86f3f2-4d41-48f7-b8e8-000000002001",
+    "SubscriptionCode": "SUB-ADF-ZM-AGR-2024",
+    "RequestorId": "a1b2c3d4-0000-0000-0000-000000000001",
+    "RequestorName": "Portfolio Monitoring Division",
+    "RequestorInstitution": "African Development Bank",
+    "ProgramCode": "ADF-ZM-AGR-2024",
+    "ProgramName": "Agricultural Transformation Programme - Zambia",
+    "CountryCode": "ZM",
+    "FundingInstrumentReference": "ADF-LOAN-ZM-2024-001",
+    "DataStreams": [
+      { "StreamName": "Farm Production", "Category": 0, "Description": "Crop production and acreage", "FrequencyLabel": "Quarterly", "IsActive": true, "ActiveConsentCount": 2351, "LastUpdated": "2025-04-10T00:00:00Z" },
+      { "StreamName": "Input Usage", "Category": 1, "Description": "Seed and fertilizer usage", "FrequencyLabel": "Quarterly", "IsActive": true, "ActiveConsentCount": 2351, "LastUpdated": "2025-04-10T00:00:00Z" },
+      { "StreamName": "Income & Sales", "Category": 2, "Description": "Revenue and market access", "FrequencyLabel": "Quarterly", "IsActive": true, "ActiveConsentCount": 2351, "LastUpdated": "2025-04-10T00:00:00Z" },
+      { "StreamName": "Disbursement Receipts", "Category": 3, "Description": "Receipt confirmation from beneficiaries", "FrequencyLabel": "Per payment", "IsActive": true, "ActiveConsentCount": 2400, "LastUpdated": "2025-04-05T00:00:00Z" }
+    ],
+    "ReceivesIndividualRecords": true,
+    "ReceivesAggregatedSummaries": true,
+    "ReceivesAlerts": true,
+    "ReceivesDashboard": true,
+    "AlertThresholdResponseRate": 80,
+    "Status": 0,
+    "TotalConsentedSubjects": 2400,
+    "TotalSubmissionsReceived": 7194,
+    "LastDataReceivedAt": "2025-04-11T12:00:00Z",
+    "StartDate": "2024-07-01T00:00:00Z",
+    "CreatedAt": "2024-06-15T00:00:00Z"
+  }
+]

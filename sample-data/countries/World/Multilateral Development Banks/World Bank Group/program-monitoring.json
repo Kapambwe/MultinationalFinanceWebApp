@@ -1,0 +1,27 @@
+[
+  {
+    "SubscriptionId": "9c86f3f2-4d41-48f7-b8e8-000000032001",
+    "SubscriptionCode": "SUB-WBG-GLOBAL-DATA-2025",
+    "RequestorId": "c1b2c3d4-0000-0000-0000-000000000001",
+    "RequestorName": "Portfolio Monitoring Division",
+    "RequestorInstitution": "World Bank Group",
+    "ProgramCode": "WBG-GLOBAL-DATA-2025",
+    "ProgramName": "Global Development Data Program",
+    "CountryCode": "US",
+    "FundingInstrumentReference": "WBG-DATA-2025-001",
+    "DataStreams": [
+      { "StreamName": "Government Statistics", "Category": 10, "Description": "Official government data feeds", "FrequencyLabel": "Monthly", "IsActive": true, "ActiveConsentCount": 52, "LastUpdated": "2025-04-18T00:00:00Z" }
+    ],
+    "ReceivesIndividualRecords": false,
+    "ReceivesAggregatedSummaries": true,
+    "ReceivesAlerts": true,
+    "ReceivesDashboard": true,
+    "AlertThresholdResponseRate": 90,
+    "Status": 0,
+    "TotalConsentedSubjects": 52,
+    "TotalSubmissionsReceived": 47,
+    "LastDataReceivedAt": "2025-04-20T12:00:00Z",
+    "StartDate": "2024-07-01T00:00:00Z",
+    "CreatedAt": "2024-06-15T00:00:00Z"
+  }
+]

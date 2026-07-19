@@ -1,0 +1,28 @@
+[
+  {
+    "SubscriptionId": "cf86f3f2-4d41-48f7-b8e8-000000052001",
+    "SubscriptionCode": "SUB-JICA-PH-AGR-2025",
+    "RequestorId": "e1b2c3d4-0000-0000-0000-000000000001",
+    "RequestorName": "Portfolio Monitoring Division",
+    "RequestorInstitution": "JICA",
+    "ProgramCode": "JICA-PH-AGR-2025",
+    "ProgramName": "Agribusiness Value Chain Strengthening",
+    "CountryCode": "PH",
+    "FundingInstrumentReference": "JICA-AGR-PH-2025-001",
+    "DataStreams": [
+      { "StreamName": "Production", "Category": 0, "Description": "Cluster production volumes", "FrequencyLabel": "Quarterly", "IsActive": true, "ActiveConsentCount": 96, "LastUpdated": "2025-04-01T00:00:00Z" },
+      { "StreamName": "Sales", "Category": 2, "Description": "Sales and market access", "FrequencyLabel": "Quarterly", "IsActive": true, "ActiveConsentCount": 96, "LastUpdated": "2025-04-01T00:00:00Z" }
+    ],
+    "ReceivesIndividualRecords": true,
+    "ReceivesAggregatedSummaries": true,
+    "ReceivesAlerts": true,
+    "ReceivesDashboard": true,
+    "AlertThresholdResponseRate": 80,
+    "Status": 0,
+    "TotalConsentedSubjects": 96,
+    "TotalSubmissionsReceived": 78,
+    "LastDataReceivedAt": "2025-04-02T12:00:00Z",
+    "StartDate": "2024-07-01T00:00:00Z",
+    "CreatedAt": "2024-06-15T00:00:00Z"
+  }
+]

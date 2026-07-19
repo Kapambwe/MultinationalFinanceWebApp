@@ -1,0 +1,37 @@
+[
+  {
+    "SubmissionId": "af7336fb-8f4c-4a4c-9d6f-000000031001",
+    "SubmissionReference": "SUB-ADB-31001-Q1-2025",
+    "ConsentId": "g2f5c1b6-4d2e-4e60-9a7a-4f4dd11f4001",
+    "RequestId": "ad92b2a8-2e4a-4b6a-9f45-000000030101",
+    "RequestCode": "DR-ADB-PH-URBAN-2025-Q1",
+    "SubjectId": "be1a32dd-7d8f-47d8-95d4-5d8a6d9b4001",
+    "SubjectName": "Philippines Transport Utility Cooperative",
+    "SubjectType": 1,
+    "SubjectIdentifier": "COOP-PH-55421",
+    "ProgramCode": "ADB-PH-URBAN-2025",
+    "ProgramName": "Urban Mobility and Clean Transport Program",
+    "ReportingPeriod": "Q1-2025",
+    "PeriodStartDate": "2025-01-01T00:00:00Z",
+    "PeriodEndDate": "2025-03-31T00:00:00Z",
+    "Latitude": 14.6760,
+    "Longitude": 121.0437,
+    "District": "Quezon City",
+    "Province": "NCR",
+    "CountryCode": "PH",
+    "DataPoints": [
+      { "FieldName": "daily_ridership", "DataCategory": "FarmingAndProduction", "Value": "124800", "Unit": "riders", "Source": 0, "IsVerified": true, "VerificationNote": "" },
+      { "FieldName": "fare_collected", "DataCategory": "IncomeAndSales", "Value": "4890000", "Unit": "PHP", "Source": 0, "IsVerified": true, "VerificationNote": "" },
+      { "FieldName": "verifiable_credential_presentation", "DataCategory": "ProgramCompliance", "Value": "vc:pres:adb-ph-urban-2025-q1-0001", "Unit": "", "Source": 6, "IsVerified": true, "VerificationNote": "Transit consent credential attached to the submission" }
+    ],
+    "VerificationStatus": 1,
+    "VerifiedBy": "Field Officer R. Santos",
+    "VerifiedAt": "2025-04-16T08:00:00Z",
+    "RejectionReason": "",
+    "QualityScore": 94,
+    "SubmittedVia": 4,
+    "SubmittedByAgent": "",
+    "SubmittedAt": "2025-04-15T14:30:00Z",
+    "CreatedAt": "2025-04-15T14:30:00Z"
+  }
+]

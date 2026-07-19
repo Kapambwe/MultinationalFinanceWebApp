@@ -1,0 +1,37 @@
+[
+  {
+    "SubmissionId": "9d7336fb-8f4c-4a4c-9d6f-000000011001",
+    "SubmissionReference": "SUB-EIB-11001-Q1-2025",
+    "ConsentId": "e2f5c1b6-4d2e-4e60-9a7a-4f4dd11e2001",
+    "RequestId": "8b92b2a8-2e4a-4b6a-9f45-000000010101",
+    "RequestCode": "DR-EIB-EU-CLIMATE-2025-Q1",
+    "SubjectId": "9e1a32dd-7d8f-47d8-95d4-5d8a6d9b2001",
+    "SubjectName": "Balkans Renewable Energy Cooperative",
+    "SubjectType": 1,
+    "SubjectIdentifier": "COOP-EU-22144",
+    "ProgramCode": "EIB-EU-CLIMATE-2025",
+    "ProgramName": "Climate Transition Facility",
+    "ReportingPeriod": "Q1-2025",
+    "PeriodStartDate": "2025-01-01T00:00:00Z",
+    "PeriodEndDate": "2025-03-31T00:00:00Z",
+    "Latitude": 46.0569,
+    "Longitude": 14.5058,
+    "District": "Ljubljana",
+    "Province": "Ljubljana",
+    "CountryCode": "SI",
+    "DataPoints": [
+      { "FieldName": "energy_generated_kwh", "DataCategory": "FarmingAndProduction", "Value": "248900", "Unit": "kWh", "Source": 0, "IsVerified": true, "VerificationNote": "" },
+      { "FieldName": "grid_exports_kwh", "DataCategory": "MarketTransactions", "Value": "193500", "Unit": "kWh", "Source": 1, "IsVerified": true, "VerificationNote": "" },
+      { "FieldName": "verifiable_credential_presentation", "DataCategory": "ProgramCompliance", "Value": "vc:pres:eib-eu-climate-2025-q1-0001", "Unit": "", "Source": 6, "IsVerified": true, "VerificationNote": "Signed program consent credential attached to the submission" }
+    ],
+    "VerificationStatus": 1,
+    "VerifiedBy": "Field Officer M. Novak",
+    "VerifiedAt": "2025-04-13T09:00:00Z",
+    "RejectionReason": "",
+    "QualityScore": 95,
+    "SubmittedVia": 4,
+    "SubmittedByAgent": "",
+    "SubmittedAt": "2025-04-12T15:30:00Z",
+    "CreatedAt": "2025-04-12T15:30:00Z"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "RequestId": "8b92b2a8-2e4a-4b6a-9f45-000000010101",
+    "RequestCode": "DR-EIB-EU-CLIMATE-2025-Q1",
+    "Title": "Q1 2025 - Renewable Energy Production and Grid Usage",
+    "RequestorId": "b1b2c3d4-0000-0000-0000-000000000001",
+    "RequestorName": "Climate and Energy Transition Unit",
+    "RequestorInstitution": "European Investment Bank",
+    "ProgramCode": "EIB-EU-CLIMATE-2025",
+    "ProgramName": "Climate Transition Facility",
+    "CountryCode": "SI",
+    "SupportsVerifiableCredentials": true,
+    "RequiredCredentialType": "ProgramConsentCredential",
+    "RequiredIssuerDid": "did:eu:eib:climate",
+    "RequiredTrustPolicyId": "banking-program-monitoring-v1",
+    "RequiresHolderBinding": true,
+    "Scope": 0,
+    "CohortFilter": "All enrolled renewable energy cooperatives",
+    "RequestedFields": [
+      { "FieldName": "energy_generated_kwh", "DataCategory": "FarmingAndProduction", "Description": "Electricity produced", "Unit": "kWh", "IsRequired": true, "FieldType": 2, "ValidationRule": ">= 0" },
+      { "FieldName": "grid_exports_kwh", "DataCategory": "MarketTransactions", "Description": "Energy exported to grid", "Unit": "kWh", "IsRequired": true, "FieldType": 2, "ValidationRule": ">= 0" },
+      { "FieldName": "verifiable_credential_presentation", "DataCategory": "ProgramCompliance", "Description": "Signed verifiable credential proving consent and eligibility", "Unit": "", "IsRequired": true, "FieldType": 6, "ValidationRule": "" }
+    ],
+    "Frequency": 3,
+    "ReportingPeriod": "Q1-2025",
+    "DueDate": "2025-04-20T00:00:00Z",
+    "LastCollectedDate": "2025-04-12T00:00:00Z",
+    "Status": 2,
+    "TotalSubjectsInScope": 180,
+    "SubjectsResponded": 146,
+    "SubjectsOverdue": 34,
+    "CreatedAt": "2025-02-20T00:00:00Z"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "SubmissionId": "cf7336fb-8f4c-4a4c-9d6f-000000041001",
+    "SubmissionReference": "SUB-JICA-41001-Q1-2025",
+    "ConsentId": "h2f5c1b6-4d2e-4e60-9a7a-4f4dd11f5001",
+    "RequestId": "cf92b2a8-2e4a-4b6a-9f45-000000040101",
+    "RequestCode": "DR-JICA-PH-AGR-2025-Q1",
+    "SubjectId": "ce1a32dd-7d8f-47d8-95d4-5d8a6d9b5001",
+    "SubjectName": "Mindanao Agribusiness Association",
+    "SubjectType": 1,
+    "SubjectIdentifier": "ASSOC-PH-11098",
+    "ProgramCode": "JICA-PH-AGR-2025",
+    "ProgramName": "Agribusiness Value Chain Strengthening",
+    "ReportingPeriod": "Q1-2025",
+    "PeriodStartDate": "2025-01-01T00:00:00Z",
+    "PeriodEndDate": "2025-03-31T00:00:00Z",
+    "Latitude": 7.1907,
+    "Longitude": 125.4553,
+    "District": "Davao",
+    "Province": "Davao del Sur",
+    "CountryCode": "PH",
+    "DataPoints": [
+      { "FieldName": "production_volume", "DataCategory": "FarmingAndProduction", "Value": "184500", "Unit": "kg", "Source": 0, "IsVerified": true, "VerificationNote": "" },
+      { "FieldName": "sales_revenue", "DataCategory": "IncomeAndSales", "Value": "7420000", "Unit": "PHP", "Source": 0, "IsVerified": true, "VerificationNote": "" },
+      { "FieldName": "verifiable_credential_presentation", "DataCategory": "ProgramCompliance", "Value": "vc:pres:jica-ph-agr-2025-q1-0001", "Unit": "", "Source": 6, "IsVerified": true, "VerificationNote": "Program consent credential attached to the submission" }
+    ],
+    "VerificationStatus": 1,
+    "VerifiedBy": "Field Officer S. Tan",
+    "VerifiedAt": "2025-04-02T10:30:00Z",
+    "RejectionReason": "",
+    "QualityScore": 93,
+    "SubmittedVia": 4,
+    "SubmittedByAgent": "",
+    "SubmittedAt": "2025-04-01T16:00:00Z",
+    "CreatedAt": "2025-04-01T16:00:00Z"
+  }
+]

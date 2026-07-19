@@ -1,0 +1,37 @@
+[
+  {
+    "SubmissionId": "8e7336fb-8f4c-4a4c-9d6f-000000021001",
+    "SubmissionReference": "SUB-WBG-21001-Q1-2025",
+    "ConsentId": "f2f5c1b6-4d2e-4e60-9a7a-4f4dd11f3001",
+    "RequestId": "7c92b2a8-2e4a-4b6a-9f45-000000020101",
+    "RequestCode": "DR-WBG-GLOBAL-2025-Q1",
+    "SubjectId": "ae1a32dd-7d8f-47d8-95d4-5d8a6d9b3001",
+    "SubjectName": "National Statistics Office",
+    "SubjectType": 6,
+    "SubjectIdentifier": "GOV-WLD-STAT-001",
+    "ProgramCode": "WBG-GLOBAL-DATA-2025",
+    "ProgramName": "Global Development Data Program",
+    "ReportingPeriod": "Q1-2025",
+    "PeriodStartDate": "2025-01-01T00:00:00Z",
+    "PeriodEndDate": "2025-03-31T00:00:00Z",
+    "Latitude": 38.9072,
+    "Longitude": -77.0369,
+    "District": "Washington",
+    "Province": "DC",
+    "CountryCode": "US",
+    "DataPoints": [
+      { "FieldName": "population_estimate", "DataCategory": "GovernmentStatistics", "Value": "338000000", "Unit": "", "Source": 6, "IsVerified": true, "VerificationNote": "" },
+      { "FieldName": "inflation_rate", "DataCategory": "GovernmentStatistics", "Value": "3.1", "Unit": "%", "Source": 6, "IsVerified": true, "VerificationNote": "" },
+      { "FieldName": "verifiable_credential_presentation", "DataCategory": "ProgramCompliance", "Value": "vc:pres:wbg-global-data-2025-q1-0001", "Unit": "", "Source": 6, "IsVerified": true, "VerificationNote": "Government consent credential presented with source data" }
+    ],
+    "VerificationStatus": 1,
+    "VerifiedBy": "Stats QA Team",
+    "VerifiedAt": "2025-04-20T09:00:00Z",
+    "RejectionReason": "",
+    "QualityScore": 98,
+    "SubmittedVia": 5,
+    "SubmittedByAgent": "",
+    "SubmittedAt": "2025-04-18T15:30:00Z",
+    "CreatedAt": "2025-04-18T15:30:00Z"
+  }
+]

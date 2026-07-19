@@ -1,0 +1,33 @@
+[
+  {
+    "RequestId": "cf92b2a8-2e4a-4b6a-9f45-000000040101",
+    "RequestCode": "DR-JICA-PH-AGR-2025-Q1",
+    "Title": "Q1 2025 - Production, Sales and Input Usage",
+    "RequestorId": "e1b2c3d4-0000-0000-0000-000000000001",
+    "RequestorName": "Agriculture and Value Chain Unit",
+    "RequestorInstitution": "JICA",
+    "ProgramCode": "JICA-PH-AGR-2025",
+    "ProgramName": "Agribusiness Value Chain Strengthening",
+    "CountryCode": "PH",
+    "SupportsVerifiableCredentials": true,
+    "RequiredCredentialType": "ProgramConsentCredential",
+    "RequiredIssuerDid": "did:jp:jica:agri",
+    "RequiredTrustPolicyId": "banking-program-monitoring-v1",
+    "RequiresHolderBinding": true,
+    "Scope": 0,
+    "CohortFilter": "All enrolled agribusiness clusters",
+    "RequestedFields": [
+      { "FieldName": "production_volume", "DataCategory": "FarmingAndProduction", "Description": "Production volume", "Unit": "kg", "IsRequired": true, "FieldType": 2, "ValidationRule": ">= 0" },
+      { "FieldName": "sales_revenue", "DataCategory": "IncomeAndSales", "Description": "Revenue from sales", "Unit": "PHP", "IsRequired": true, "FieldType": 2, "ValidationRule": ">= 0" },
+      { "FieldName": "verifiable_credential_presentation", "DataCategory": "ProgramCompliance", "Description": "Signed verifiable credential proving cluster membership and authorization", "Unit": "", "IsRequired": true, "FieldType": 6, "ValidationRule": "" }
+    ],
+    "Frequency": 3,
+    "ReportingPeriod": "Q1-2025",
+    "DueDate": "2025-04-18T00:00:00Z",
+    "Status": 1,
+    "TotalSubjectsInScope": 96,
+    "SubjectsResponded": 78,
+    "SubjectsOverdue": 18,
+    "CreatedAt": "2025-02-10T00:00:00Z"
+  }
+]

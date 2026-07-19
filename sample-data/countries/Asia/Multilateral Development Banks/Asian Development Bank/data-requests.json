@@ -1,0 +1,35 @@
+[
+  {
+    "RequestId": "ad92b2a8-2e4a-4b6a-9f45-000000030101",
+    "RequestCode": "DR-ADB-PH-URBAN-2025-Q1",
+    "Title": "Q1 2025 - Ridership, Fare Collection and Subsidy Verification",
+    "RequestorId": "d1b2c3d4-0000-0000-0000-000000000001",
+    "RequestorName": "Urban Mobility Unit",
+    "RequestorInstitution": "Asian Development Bank",
+    "ProgramCode": "ADB-PH-URBAN-2025",
+    "ProgramName": "Urban Mobility and Clean Transport Program",
+    "CountryCode": "PH",
+    "SupportsVerifiableCredentials": true,
+    "RequiredCredentialType": "TransitConsentCredential",
+    "RequiredIssuerDid": "did:ph:gov:transport",
+    "RequiredTrustPolicyId": "banking-program-monitoring-v1",
+    "RequiresHolderBinding": true,
+    "Scope": 0,
+    "CohortFilter": "All enrolled transport cooperatives",
+    "RequestedFields": [
+      { "FieldName": "daily_ridership", "DataCategory": "FarmingAndProduction", "Description": "Daily passenger volume", "Unit": "riders", "IsRequired": true, "FieldType": 2, "ValidationRule": ">= 0" },
+      { "FieldName": "fare_collected", "DataCategory": "IncomeAndSales", "Description": "Fare collection amount", "Unit": "PHP", "IsRequired": true, "FieldType": 2, "ValidationRule": ">= 0" },
+      { "FieldName": "subsidy_received_confirmation", "DataCategory": "DisbursementReceipts", "Description": "Receipt confirmation", "Unit": "", "IsRequired": true, "FieldType": 3, "ValidationRule": "true|false" },
+      { "FieldName": "verifiable_credential_presentation", "DataCategory": "ProgramCompliance", "Description": "Signed verifiable credential proving program enrollment and consent", "Unit": "", "IsRequired": true, "FieldType": 6, "ValidationRule": "" }
+    ],
+    "Frequency": 3,
+    "ReportingPeriod": "Q1-2025",
+    "DueDate": "2025-04-20T00:00:00Z",
+    "LastCollectedDate": "2025-04-15T00:00:00Z",
+    "Status": 2,
+    "TotalSubjectsInScope": 180,
+    "SubjectsResponded": 146,
+    "SubjectsOverdue": 34,
+    "CreatedAt": "2025-02-20T00:00:00Z"
+  }
+]

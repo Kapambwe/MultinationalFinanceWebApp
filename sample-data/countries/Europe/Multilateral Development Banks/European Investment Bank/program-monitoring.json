@@ -1,0 +1,28 @@
+[
+  {
+    "SubscriptionId": "ab86f3f2-4d41-48f7-b8e8-000000022001",
+    "SubscriptionCode": "SUB-EIB-EU-CLIMATE-2025",
+    "RequestorId": "b1b2c3d4-0000-0000-0000-000000000001",
+    "RequestorName": "Portfolio Monitoring Division",
+    "RequestorInstitution": "European Investment Bank",
+    "ProgramCode": "EIB-EU-CLIMATE-2025",
+    "ProgramName": "Climate Transition Facility",
+    "CountryCode": "SI",
+    "FundingInstrumentReference": "EIB-CLIMATE-EU-2025-001",
+    "DataStreams": [
+      { "StreamName": "Renewable Generation", "Category": 0, "Description": "Renewable generation output", "FrequencyLabel": "Quarterly", "IsActive": true, "ActiveConsentCount": 180, "LastUpdated": "2025-04-12T00:00:00Z" },
+      { "StreamName": "Grid Export", "Category": 2, "Description": "Grid export volumes", "FrequencyLabel": "Quarterly", "IsActive": true, "ActiveConsentCount": 180, "LastUpdated": "2025-04-12T00:00:00Z" }
+    ],
+    "ReceivesIndividualRecords": true,
+    "ReceivesAggregatedSummaries": true,
+    "ReceivesAlerts": true,
+    "ReceivesDashboard": true,
+    "AlertThresholdResponseRate": 85,
+    "Status": 0,
+    "TotalConsentedSubjects": 180,
+    "TotalSubmissionsReceived": 146,
+    "LastDataReceivedAt": "2025-04-13T12:00:00Z",
+    "StartDate": "2024-07-01T00:00:00Z",
+    "CreatedAt": "2024-06-15T00:00:00Z"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "SubmissionId": "6d7336fb-8f4c-4a4c-9d6f-000000001001",
+    "SubmissionReference": "SUB-ZM-10001-Q1-2025",
+    "ConsentId": "d2f5c1b6-4d2e-4e60-9a7a-4f4dd11d1001",
+    "RequestId": "5b92b2a8-2e4a-4b6a-9f45-000000000101",
+    "RequestCode": "DR-ADF-ZM-AGR-2025-Q1",
+    "SubjectId": "8e1a32dd-7d8f-47d8-95d4-5d8a6d9b1001",
+    "SubjectName": "Lusaka Women Farmers Cooperative",
+    "SubjectType": 1,
+    "SubjectIdentifier": "COOP-ZM-22144",
+    "ProgramCode": "ADF-ZM-AGR-2024",
+    "ProgramName": "Agricultural Transformation Programme - Zambia",
+    "ReportingPeriod": "Q1-2025",
+    "PeriodStartDate": "2025-01-01T00:00:00Z",
+    "PeriodEndDate": "2025-03-31T00:00:00Z",
+    "Latitude": -15.4167,
+    "Longitude": 28.2833,
+    "District": "Lusaka",
+    "Province": "Lusaka",
+    "CountryCode": "ZM",
+    "DataPoints": [
+      { "FieldName": "crop_type", "DataCategory": "FarmingAndProduction", "Value": "Maize", "Unit": "", "Source": 0, "IsVerified": true, "VerificationNote": "" },
+      { "FieldName": "hectares_planted", "DataCategory": "FarmingAndProduction", "Value": "18.5", "Unit": "ha", "Source": 0, "IsVerified": true, "VerificationNote": "" },
+      { "FieldName": "fertilizer_bags_used", "DataCategory": "InputUsage", "Value": "126", "Unit": "bags", "Source": 0, "IsVerified": true, "VerificationNote": "" },
+      { "FieldName": "verifiable_credential_presentation", "DataCategory": "ProgramCompliance", "Value": "vc:pres:adf-zm-agr-2025-q1-0001", "Unit": "", "Source": 6, "IsVerified": true, "VerificationNote": "Signed program consent credential attached to the submission" }
+    ],
+    "VerificationStatus": 1,
+    "VerifiedBy": "Field Officer A. Tembo",
+    "VerifiedAt": "2025-04-08T10:00:00Z",
+    "RejectionReason": "",
+    "QualityScore": 92,
+    "SubmittedVia": 4,
+    "SubmittedByAgent": "",
+    "SubmittedAt": "2025-04-07T15:30:00Z",
+    "CreatedAt": "2025-04-07T15:30:00Z"
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "RequestId": "7c92b2a8-2e4a-4b6a-9f45-000000020101",
+    "RequestCode": "DR-WBG-GLOBAL-2025-Q1",
+    "Title": "Q1 2025 - National Statistics and Administrative Records",
+    "RequestorId": "c1b2c3d4-0000-0000-0000-000000000001",
+    "RequestorName": "Data for Development Unit",
+    "RequestorInstitution": "World Bank Group",
+    "ProgramCode": "WBG-GLOBAL-DATA-2025",
+    "ProgramName": "Global Development Data Program",
+    "CountryCode": "US",
+    "SupportsVerifiableCredentials": true,
+    "RequiredCredentialType": "GovernmentConsentCredential",
+    "RequiredIssuerDid": "did:world:gov:statistics",
+    "RequiredTrustPolicyId": "banking-program-monitoring-v1",
+    "RequiresHolderBinding": true,
+    "Scope": 4,
+    "CohortFilter": "Government statistics offices",
+    "RequestedFields": [
+      { "FieldName": "population_estimate", "DataCategory": "GovernmentStatistics", "Description": "Annual population estimate", "Unit": "", "IsRequired": true, "FieldType": 2, "ValidationRule": ">= 0" },
+      { "FieldName": "inflation_rate", "DataCategory": "GovernmentStatistics", "Description": "Consumer inflation", "Unit": "%", "IsRequired": true, "FieldType": 2, "ValidationRule": ">= 0" },
+      { "FieldName": "verifiable_credential_presentation", "DataCategory": "ProgramCompliance", "Description": "Signed verifiable credential proving the data source and authorization", "Unit": "", "IsRequired": true, "FieldType": 6, "ValidationRule": "" }
+    ],
+    "Frequency": 3,
+    "ReportingPeriod": "Q1-2025",
+    "DueDate": "2025-05-01T00:00:00Z",
+    "Status": 1,
+    "TotalSubjectsInScope": 52,
+    "SubjectsResponded": 47,
+    "SubjectsOverdue": 5,
+    "CreatedAt": "2025-02-15T00:00:00Z"
+  }
+]

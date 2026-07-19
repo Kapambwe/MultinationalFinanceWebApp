@@ -1,0 +1,28 @@
+[
+  {
+    "SubscriptionId": "bf86f3f2-4d41-48f7-b8e8-000000042001",
+    "SubscriptionCode": "SUB-ADB-PH-URBAN-2025",
+    "RequestorId": "d1b2c3d4-0000-0000-0000-000000000001",
+    "RequestorName": "Portfolio Monitoring Division",
+    "RequestorInstitution": "Asian Development Bank",
+    "ProgramCode": "ADB-PH-URBAN-2025",
+    "ProgramName": "Urban Mobility and Clean Transport Program",
+    "CountryCode": "PH",
+    "FundingInstrumentReference": "ADB-TRANSPORT-PH-2025-001",
+    "DataStreams": [
+      { "StreamName": "Ridership", "Category": 0, "Description": "Passenger volumes", "FrequencyLabel": "Quarterly", "IsActive": true, "ActiveConsentCount": 180, "LastUpdated": "2025-04-15T00:00:00Z" },
+      { "StreamName": "Fare Collection", "Category": 2, "Description": "Fare and subsidy tracking", "FrequencyLabel": "Quarterly", "IsActive": true, "ActiveConsentCount": 180, "LastUpdated": "2025-04-15T00:00:00Z" }
+    ],
+    "ReceivesIndividualRecords": true,
+    "ReceivesAggregatedSummaries": true,
+    "ReceivesAlerts": true,
+    "ReceivesDashboard": true,
+    "AlertThresholdResponseRate": 85,
+    "Status": 0,
+    "TotalConsentedSubjects": 180,
+    "TotalSubmissionsReceived": 146,
+    "LastDataReceivedAt": "2025-04-16T12:00:00Z",
+    "StartDate": "2024-07-01T00:00:00Z",
+    "CreatedAt": "2024-06-15T00:00:00Z"
+  }
+]
