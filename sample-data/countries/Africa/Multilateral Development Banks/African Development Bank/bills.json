@@ -1,0 +1,4 @@
+[
+  { "billNo": "BILL-10221", "vendor": "Lakeside Advisory Ltd", "dueDate": "2026-07-05", "amount": 180000, "status": "Open" },
+  { "billNo": "BILL-10222", "vendor": "Nile Field Services", "dueDate": "2026-07-08", "amount": 420000, "status": "Paid" }
+]

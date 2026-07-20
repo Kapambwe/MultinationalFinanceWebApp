@@ -1,0 +1,8 @@
+[
+  { "accountCode": "1000", "accountName": "Cash and Cash Equivalents", "accountType": "Asset", "balance": 18452000 },
+  { "accountCode": "1200", "accountName": "Accounts Receivable", "accountType": "Asset", "balance": 3925000 },
+  { "accountCode": "2000", "accountName": "Accounts Payable", "accountType": "Liability", "balance": 1658000 },
+  { "accountCode": "3000", "accountName": "Program Reserves", "accountType": "Equity", "balance": 22000000 },
+  { "accountCode": "4000", "accountName": "Grant Revenue", "accountType": "Revenue", "balance": 9100000 },
+  { "accountCode": "5000", "accountName": "Operating Expenses", "accountType": "Expense", "balance": 5400000 }
+]

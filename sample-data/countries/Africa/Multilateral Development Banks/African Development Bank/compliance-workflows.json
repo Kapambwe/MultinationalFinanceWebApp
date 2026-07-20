@@ -1,0 +1,19 @@
+[
+  {
+    "key": "project-review",
+    "title": "Project Review",
+    "description": "Review pipeline submissions and attached evidence.",
+    "route": "/regulatory/compliance-controls/review",
+    "enableAutoDecision": false,
+    "useCases": [ "DevelopmentFinance", "LoanOrigination" ],
+    "stages": [
+      { "key": "intake", "title": "Intake", "description": "Capture the request.", "order": 1 },
+      { "key": "screening", "title": "Screening", "description": "Check completeness and eligibility.", "order": 2 },
+      { "key": "approval", "title": "Approval", "description": "Approval and sign-off.", "order": 3 }
+    ],
+    "evidenceRequirements": [
+      { "key": "vc", "title": "Verifiable credentials", "description": "Signed issuer credentials.", "evidenceType": "VerifiableCredential", "required": true },
+      { "key": "proof", "title": "Supporting proof", "description": "Evidence bundle for review.", "evidenceType": "ProofDocument", "required": true }
+    ]
+  }
+]

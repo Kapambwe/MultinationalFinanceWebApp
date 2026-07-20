@@ -1,0 +1,4 @@
+[
+  { "employeeId": "ADFI-EMP-001", "fullName": "Nadia Mensah", "department": "Advisory", "role": "Programme Analyst", "employmentStatus": "Active" },
+  { "employeeId": "ADFI-EMP-002", "fullName": "Thomas Ncube", "department": "Finance", "role": "Finance Officer", "employmentStatus": "Active" }
+]

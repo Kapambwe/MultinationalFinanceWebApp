@@ -1,0 +1,4 @@
+[
+  { "date": "2026-06-30", "journalNo": "JE-WMDB-001", "description": "Regional programme disbursement", "debitAccount": "Cash and Cash Equivalents", "creditAccount": "Programme Revenue", "amount": 9000000 },
+  { "date": "2026-06-27", "journalNo": "JE-WMDB-002", "description": "External consultancy services", "debitAccount": "Operating Expenses", "creditAccount": "Accounts Payable", "amount": 215000 }
+]

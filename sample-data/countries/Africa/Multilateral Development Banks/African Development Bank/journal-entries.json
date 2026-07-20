@@ -1,0 +1,5 @@
+[
+  { "date": "2026-06-30", "journalNo": "JE-00192", "description": "Programme disbursement", "debitAccount": "Program Reserves", "creditAccount": "Grant Revenue", "amount": 2500000 },
+  { "date": "2026-06-28", "journalNo": "JE-00193", "description": "Technical advisory costs", "debitAccount": "Operating Expenses", "creditAccount": "Accounts Payable", "amount": 180000 },
+  { "date": "2026-06-25", "journalNo": "JE-00194", "description": "Equipment invoice settlement", "debitAccount": "Accounts Payable", "creditAccount": "Cash and Cash Equivalents", "amount": 420000 }
+]

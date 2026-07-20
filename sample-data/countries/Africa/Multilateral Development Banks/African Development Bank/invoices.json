@@ -1,0 +1,4 @@
+[
+  { "invoiceNo": "INV-44021", "counterparty": "Ministry of Water", "issueDate": "2026-06-30", "amount": 2500000, "status": "Approved" },
+  { "invoiceNo": "INV-44022", "counterparty": "Eastern Basin Consultants", "issueDate": "2026-06-28", "amount": 180000, "status": "Approved" }
+]

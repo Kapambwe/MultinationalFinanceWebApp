@@ -1,0 +1,9 @@
+[
+  {
+    "tokenId": "default-token-001",
+    "name": "Default Development Token",
+    "tokenType": "Supply Chain Token",
+    "issuer": "Default Multilateral Development Banks",
+    "status": "Active"
+  }
+]

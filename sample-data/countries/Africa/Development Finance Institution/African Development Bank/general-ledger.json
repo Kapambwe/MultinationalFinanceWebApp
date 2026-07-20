@@ -1,0 +1,4 @@
+[
+  { "entryDate": "2026-06-30", "reference": "GL-ADFI-0601", "description": "Country strategy advisory fee", "debit": 420000, "credit": 420000, "account": "Advisory Revenue" },
+  { "entryDate": "2026-06-29", "reference": "GL-ADFI-0602", "description": "Programme travel costs", "debit": 68000, "credit": 68000, "account": "Operating Expenses" }
+]

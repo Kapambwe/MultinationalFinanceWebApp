@@ -1,0 +1,4 @@
+[
+  { "entryDate": "2026-06-30", "reference": "GL-EDFI-0601", "description": "Advisory fee for regional blended finance review", "debit": 560000, "credit": 560000, "account": "Advisory Revenue" },
+  { "entryDate": "2026-06-29", "reference": "GL-EDFI-0602", "description": "Market assessment expense", "debit": 94000, "credit": 94000, "account": "Operating Expenses" }
+]

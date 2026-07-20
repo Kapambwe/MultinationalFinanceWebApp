@@ -1,0 +1,5 @@
+[
+  { "departmentName": "Operations", "headcount": 18, "manager": "Amina Diallo" },
+  { "departmentName": "Finance", "headcount": 11, "manager": "Joseph Mwangi" },
+  { "departmentName": "Monitoring & Evaluation", "headcount": 7, "manager": "Grace Ndlovu" }
+]

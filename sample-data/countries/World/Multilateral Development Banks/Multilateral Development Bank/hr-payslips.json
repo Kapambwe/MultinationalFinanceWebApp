@@ -1,0 +1,4 @@
+[
+  { "employeeId": "WMDB-EMP-001", "period": "June 2026", "grossPay": 72000, "netPay": 54600 },
+  { "employeeId": "WMDB-EMP-002", "period": "June 2026", "grossPay": 68000, "netPay": 51200 }
+]

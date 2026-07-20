@@ -1,0 +1,4 @@
+[
+  { "departmentName": "Advisory", "headcount": 10, "manager": "Fatima Noor" },
+  { "departmentName": "Finance", "headcount": 6, "manager": "Daniel Mokoena" }
+]

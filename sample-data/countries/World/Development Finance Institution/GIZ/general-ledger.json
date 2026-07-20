@@ -1,0 +1,4 @@
+[
+  { "entryDate": "2026-06-30", "reference": "GL-GIZ-0601", "description": "Country strategy advisory billing", "debit": 480000, "credit": 480000, "account": "Advisory Revenue" },
+  { "entryDate": "2026-06-29", "reference": "GL-GIZ-0602", "description": "Travel and field support expenses", "debit": 76000, "credit": 76000, "account": "Operating Expenses" }
+]

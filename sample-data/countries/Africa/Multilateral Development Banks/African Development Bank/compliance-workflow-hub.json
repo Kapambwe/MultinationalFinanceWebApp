@@ -1,0 +1,5 @@
+[
+  { "workflowKey": "project-review", "title": "Project Review", "description": "Screen and review development finance submissions.", "order": 1, "featured": true },
+  { "workflowKey": "beneficiary-consent", "title": "Beneficiary Consent", "description": "Consent capture and verification workflow.", "order": 2, "featured": true },
+  { "workflowKey": "token-issuance", "title": "Token Issuance", "description": "Issue and sign digital token credentials.", "order": 3, "featured": false }
+]

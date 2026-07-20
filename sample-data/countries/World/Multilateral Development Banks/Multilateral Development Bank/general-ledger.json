@@ -1,0 +1,4 @@
+[
+  { "entryDate": "2026-06-30", "reference": "GL-WMDB-0601", "description": "Portfolio disbursement for regional programme", "debit": 9000000, "credit": 9000000, "account": "Programme Revenue" },
+  { "entryDate": "2026-06-27", "reference": "GL-WMDB-0602", "description": "Consulting and due diligence costs", "debit": 215000, "credit": 215000, "account": "Operating Expenses" }
+]

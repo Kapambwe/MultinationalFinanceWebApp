@@ -1,0 +1,5 @@
+[
+  { "employeeId": "AFDB-EMP-001", "fullName": "Amina Diallo", "department": "Operations", "role": "Programme Officer", "employmentStatus": "Active" },
+  { "employeeId": "AFDB-EMP-002", "fullName": "Joseph Mwangi", "department": "Finance", "role": "Senior Accountant", "employmentStatus": "Active" },
+  { "employeeId": "AFDB-EMP-003", "fullName": "Grace Ndlovu", "department": "Monitoring & Evaluation", "role": "Analyst", "employmentStatus": "On Leave" }
+]

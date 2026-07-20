@@ -1,0 +1,4 @@
+[
+  { "date": "2026-06-30", "journalNo": "JE-EDFI-001", "description": "Advisory revenue booked", "debitAccount": "Accounts Receivable", "creditAccount": "Advisory Revenue", "amount": 560000 },
+  { "date": "2026-06-29", "journalNo": "JE-EDFI-002", "description": "Market assessment costs", "debitAccount": "Operating Expenses", "creditAccount": "Accounts Payable", "amount": 94000 }
+]

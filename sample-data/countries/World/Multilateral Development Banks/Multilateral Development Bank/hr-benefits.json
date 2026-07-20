@@ -1,0 +1,4 @@
+[
+  { "benefitName": "Medical Aid", "eligibleEmployees": 41, "provider": "Global Health Trust" },
+  { "benefitName": "Pension Plan", "eligibleEmployees": 45, "provider": "International Staff Pension" }
+]

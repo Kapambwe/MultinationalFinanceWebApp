@@ -1,0 +1,4 @@
+[
+  { "employeeId": "WMDB-EMP-001", "annualLeaveDays": 20, "sickLeaveDays": 12 },
+  { "employeeId": "WMDB-EMP-002", "annualLeaveDays": 18, "sickLeaveDays": 10 }
+]

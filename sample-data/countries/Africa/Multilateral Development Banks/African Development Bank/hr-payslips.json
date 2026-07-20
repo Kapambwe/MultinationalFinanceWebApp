@@ -1,0 +1,5 @@
+[
+  { "employeeId": "AFDB-EMP-001", "period": "June 2026", "grossPay": 42000, "netPay": 31800 },
+  { "employeeId": "AFDB-EMP-002", "period": "June 2026", "grossPay": 68000, "netPay": 50200 },
+  { "employeeId": "AFDB-EMP-003", "period": "June 2026", "grossPay": 36000, "netPay": 27900 }
+]

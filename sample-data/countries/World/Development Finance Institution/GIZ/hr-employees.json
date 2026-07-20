@@ -1,0 +1,4 @@
+[
+  { "employeeId": "GIZ-EMP-001", "fullName": "Fatima Noor", "department": "Advisory", "role": "Senior Advisor", "employmentStatus": "Active" },
+  { "employeeId": "GIZ-EMP-002", "fullName": "Daniel Mokoena", "department": "Finance", "role": "Finance Associate", "employmentStatus": "Active" }
+]

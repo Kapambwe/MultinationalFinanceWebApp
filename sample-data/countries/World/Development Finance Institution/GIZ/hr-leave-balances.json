@@ -1,0 +1,4 @@
+[
+  { "employeeId": "GIZ-EMP-001", "annualLeaveDays": 19, "sickLeaveDays": 10 },
+  { "employeeId": "GIZ-EMP-002", "annualLeaveDays": 17, "sickLeaveDays": 8 }
+]

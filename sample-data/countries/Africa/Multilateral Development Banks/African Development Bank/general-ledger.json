@@ -1,0 +1,5 @@
+[
+  { "entryDate": "2026-06-30", "reference": "GL-2026-0601", "description": "Grant disbursement to water access programme", "debit": 2500000, "credit": 2500000, "account": "Grant Revenue" },
+  { "entryDate": "2026-06-28", "reference": "GL-2026-0602", "description": "Consultancy fees for feasibility assessment", "debit": 180000, "credit": 180000, "account": "Operating Expenses" },
+  { "entryDate": "2026-06-25", "reference": "GL-2026-0603", "description": "Vendor payment for field monitoring equipment", "debit": 420000, "credit": 420000, "account": "Accounts Payable" }
+]

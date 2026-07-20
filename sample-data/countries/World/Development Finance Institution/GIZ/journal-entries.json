@@ -1,0 +1,4 @@
+[
+  { "date": "2026-06-30", "journalNo": "JE-GIZ-001", "description": "Advisory services invoiced", "debitAccount": "Accounts Receivable", "creditAccount": "Advisory Revenue", "amount": 480000 },
+  { "date": "2026-06-29", "journalNo": "JE-GIZ-002", "description": "Programme travel reimbursement", "debitAccount": "Operating Expenses", "creditAccount": "Accounts Payable", "amount": 76000 }
+]

@@ -1,0 +1,4 @@
+[
+  { "date": "2026-06-30", "journalNo": "JE-IFAD-001", "description": "Programme disbursement posted", "debitAccount": "Cash and Cash Equivalents", "creditAccount": "Programme Revenue", "amount": 310000 },
+  { "date": "2026-06-28", "journalNo": "JE-IFAD-002", "description": "Monitoring costs posted", "debitAccount": "Operating Expenses", "creditAccount": "Accounts Payable", "amount": 45000 }
+]

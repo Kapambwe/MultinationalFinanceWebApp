@@ -1,0 +1,4 @@
+[
+  { "entryDate": "2026-06-30", "reference": "GL-IFAD-0601", "description": "Value chain programme disbursement", "debit": 310000, "credit": 310000, "account": "Programme Revenue" },
+  { "entryDate": "2026-06-28", "reference": "GL-IFAD-0602", "description": "Field monitoring costs", "debit": 45000, "credit": 45000, "account": "Operating Expenses" }
+]

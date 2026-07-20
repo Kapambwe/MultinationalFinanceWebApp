@@ -1,0 +1,6 @@
+[
+  { "accountCode": "1000", "accountName": "Cash and Cash Equivalents", "accountType": "Asset", "balance": 45210000 },
+  { "accountCode": "1200", "accountName": "Accounts Receivable", "accountType": "Asset", "balance": 11275000 },
+  { "accountCode": "2000", "accountName": "Accounts Payable", "accountType": "Liability", "balance": 6840000 },
+  { "accountCode": "4000", "accountName": "Programme Revenue", "accountType": "Revenue", "balance": 28140000 }
+]

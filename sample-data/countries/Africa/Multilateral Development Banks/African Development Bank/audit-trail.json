@@ -1,0 +1,5 @@
+[
+  { "timestamp": "2026-06-30T10:12:00Z", "actor": "finance.ops", "action": "Posted journal entry JE-00192" },
+  { "timestamp": "2026-06-28T15:40:00Z", "actor": "ap.team", "action": "Approved bill BILL-10221" },
+  { "timestamp": "2026-06-25T09:05:00Z", "actor": "treasury", "action": "Settled invoice INV-44022" }
+]

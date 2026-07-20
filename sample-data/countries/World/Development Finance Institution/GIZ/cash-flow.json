@@ -1,0 +1,6 @@
+[
+  { "category": "Operating activities", "amount": 1420000 },
+  { "category": "Investing activities", "amount": -210000 },
+  { "category": "Financing activities", "amount": 900000 },
+  { "category": "Net change in cash", "amount": 2110000 }
+]

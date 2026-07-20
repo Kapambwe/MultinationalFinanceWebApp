@@ -1,0 +1,4 @@
+[
+  { "employeeId": "IFAD-EMP-001", "fullName": "Amina Yusuf", "department": "Programme Delivery", "role": "Programme Manager", "employmentStatus": "Active" },
+  { "employeeId": "IFAD-EMP-002", "fullName": "Brian Kamau", "department": "Finance", "role": "Finance Officer", "employmentStatus": "Active" }
+]

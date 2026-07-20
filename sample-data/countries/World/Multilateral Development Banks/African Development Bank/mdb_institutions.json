@@ -1,0 +1,14 @@
+[
+  {
+    "country": "Africa",
+    "institution": "African Development Bank",
+    "region": "Africa",
+    "exposure": 125000000
+  },
+  {
+    "country": "World",
+    "institution": "African Development Bank",
+    "region": "Global",
+    "exposure": 98000000
+  }
+]

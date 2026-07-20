@@ -1,0 +1,5 @@
+[
+  { "lineItem": "Programme revenue", "amount": 2420000 },
+  { "lineItem": "Operating expenses", "amount": -1810000 },
+  { "lineItem": "Net surplus", "amount": 610000 }
+]

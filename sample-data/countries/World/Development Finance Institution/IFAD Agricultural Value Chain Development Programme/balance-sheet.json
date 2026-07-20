@@ -1,0 +1,5 @@
+[
+  { "lineItem": "Cash and cash equivalents", "amount": 5200000 },
+  { "lineItem": "Accounts payable", "amount": -410000 },
+  { "lineItem": "Programme reserves", "amount": 4790000 }
+]

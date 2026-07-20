@@ -1,0 +1,4 @@
+[
+  { "employeeId": "EDFI-EMP-001", "fullName": "Elena Rossi", "department": "Advisory", "role": "Senior Advisor", "employmentStatus": "Active" },
+  { "employeeId": "EDFI-EMP-002", "fullName": "Marc Dubois", "department": "Finance", "role": "Finance Analyst", "employmentStatus": "Active" }
+]

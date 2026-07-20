@@ -1,0 +1,4 @@
+[
+  { "employeeId": "WMDB-EMP-001", "fullName": "Lina Hassan", "department": "Operations", "role": "Programme Lead", "employmentStatus": "Active" },
+  { "employeeId": "WMDB-EMP-002", "fullName": "Michael Chen", "department": "Finance", "role": "Senior Finance Officer", "employmentStatus": "Active" }
+]

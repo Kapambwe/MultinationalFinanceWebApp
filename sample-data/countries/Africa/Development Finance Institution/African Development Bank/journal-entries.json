@@ -1,0 +1,4 @@
+[
+  { "date": "2026-06-30", "journalNo": "JE-ADFI-001", "description": "Advisory fee invoiced", "debitAccount": "Accounts Receivable", "creditAccount": "Advisory Revenue", "amount": 420000 },
+  { "date": "2026-06-29", "journalNo": "JE-ADFI-002", "description": "Travel reimbursement", "debitAccount": "Operating Expenses", "creditAccount": "Accounts Payable", "amount": 68000 }
+]

@@ -1,0 +1,4 @@
+[
+  { "employeeId": "EDFI-EMP-001", "period": "June 2026", "grossPay": 81000, "netPay": 60200 },
+  { "employeeId": "EDFI-EMP-002", "period": "June 2026", "grossPay": 54000, "netPay": 40300 }
+]

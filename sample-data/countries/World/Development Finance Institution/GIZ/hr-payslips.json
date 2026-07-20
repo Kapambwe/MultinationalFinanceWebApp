@@ -1,0 +1,4 @@
+[
+  { "employeeId": "GIZ-EMP-001", "period": "June 2026", "grossPay": 76000, "netPay": 59200 },
+  { "employeeId": "GIZ-EMP-002", "period": "June 2026", "grossPay": 34000, "netPay": 27100 }
+]
