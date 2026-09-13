@@ -13,7 +13,8 @@
     "timestamp": "2026-06-18T08:00:00Z",
     "txHash": "ALGO_AFDB_WR_001_ISSUE_001",
     "fee": 0.001,
-    "blockchain": "Algorand"
+    "blockchain": "Algorand",
+    "jurisdiction": "Zambia"
   },
   {
     "transactionId": "afdb-tx-0001-0001-0001-0001-000000000002",
@@ -29,7 +30,8 @@
     "timestamp": "2026-06-18T09:00:00Z",
     "txHash": "ALGO_AFDB_CONTRACT_001_BUY_001",
     "fee": 0.001,
-    "blockchain": "Algorand"
+    "blockchain": "Algorand",
+    "jurisdiction": "Kenya"
   },
   {
     "transactionId": "afdb-tx-0001-0001-0001-0001-000000000003",
@@ -45,7 +47,8 @@
     "timestamp": "2026-06-18T10:00:00Z",
     "txHash": "HLF_AFDB_PPP_001_TRANSFER_001",
     "fee": 5.0,
-    "blockchain": "Hyperledger Fabric"
+    "blockchain": "Hyperledger Fabric",
+    "jurisdiction": "Nigeria"
   },
   {
     "transactionId": "afdb-tx-0001-0001-0001-0001-000000000004",
@@ -61,7 +64,8 @@
     "timestamp": "2026-06-18T11:00:00Z",
     "txHash": "ALGO_AFDB_POW_001_ISSUE_001",
     "fee": 0.001,
-    "blockchain": "Algorand"
+    "blockchain": "Algorand",
+    "jurisdiction": "South Africa"
   },
   {
     "transactionId": "afdb-tx-0001-0001-0001-0001-000000000005",
@@ -77,7 +81,8 @@
     "timestamp": "2026-06-18T12:00:00Z",
     "txHash": "HLF_AFDB_MILESTONE_001_ISSUE_001",
     "fee": 0.0,
-    "blockchain": "Hyperledger Fabric"
+    "blockchain": "Hyperledger Fabric",
+    "jurisdiction": "Ghana"
   },
   {
     "transactionId": "afdb-tx-0001-0001-0001-0001-000000000006",
@@ -93,70 +98,75 @@
     "timestamp": "2026-06-18T13:00:00Z",
     "txHash": "ALGO_AFDB_AGRI_002_BUY_001",
     "fee": 0.001,
-    "blockchain": "Algorand"
+    "blockchain": "Algorand",
+    "jurisdiction": "Zambia"
   },
   {
     "transactionId": "afdb-tx-0001-0001-0001-0001-000000000007",
     "tokenId": "7c7b54c5-4d3d-4c02-8b4d-6c0f9c4dd008",
     "tokenSymbol": "AFDB-SME-001",
-    "transactionType": "Sell",
-    "quantity": 20000,
-    "pricePerToken": 5.0,
-    "totalAmount": 100000.0,
-    "fromAddress": "ALGO_AFDB_SME_POOL",
-    "toAddress": "ALGO_AFDB_RETAIL_FUND_001",
+    "transactionType": "Transfer",
+    "quantity": 1200,
+    "pricePerToken": 45.0,
+    "totalAmount": 54000.0,
+    "fromAddress": "ALGO_AFDB_SME_HUB",
+    "toAddress": "ALGO_COMMERCIAL_BANK_ZAMBIA",
     "status": "Confirmed",
-    "timestamp": "2026-06-18T14:00:00Z",
-    "txHash": "ALGO_AFDB_SME_001_SELL_001",
+    "timestamp": "2026-06-18T14:15:00Z",
+    "txHash": "ALGO_AFDB_SME_001_TRANSFER_001",
     "fee": 0.001,
-    "blockchain": "Algorand"
+    "blockchain": "Algorand",
+    "jurisdiction": "Zambia"
   },
   {
     "transactionId": "afdb-tx-0001-0001-0001-0001-000000000008",
     "tokenId": "7c7b54c5-4d3d-4c02-8b4d-6c0f9c4dd009",
     "tokenSymbol": "AFDB-ETF-001",
     "transactionType": "Buy",
-    "quantity": 1500,
-    "pricePerToken": 25.0,
-    "totalAmount": 37500.0,
-    "fromAddress": "POLYGON_AFDB_LIQUIDITY_POOL",
-    "toAddress": "POLYGON_AFDB_INDEX_FUND",
+    "quantity": 500,
+    "pricePerToken": 210.0,
+    "totalAmount": 105000.0,
+    "fromAddress": "POLYGON_AFDB_CAPITAL_MARKET",
+    "toAddress": "POLYGON_PENSION_FUND_KE",
     "status": "Confirmed",
-    "timestamp": "2026-06-18T15:00:00Z",
-    "txHash": "0xAFDBETF001BUY001",
-    "fee": 3.0,
-    "blockchain": "Polygon"
+    "timestamp": "2026-06-18T15:30:00Z",
+    "txHash": "0x7F8E9D0C1B2A3F4E5D6C7B8A9F0E1D2C3B4A5F6E",
+    "fee": 1.15,
+    "blockchain": "Polygon",
+    "jurisdiction": "Kenya"
   },
   {
     "transactionId": "afdb-tx-0001-0001-0001-0001-000000000009",
     "tokenId": "7c7b54c5-4d3d-4c02-8b4d-6c0f9c4dd010",
-    "tokenSymbol": "AFDB-EQUITY-001",
+    "tokenSymbol": "AFDB-BOND-001",
     "transactionType": "Buy",
-    "quantity": 1000,
-    "pricePerToken": 30.0,
-    "totalAmount": 30000.0,
-    "fromAddress": "0xAFDB_EQUITY_POOL",
-    "toAddress": "0xAFDB_DIASPORA_ACCOUNT",
+    "quantity": 25,
+    "pricePerToken": 1000.0,
+    "totalAmount": 25000.0,
+    "fromAddress": "ALGO_AFDB_GREEN_BOND_TREASURY",
+    "toAddress": "ALGO_SUSTAINABLE_INVESTOR_SA",
     "status": "Confirmed",
     "timestamp": "2026-06-18T16:00:00Z",
-    "txHash": "0xAFDBEQUITY001BUY001",
-    "fee": 2.5,
-    "blockchain": "Ethereum"
+    "txHash": "ALGO_AFDB_GREEN_BOND_BUY_001",
+    "fee": 0.001,
+    "blockchain": "Algorand",
+    "jurisdiction": "South Africa"
   },
   {
     "transactionId": "afdb-tx-0001-0001-0001-0001-000000000010",
     "tokenId": "7c7b54c5-4d3d-4c02-8b4d-6c0f9c4dd011",
-    "tokenSymbol": "AFDB-BOND-001",
+    "tokenSymbol": "AFDB-MINERAL-001",
     "transactionType": "Issue",
-    "quantity": 1000000,
-    "pricePerToken": 1.0,
-    "totalAmount": 1000000.0,
-    "fromAddress": "ALGO_AFDB_TREASURY",
-    "toAddress": "ALGO_AFDB_BOND_LEDGER",
+    "quantity": 15000,
+    "pricePerToken": 32.5,
+    "totalAmount": 487500.0,
+    "fromAddress": "HLF_ZAMBIA_MINING_REGULATOR",
+    "toAddress": "HLF_COPPERBELT_VAULT_01",
     "status": "Confirmed",
-    "timestamp": "2026-06-18T17:00:00Z",
-    "txHash": "ALGO_AFDB_BOND_001_ISSUE_001",
-    "fee": 0.001,
-    "blockchain": "Algorand"
+    "timestamp": "2026-06-18T17:10:00Z",
+    "txHash": "HLF_ZAM_COPPER_TOKEN_ISSUE_001",
+    "fee": 2.50,
+    "blockchain": "Hyperledger Fabric",
+    "jurisdiction": "Zambia"
   }
 ]

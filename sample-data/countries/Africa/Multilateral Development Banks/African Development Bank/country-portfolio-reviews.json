@@ -1,1 +1,181 @@
-[]
+[
+  {
+    "reviewId": "afdb-rev-0001-0001-0001-000000000001",
+    "reviewCode": "AFDB-ZM-CPR-2026",
+    "institutionName": "African Development Bank",
+    "countryCode": "ZM",
+    "countryName": "Zambia",
+    "reviewYear": 2026,
+    "totalActiveOperations": 14,
+    "totalActivePortfolioValue": 580000000,
+    "totalDisbursed": 261000000.0,
+    "averageDisbursementRatio": 45.0,
+    "currency": "USD",
+    "projectsAtRisk": 2,
+    "projectsPotentiallyProblematic": 3,
+    "keyIssues": [
+      {
+        "issueTitle": "Energy sector procurement sequencing delay",
+        "category": "Procurement",
+        "projectsAffected": 2,
+        "description": "Solar PV IPP grid interconnection tenders required extended environmental impact signoffs.",
+        "recommendedAction": "Establish a dedicated taskforce between ZESCO, Ministry of Energy, and AfDB supervision team.",
+        "severity": "Moderate"
+      },
+      {
+        "issueTitle": "Counterpart funding disbursement lags",
+        "category": "FinancialManagement",
+        "projectsAffected": 3,
+        "description": "National budget fiscal constraints caused delayed release of government counterpart matching funds.",
+        "recommendedAction": "Incorporate fiscal ring-fencing agreements into quarterly country portfolio review dialogues.",
+        "severity": "Significant"
+      }
+    ],
+    "actionPlan": [
+      "Conduct bi-monthly portfolio implementation review meetings with Ministry of Finance",
+      "Deploy targeted procurement and financial management clinics for project implementation units (PIUs)",
+      "Restructure lagging components under the Agri-Predictive Infrastructure Project"
+    ],
+    "overallRating": "Satisfactory",
+    "reviewTeamLead": "Southern Africa Regional Delivery Office",
+    "status": "Finalised",
+    "reviewDate": "2026-02-15T00:00:00Z",
+    "createdAt": "2026-02-20T00:00:00Z"
+  },
+  {
+    "reviewId": "afdb-rev-0001-0001-0001-000000000002",
+    "reviewCode": "AFDB-KE-CPR-2026",
+    "institutionName": "African Development Bank",
+    "countryCode": "KE",
+    "countryName": "Kenya",
+    "reviewYear": 2026,
+    "totalActiveOperations": 18,
+    "totalActivePortfolioValue": 890000000,
+    "totalDisbursed": 489500000.0,
+    "averageDisbursementRatio": 55.0,
+    "currency": "USD",
+    "projectsAtRisk": 1,
+    "projectsPotentiallyProblematic": 2,
+    "keyIssues": [
+      {
+        "issueTitle": "Wayleave acquisition bottlenecks for transmission corridors",
+        "category": "Safeguards",
+        "projectsAffected": 2,
+        "description": "Right-of-way compensation disputes slowed construction on the Last Mile Connectivity project.",
+        "recommendedAction": "Strengthen community engagement committees and streamline land valuation verification.",
+        "severity": "Moderate"
+      }
+    ],
+    "actionPlan": [
+      "Accelerate land compensation escrow fund releases with NLC",
+      "Field joint supervision mission for rural electrification phase 4"
+    ],
+    "overallRating": "Satisfactory",
+    "reviewTeamLead": "East Africa Regional Operations Hub",
+    "status": "Finalised",
+    "reviewDate": "2026-03-01T00:00:00Z",
+    "createdAt": "2026-03-05T00:00:00Z"
+  },
+  {
+    "reviewId": "afdb-rev-0001-0001-0001-000000000003",
+    "reviewCode": "AFDB-NG-CPR-2026",
+    "institutionName": "African Development Bank",
+    "countryCode": "NG",
+    "countryName": "Nigeria",
+    "reviewYear": 2026,
+    "totalActiveOperations": 22,
+    "totalActivePortfolioValue": 1420000000,
+    "totalDisbursed": 639000000.0,
+    "averageDisbursementRatio": 45.0,
+    "currency": "USD",
+    "projectsAtRisk": 3,
+    "projectsPotentiallyProblematic": 4,
+    "keyIssues": [
+      {
+        "issueTitle": "State-level PIU staffing turnover",
+        "category": "InstitutionalCapacity",
+        "projectsAffected": 4,
+        "description": "Rotation of key project coordinators created knowledge gaps in SAPZ project execution.",
+        "recommendedAction": "Institute mandatory onboarding programs and standardized reporting templates.",
+        "severity": "Significant"
+      }
+    ],
+    "actionPlan": [
+      "Organize capacity building workshop for state agricultural commissioners",
+      "Fast-track No-Objection approvals via automated digital procurement portal"
+    ],
+    "overallRating": "ModeratelySatisfactory",
+    "reviewTeamLead": "Nigeria Country Department",
+    "status": "GovernmentConsultation",
+    "reviewDate": "2026-03-15T00:00:00Z",
+    "createdAt": "2026-03-20T00:00:00Z"
+  },
+  {
+    "reviewId": "afdb-rev-0001-0001-0001-000000000004",
+    "reviewCode": "AFDB-ZA-CPR-2026",
+    "institutionName": "African Development Bank",
+    "countryCode": "ZA",
+    "countryName": "South Africa",
+    "reviewYear": 2026,
+    "totalActiveOperations": 11,
+    "totalActivePortfolioValue": 1100000000,
+    "totalDisbursed": 682000000.0,
+    "averageDisbursementRatio": 62.0,
+    "currency": "USD",
+    "projectsAtRisk": 0,
+    "projectsPotentiallyProblematic": 1,
+    "keyIssues": [
+      {
+        "issueTitle": "Grid integration technical compliance checks",
+        "category": "Technical",
+        "projectsAffected": 1,
+        "description": "Eskom grid code compliance testing required additional harmonic filter installations.",
+        "recommendedAction": "Collaborate with Eskom technical team for streamlined grid compliance signoffs.",
+        "severity": "Low"
+      }
+    ],
+    "actionPlan": [
+      "Publish quarterly green bond impact reporting dashboard",
+      "Finalize technical assistance framework for municipal water resilience"
+    ],
+    "overallRating": "HighlySatisfactory",
+    "reviewTeamLead": "Southern Africa Regional Hub",
+    "status": "Finalised",
+    "reviewDate": "2026-01-30T00:00:00Z",
+    "createdAt": "2026-02-05T00:00:00Z"
+  },
+  {
+    "reviewId": "afdb-rev-0001-0001-0001-000000000005",
+    "reviewCode": "AFDB-GH-CPR-2026",
+    "institutionName": "African Development Bank",
+    "countryCode": "GH",
+    "countryName": "Ghana",
+    "reviewYear": 2026,
+    "totalActiveOperations": 15,
+    "totalActivePortfolioValue": 620000000,
+    "totalDisbursed": 322000000.0,
+    "averageDisbursementRatio": 52.0,
+    "currency": "USD",
+    "projectsAtRisk": 1,
+    "projectsPotentiallyProblematic": 2,
+    "keyIssues": [
+      {
+        "issueTitle": "Feeder road civil works weather disruptions",
+        "category": "WorksExecution",
+        "projectsAffected": 2,
+        "description": "Extended rainy season hampered earthworks on cocoa belt feeder road networks.",
+        "recommendedAction": "Grant time extension and adjust work schedules for dry season acceleration.",
+        "severity": "Moderate"
+      }
+    ],
+    "actionPlan": [
+      "Deploy specialized supervision engineers to cocoa processing hubs",
+      "Streamline SME credit line claims processing with participating commercial banks"
+    ],
+    "overallRating": "Satisfactory",
+    "reviewTeamLead": "Ghana Country Office",
+    "status": "Finalised",
+    "reviewDate": "2026-02-25T00:00:00Z",
+    "createdAt": "2026-03-01T00:00:00Z"
+  }
+]

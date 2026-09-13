@@ -1,1 +1,367 @@
-[]
+[
+  {
+    "strategyId": "afdb-str-0001-0001-0001-000000000001",
+    "strategyCode": "AFDB-ZM-CSP-2026-2030",
+    "institutionName": "African Development Bank",
+    "countryCode": "ZM",
+    "countryName": "Zambia",
+    "region": "Southern Africa",
+    "strategyType": "CountryStrategyPaper",
+    "countryClassification": "LowerMiddleIncome",
+    "strategyPeriodStart": 2026,
+    "strategyPeriodEnd": 2030,
+    "indicativeLendingEnvelope": 450000000,
+    "grantEnvelope": 35000000,
+    "currency": "USD",
+    "financingWindows": [
+      {
+        "windowName": "African Development Fund (ADF) Concessional Window",
+        "windowType": "ConcessionalLending",
+        "allocatedAmount": 200000000,
+        "currency": "USD",
+        "interestRate": 0.75,
+        "gracePeriodYears": 10,
+        "maturityYears": 40,
+        "isGrantElement": true,
+        "grantEquivalent": 45000000
+      },
+      {
+        "windowName": "ADB Sovereign Non-Concessional Window",
+        "windowType": "SovereignLending",
+        "allocatedAmount": 215000000,
+        "currency": "USD",
+        "interestRate": 2.85,
+        "gracePeriodYears": 5,
+        "maturityYears": 25,
+        "isGrantElement": false,
+        "grantEquivalent": 0
+      },
+      {
+        "windowName": "Climate Action & Just Transition Facility",
+        "windowType": "ClimateFinance",
+        "allocatedAmount": 35000000,
+        "currency": "USD",
+        "interestRate": 0.5,
+        "gracePeriodYears": 8,
+        "maturityYears": 35,
+        "isGrantElement": true,
+        "grantEquivalent": 12000000
+      }
+    ],
+    "strategicPillars": [
+      "Sustainable Infrastructure & Energy Transition",
+      "Agriculture Value Chain & Mining Diversification",
+      "Governance & Debt Management Capacity"
+    ],
+    "highLevelObjectives": [
+      "Expand national clean energy generation capacity by 600MW",
+      "Enhance climate-resilient agricultural value chain infrastructure",
+      "Strengthen PFM, public procurement, and digital revenue collection"
+    ],
+    "crossCuttingThemes": [
+      "Gender Equality & Youth Empowerment",
+      "Climate Adaptation & Biodiversity",
+      "Regional Integration & Trade Facilitation"
+    ],
+    "governmentCounterpart": "Ministry of Finance and National Planning",
+    "countryDirector": "Raubil Durowoju",
+    "countryEconomist": "Priscilla Sichone",
+    "status": "Implementation",
+    "preparedDate": "2025-11-15T00:00:00Z",
+    "midTermReviewDate": "2028-06-30T00:00:00Z",
+    "completionReportDate": "2030-12-31T00:00:00Z",
+    "createdAt": "2025-11-20T00:00:00Z"
+  },
+  {
+    "strategyId": "afdb-str-0001-0001-0001-000000000002",
+    "strategyCode": "AFDB-KE-CSP-2026-2030",
+    "institutionName": "African Development Bank",
+    "countryCode": "KE",
+    "countryName": "Kenya",
+    "region": "East Africa",
+    "strategyType": "CountryStrategyPaper",
+    "countryClassification": "LowerMiddleIncome",
+    "strategyPeriodStart": 2026,
+    "strategyPeriodEnd": 2030,
+    "indicativeLendingEnvelope": 680000000,
+    "grantEnvelope": 42000000,
+    "currency": "USD",
+    "financingWindows": [
+      {
+        "windowName": "ADB Sovereign Non-Concessional Window",
+        "windowType": "SovereignLending",
+        "allocatedAmount": 480000000,
+        "currency": "USD",
+        "interestRate": 2.95,
+        "gracePeriodYears": 5,
+        "maturityYears": 25,
+        "isGrantElement": false,
+        "grantEquivalent": 0
+      },
+      {
+        "windowName": "Private Sector Infrastructure Window",
+        "windowType": "NonSovereignOperations",
+        "allocatedAmount": 158000000,
+        "currency": "USD",
+        "interestRate": 3.4,
+        "gracePeriodYears": 3,
+        "maturityYears": 15,
+        "isGrantElement": false,
+        "grantEquivalent": 0
+      },
+      {
+        "windowName": "East Africa Regional Connectivity Grant",
+        "windowType": "RegionalIntegration",
+        "allocatedAmount": 42000000,
+        "currency": "USD",
+        "interestRate": 0.0,
+        "gracePeriodYears": 0,
+        "maturityYears": 0,
+        "isGrantElement": true,
+        "grantEquivalent": 42000000
+      }
+    ],
+    "strategicPillars": [
+      "Industrialization & Export Competitiveness",
+      "Digital Economy & Trade Corridor Logistics",
+      "Green Urban Mobility & Renewable Energy"
+    ],
+    "highLevelObjectives": [
+      "Modernize Mombasa-Nairobi-Kampala logistics corridor",
+      "Deploy regional e-mobility charging and grid storage",
+      "Scale tech incubation and SME financial inclusion"
+    ],
+    "crossCuttingThemes": [
+      "Digital Public Infrastructure",
+      "Private Sector Development",
+      "Youth Employment & Skills"
+    ],
+    "governmentCounterpart": "National Treasury and Economic Planning",
+    "countryDirector": "Nnenna Nwabufo",
+    "countryEconomist": "Paul Ndung'u",
+    "status": "BoardApproval",
+    "preparedDate": "2025-12-01T00:00:00Z",
+    "midTermReviewDate": "2028-09-30T00:00:00Z",
+    "completionReportDate": "2030-12-31T00:00:00Z",
+    "createdAt": "2025-12-10T00:00:00Z"
+  },
+  {
+    "strategyId": "afdb-str-0001-0001-0001-000000000003",
+    "strategyCode": "AFDB-NG-CSP-2026-2030",
+    "institutionName": "African Development Bank",
+    "countryCode": "NG",
+    "countryName": "Nigeria",
+    "region": "West Africa",
+    "strategyType": "CountryStrategyPaper",
+    "countryClassification": "LowerMiddleIncome",
+    "strategyPeriodStart": 2026,
+    "strategyPeriodEnd": 2030,
+    "indicativeLendingEnvelope": 1250000000,
+    "grantEnvelope": 60000000,
+    "currency": "USD",
+    "financingWindows": [
+      {
+        "windowName": "ADB Sovereign Growth Window",
+        "windowType": "SovereignLending",
+        "allocatedAmount": 850000000,
+        "currency": "USD",
+        "interestRate": 3.1,
+        "gracePeriodYears": 5,
+        "maturityYears": 25,
+        "isGrantElement": false,
+        "grantEquivalent": 0
+      },
+      {
+        "windowName": "Special Agro-Industrial Processing Zones (SAPZ)",
+        "windowType": "AgroProcessingFacility",
+        "allocatedAmount": 340000000,
+        "currency": "USD",
+        "interestRate": 2.2,
+        "gracePeriodYears": 7,
+        "maturityYears": 30,
+        "isGrantElement": true,
+        "grantEquivalent": 50000000
+      },
+      {
+        "windowName": "Governance & Fiscal Reform Grant",
+        "windowType": "PolicyBasedOperations",
+        "allocatedAmount": 60000000,
+        "currency": "USD",
+        "interestRate": 0.0,
+        "gracePeriodYears": 0,
+        "maturityYears": 0,
+        "isGrantElement": true,
+        "grantEquivalent": 60000000
+      }
+    ],
+    "strategicPillars": [
+      "Agro-Industrial Processing & Food Security",
+      "Power Sector Stabilization & Transmission Grid",
+      "Micro, Small & Medium Enterprise (MSME) Access to Capital"
+    ],
+    "highLevelObjectives": [
+      "Operationalize 7 Special Agro-Industrial Processing Zones across priority states",
+      "Upgrade transmission grid infrastructure to reduce national load shedding",
+      "Expand credit guarantees for women-led digital enterprises"
+    ],
+    "crossCuttingThemes": [
+      "Environmental & Social Safeguards",
+      "Job Creation",
+      "Institutional Transparency"
+    ],
+    "governmentCounterpart": "Federal Ministry of Finance, Budget and National Planning",
+    "countryDirector": "Lamin Barrow",
+    "countryEconomist": "Oluwatoyin Adeleke",
+    "status": "Implementation",
+    "preparedDate": "2025-10-10T00:00:00Z",
+    "midTermReviewDate": "2028-03-31T00:00:00Z",
+    "completionReportDate": "2030-12-31T00:00:00Z",
+    "createdAt": "2025-10-25T00:00:00Z"
+  },
+  {
+    "strategyId": "afdb-str-0001-0001-0001-000000000004",
+    "strategyCode": "AFDB-ZA-CSP-2026-2030",
+    "institutionName": "African Development Bank",
+    "countryCode": "ZA",
+    "countryName": "South Africa",
+    "region": "Southern Africa",
+    "strategyType": "CountryStrategyPaper",
+    "countryClassification": "UpperMiddleIncome",
+    "strategyPeriodStart": 2026,
+    "strategyPeriodEnd": 2030,
+    "indicativeLendingEnvelope": 950000000,
+    "grantEnvelope": 25000000,
+    "currency": "USD",
+    "financingWindows": [
+      {
+        "windowName": "Just Energy Transition Sovereign Window",
+        "windowType": "ClimateFinance",
+        "allocatedAmount": 600000000,
+        "currency": "USD",
+        "interestRate": 2.5,
+        "gracePeriodYears": 6,
+        "maturityYears": 30,
+        "isGrantElement": true,
+        "grantEquivalent": 75000000
+      },
+      {
+        "windowName": "Municipal Infrastructure & Water Security",
+        "windowType": "SovereignLending",
+        "allocatedAmount": 325000000,
+        "currency": "USD",
+        "interestRate": 3.0,
+        "gracePeriodYears": 5,
+        "maturityYears": 25,
+        "isGrantElement": false,
+        "grantEquivalent": 0
+      },
+      {
+        "windowName": "SADC Regional Rail & Port Logistics Grant",
+        "windowType": "RegionalIntegration",
+        "allocatedAmount": 25000000,
+        "currency": "USD",
+        "interestRate": 0.0,
+        "gracePeriodYears": 0,
+        "maturityYears": 0,
+        "isGrantElement": true,
+        "grantEquivalent": 25000000
+      }
+    ],
+    "strategicPillars": [
+      "Just Energy Transition & Coal Decommissioning",
+      "Municipal Water & Bulk Infrastructure Security",
+      "SADC Logistics Corridor Integration"
+    ],
+    "highLevelObjectives": [
+      "Support coal phase-out while building 2GW renewable power assets",
+      "Modernize water treatment and transmission infrastructure in high-demand metros",
+      "Optimize freight rail interconnects with Mozambique and Zimbabwe"
+    ],
+    "crossCuttingThemes": [
+      "Just Transition Social Protection",
+      "Public-Private Partnerships (PPP)",
+      "Financial Innovation"
+    ],
+    "governmentCounterpart": "National Treasury South Africa",
+    "countryDirector": "Leila Mokaddem",
+    "countryEconomist": "Khumbo Mohne",
+    "status": "Consultation",
+    "preparedDate": "2026-01-15T00:00:00Z",
+    "midTermReviewDate": "2028-11-30T00:00:00Z",
+    "completionReportDate": "2030-12-31T00:00:00Z",
+    "createdAt": "2026-01-20T00:00:00Z"
+  },
+  {
+    "strategyId": "afdb-str-0001-0001-0001-000000000005",
+    "strategyCode": "AFDB-GH-CSP-2026-2030",
+    "institutionName": "African Development Bank",
+    "countryCode": "GH",
+    "countryName": "Ghana",
+    "region": "West Africa",
+    "strategyType": "CountryStrategyPaper",
+    "countryClassification": "LowerMiddleIncome",
+    "strategyPeriodStart": 2026,
+    "strategyPeriodEnd": 2030,
+    "indicativeLendingEnvelope": 520000000,
+    "grantEnvelope": 30000000,
+    "currency": "USD",
+    "financingWindows": [
+      {
+        "windowName": "ADF Concessional Recovery Facility",
+        "windowType": "ConcessionalLending",
+        "allocatedAmount": 270000000,
+        "currency": "USD",
+        "interestRate": 0.75,
+        "gracePeriodYears": 10,
+        "maturityYears": 40,
+        "isGrantElement": true,
+        "grantEquivalent": 60000000
+      },
+      {
+        "windowName": "Cocoa & Agricultural Value Chain Window",
+        "windowType": "AgroProcessingFacility",
+        "allocatedAmount": 220000000,
+        "currency": "USD",
+        "interestRate": 2.7,
+        "gracePeriodYears": 5,
+        "maturityYears": 25,
+        "isGrantElement": false,
+        "grantEquivalent": 0
+      },
+      {
+        "windowName": "Digital Financial Inclusion Grant",
+        "windowType": "TechnicalAssistance",
+        "allocatedAmount": 30000000,
+        "currency": "USD",
+        "interestRate": 0.0,
+        "gracePeriodYears": 0,
+        "maturityYears": 0,
+        "isGrantElement": true,
+        "grantEquivalent": 30000000
+      }
+    ],
+    "strategicPillars": [
+      "Macroeconomic Stabilization & Debt Resilience",
+      "Agricultural Commercialization & Processing",
+      "Digital Public Infrastructure & SME Growth"
+    ],
+    "highLevelObjectives": [
+      "Boost local cocoa and cashew processing value addition to 50%",
+      "Enhance tax administration digitalization and debt sustainability monitoring",
+      "Expand mobile money interoperability and micro-insurance coverage"
+    ],
+    "crossCuttingThemes": [
+      "SME Resilience",
+      "Climate Smart Agriculture",
+      "Governance Reform"
+    ],
+    "governmentCounterpart": "Ministry of Finance Ghana",
+    "countryDirector": "Ejerome Berndt",
+    "countryEconomist": "Kwaku Osei",
+    "status": "Implementation",
+    "preparedDate": "2025-09-01T00:00:00Z",
+    "midTermReviewDate": "2028-05-31T00:00:00Z",
+    "completionReportDate": "2030-12-31T00:00:00Z",
+    "createdAt": "2025-09-15T00:00:00Z"
+  }
+]
